@@ -1,0 +1,265 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• alternative
+• average
+• bright
+• crowded
+• direct
+• electric
+• helpful
+• human
+• individual
+• informal
+• international
+• major
+• medical
+• physical
+• surprising
+• teenage
+• thick
+
+ADV words:
+----------------------------------------
+• differently
+• everyday
+• formal
+• recently
+• sadly
+• secondly
+
+AUX words:
+----------------------------------------
+• including
+
+NOUN words:
+----------------------------------------
+• advertising
+• airline
+• architecture
+• attack
+• author
+• award
+• bar
+• beef
+• birth
+• castle
+• cause
+• church
+• circle
+• clothing
+• column
+• community
+• context
+• crime
+• device
+• disaster
+• discovery
+• downstairs → downstair
+• drug
+• earth
+• education
+• effect
+• error
+• experiment
+• express
+• expression
+• factor
+• fan
+• fear
+• feature
+• flu
+• gap
+• gift
+• greet
+• gun
+• habit
+• image
+• injury
+• laughter
+• law
+• lifestyle
+• listener
+• movement
+• musician
+• network
+• nut
+• organisation
+• peace
+• personality
+• population
+• possession
+• process
+• profile
+• pub
+• quality
+• quantity
+• refer
+• researcher
+• response
+• schedule
+• secretary
+• smoke
+• smoking
+• society
+• source
+• speech
+• state
+• strategy
+• structure
+• survey
+• symbol
+• target
+• thief
+• thinking
+• tool
+• tradition
+• traveller
+• understanding
+• valley
+• working
+
+VERB words:
+----------------------------------------
+• benefit
+• divorced → divorce
+• ideal
+• realize
+• singing → singe
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 2441
+• Known lemmas in text: 627
+• New lemmas found in text: 113
+• New lemmas added to database: 113
+• Total words in database after analysis: 2554
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 7
+• Paragraph Count: 1
+• Avg Sentence Length: 130.14
+• Flesch Kincaid Grade: 57.77
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+run                 3         0.40           
+belong              2         0.27           
+connect             2         0.27           
+drive               2         0.27           
+fly                 2         0.27           
+heavy               2         0.27           
+light               2         0.27           
+ring                2         0.27           
+well                2         0.27           
+worry               2         0.27           
+ability             1         0.13           
+able                1         0.13           
+abroad              1         0.13           
+accept              1         0.13           
+accident            1         0.13           
+accord              1         0.13           
+achieve             1         0.13           
+act                 1         0.13           
+active              1         0.13           
+actually            1         0.13           
+adult               1         0.13           
+advantage           1         0.13           
+adventure           1         0.13           
+advertise           1         0.13           
+advertisement       1         0.13           
+advertising         1         0.13           
+affect              1         0.13           
+airline             1         0.13           
+alive               1         0.13           
+allow               1         0.13           
+alternative         1         0.13           
+ancient             1         0.13           
+animal              1         0.13           
+ankle               1         0.13           
+anybody             1         0.13           
+app                 1         0.13           
+appear              1         0.13           
+appearance          1         0.13           
+apply               1         0.13           
+architect           1         0.13           
+architecture        1         0.13           
+argument            1         0.13           
+army                1         0.13           
+arrange             1         0.13           
+arrangement         1         0.13           
+asleep              1         0.13           
+assistant           1         0.13           
+athlete             1         0.13           
+attack              1         0.13           
+attend              1         0.13           
+attention           1         0.13           
+attractive          1         0.13           
+audience            1         0.13           
+author              1         0.13           
+available           1         0.13           
+average             1         0.13           
+avoid               1         0.13           
+award               1         0.13           
+awful               1         0.13           
+background          1         0.13           
+badly               1         0.13           
+bar                 1         0.13           
+base                1         0.13           
+baseball            1         0.13           
+basketball          1         0.13           
+bean                1         0.13           
+beat                1         0.13           
+beef                1         0.13           
+behaviour           1         0.13           
+belt                1         0.13           
+benefit             1         0.13           
+biology             1         0.13           
+birth               1         0.13           
+biscuit             1         0.13           
+bit                 1         0.13           
+blank               1         0.13           
+blood               1         0.13           
+bone                1         0.13           
+book                1         0.13           
+borrow              1         0.13           
+boss                1         0.13           
+bowl                1         0.13           
+break               1         0.13           
+bright              1         0.13           
+brilliant           1         0.13           
+brush               1         0.13           
+burn                1         0.13           
+businessman         1         0.13           
+button              1         0.13           
+camp                1         0.13           
+camping             1         0.13           
+care                1         0.13           
+careful             1         0.13           
+carefully           1         0.13           
+carpet              1         0.13           
+cartoon             1         0.13           
+case                1         0.13           
+cash                1         0.13           
+castle              1         0.13           
+right               1         0.13           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+3              1              run
+2              9              belong, connect, drive, fly, heavy, ... (4 more)
+1              90             ability, able, abroad, accept, accident, ... (85 more)

@@ -1,0 +1,413 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• academic
+• alcoholic
+• ambitious
+• aware
+• competitive
+• complex
+• continuous
+• cultural
+• definite
+• determined
+• drunk
+• eastern
+• economic
+• educational
+• effective
+• equal
+• essential
+• experienced
+• fascinating
+• historic
+• historical
+• illegal
+• imaginary
+• immediate
+• impressive
+• indirect
+• indoor
+• innocent
+• involved
+• legal
+• mental
+• native
+• northern
+• nuclear
+• odd
+• official
+• poisonous
+• practical
+• private
+• qualify
+• religious
+• royal
+• scientific
+• sexual
+• shy
+• solid
+• southern
+• standard
+• stranger
+• sudden
+• talented
+• technical
+• unnecessary
+• viewer
+• violent
+
+ADP words:
+----------------------------------------
+• unlike
+
+ADV words:
+----------------------------------------
+• currently
+• effectively
+• equally
+• eventually
+• heavily
+• highly
+• mainly
+• naturally
+• necessarily
+• similarly
+• simply
+• strongly
+• successfully
+• surely
+• western
+• worldwide
+
+AUX words:
+----------------------------------------
+• warn
+
+NOUN words:
+----------------------------------------
+• account
+• admire
+• agreement
+• album
+• alcohol
+• analysis
+• assignment
+• authority
+• battery
+• battle
+• belief
+• bomb
+• branch
+• bride
+• bubble
+• bury
+• campaign
+• campus
+• celebration
+• chapter
+• cheat
+• chemical
+• childhood
+• claim
+• clause
+• client
+• cloth
+• clue
+• coal
+• coin
+• commercial
+• comparison
+• complaint
+• consequence
+• consumer
+• contact
+• container
+• contrast
+• current
+• decade
+• definition
+• determine
+• diamond
+• dirt
+• disadvantage
+• discount
+• divide
+• dust
+• earthquake
+• economy
+• edge
+• editor
+• election
+• element
+• emotion
+• engineering
+• entertain
+• entertainment
+• entry
+• episode
+• expand
+• explosion
+• export
+• fence
+• fighting
+• force
+• function
+• gather
+• gentleman
+• ghost
+• grade
+• graduate
+• grain
+• growth
+• highlight
+• host
+• hunt
+• hurricane
+• immigrant
+• impact
+• import
+• impression
+• indoors → indoor
+• intelligence
+• intention
+• kiss
+• lay
+• layer
+• loss
+• management
+• marketing
+• mixture
+• mood
+• mud
+• murder
+• muscle
+• mystery
+• nail
+• narrative
+• nation
+• occasion
+• organiser
+• package
+• passion
+• payment
+• percentage
+• plot
+• poison
+• policy
+• port
+• portrait
+• pour
+• poverty
+• powder
+• prediction
+• pressure
+• priest
+• prince
+• princess
+• printing
+• producer
+• profit
+• protest
+• punishment
+• quotation
+• reaction
+• recommendation
+• relaxing
+• release
+• religion
+• represent
+• resource
+• responsibility
+• risk
+• safety
+• sample
+• script
+• seed
+• servant
+• shift
+• signal
+• similarity
+• soil
+• spirit
+• strength
+• substance
+• summary
+• symptom
+• tape
+• tax
+• theory
+• treatment
+• victim
+• weapon
+• yard
+
+VERB words:
+----------------------------------------
+• apologize
+• appreciate
+• bend
+• combine
+• commit
+• conclude
+• consume
+• define
+• donate
+• educate
+• educated → educate
+• examine
+• ignore
+• indicate
+• invest
+• investigate
+• needle
+• occur
+• participate
+• pot
+• pretend
+• qualified → qualify
+• reflect
+• reject
+• spread
+• summarise
+• survive
+• tend
+• warning → warn
+• weigh
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 2554
+• Known lemmas in text: 480
+• New lemmas found in text: 254
+• New lemmas added to database: 254
+• Total words in database after analysis: 2808
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 3
+• Paragraph Count: 1
+• Avg Sentence Length: 281.67
+• Flesch Kincaid Grade: 119.05
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+set                 3         0.40           
+annoy               2         0.27           
+breathe             2         0.27           
+cover               2         0.27           
+educate             2         0.27           
+frighten            2         0.27           
+indoor              2         0.27           
+injure              2         0.27           
+lead                2         0.27           
+lie                 2         0.27           
+live                2         0.27           
+locate              2         0.27           
+qualify             2         0.27           
+race                2         0.27           
+relate              2         0.27           
+repeat              2         0.27           
+retire              2         0.27           
+warn                2         0.27           
+absolutely          1         0.13           
+academic            1         0.13           
+access              1         0.13           
+accommodation       1         0.13           
+account             1         0.13           
+achievement         1         0.13           
+act                 1         0.13           
+addition            1         0.13           
+admire              1         0.13           
+admit               1         0.13           
+advanced            1         0.13           
+advise              1         0.13           
+afford              1         0.13           
+age                 1         0.13           
+aged                1         0.13           
+agent               1         0.13           
+agreement           1         0.13           
+ahead               1         0.13           
+aim                 1         0.13           
+alarm               1         0.13           
+album               1         0.13           
+alcohol             1         0.13           
+alcoholic           1         0.13           
+alternative         1         0.13           
+amazed              1         0.13           
+ambition            1         0.13           
+ambitious           1         0.13           
+analysis            1         0.13           
+announce            1         0.13           
+announcement        1         0.13           
+annoyed             1         0.13           
+apart               1         0.13           
+apologize           1         0.13           
+application         1         0.13           
+appointment         1         0.13           
+appreciate          1         0.13           
+approximately       1         0.13           
+arrest              1         0.13           
+arrival             1         0.13           
+assignment          1         0.13           
+assist              1         0.13           
+atmosphere          1         0.13           
+attach              1         0.13           
+attitude            1         0.13           
+attract             1         0.13           
+attraction          1         0.13           
+authority           1         0.13           
+average             1         0.13           
+award               1         0.13           
+aware               1         0.13           
+backwards           1         0.13           
+base                1         0.13           
+basic               1         0.13           
+basis               1         0.13           
+battery             1         0.13           
+battle              1         0.13           
+beauty              1         0.13           
+belief              1         0.13           
+bend                1         0.13           
+benefit             1         0.13           
+bite                1         0.13           
+block               1         0.13           
+board               1         0.13           
+bomb                1         0.13           
+border              1         0.13           
+bother              1         0.13           
+branch              1         0.13           
+brave               1         0.13           
+breath              1         0.13           
+bride               1         0.13           
+bubble              1         0.13           
+bury                1         0.13           
+calm                1         0.13           
+campaign            1         0.13           
+campus              1         0.13           
+candidate           1         0.13           
+cap                 1         0.13           
+captain             1         0.13           
+careless            1         0.13           
+category            1         0.13           
+ceiling             1         0.13           
+well                1         0.13           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+3              1              set
+2              17             annoy, breathe, cover, educate, frighten, ... (12 more)
+1              82             absolutely, academic, access, accommodation, account, ... (77 more)

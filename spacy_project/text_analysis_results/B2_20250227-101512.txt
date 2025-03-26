@@ -1,0 +1,1036 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• abandon
+• absolute
+• abstract
+• accomplish
+• accurate
+• actual
+• additional
+• adequate
+• affordable
+• aggressive
+• apparent
+• applicant
+• armed
+• artificial
+• artistic
+• awkward
+• balanced
+• beneficial
+• bent
+• biological
+• capable
+• characteristic
+• civil
+• colorful
+• comparative
+• compulsory
+• concrete
+• confess
+• conscious
+• conservative
+• considerable
+• consistent
+• constant
+• contemporary
+• controversial
+• conventional
+• convincing
+• core
+• corporate
+• critical
+• critically
+• crucial
+• curved
+• deadly
+• decent
+• deliberate
+• delighted
+• democratic
+• dependent
+• depressing
+• derive
+• desperate
+• dishonest
+• dismiss
+• distant
+• distinct
+• distinguish
+• diverse
+• domestic
+• dominant
+• dramatic
+• dynamic
+• eager
+• elegant
+• emerge
+• emotional
+• emotionally
+• entertaining
+• enthusiastic
+• entire
+• equivalent
+• ethic
+• ethical
+• ethnic
+• evident
+• evil
+• excessive
+• executive
+• exotic
+• extensive
+• fabulous
+• fake
+• fellow
+• flexible
+• fundamental
+• furious
+• genetic
+• genuine
+• grand
+• harmful
+• hilarious
+• hollow
+• holy
+• homeless
+• honesty
+• humorous
+• identical
+• immune
+• impatient
+• inevitable
+• inhabitant
+• inner
+• innovative
+• intellectual
+• intense
+• internal
+• joint
+• junior
+• lean
+• literary
+• logical
+• loyal
+• martial
+• massive
+• mechanical
+• memorable
+• minor
+• mixed
+• modest
+• multiple
+• mysterious
+• naked
+• neutral
+• numerous
+• objective
+• offensive
+• ongoing
+• optimistic
+• organic
+• outstanding
+• parallel
+• participant
+• perceive
+• pointed
+• potential
+• precious
+• precise
+• predictable
+• presidential
+• prime
+• principle
+• prior
+• probable
+• progressive
+• prompt
+• proof
+• psychological
+• pursuit
+• racial
+• racist
+• random
+• rapid
+• receiver
+• regional
+• relevant
+• remarkable
+• representative
+• ridiculous
+• risky
+• rival
+• rural
+• secure
+• senior
+• severe
+• sexy
+• shallow
+• shocking
+• significant
+• sincere
+• skilled
+• slight
+• solar
+• sophisticated
+• spectacular
+• spiritual
+• stable
+• stare
+• steady
+• stiff
+• stimulate
+• stunning
+• sufficient
+• super
+• sustainable
+• swallow
+• swear
+• sympathetic
+• technological
+• thorough
+• tough
+• tragic
+• tropical
+• ultimate
+• unacceptable
+• unconscious
+• unfortunate
+• unique
+• upwards
+• urban
+• useless
+• valid
+• vast
+• virtual
+• visible
+• visual
+• vital
+• voluntary
+• wealthy
+• weird
+• widespread
+
+ADP words:
+----------------------------------------
+• alongside
+
+ADV words:
+----------------------------------------
+• accidentally
+• accurately
+• additionally
+• adequately
+• apparently
+• appropriately
+• barely
+• basically
+• briefly
+• broadly
+• closely
+• commonly
+• consequently
+• considerably
+• consistently
+• constantly
+• deeply
+• desperately
+• downwards
+• dramatically
+• efficiently
+• entirely
+• erupt
+• essentially
+• extensively
+• firmly
+• freely
+• fundamentally
+• furthermore
+• genuinely
+• gradually
+• greatly
+• increasingly
+• inevitably
+• initially
+• instantly
+• largely
+• likewise
+• literally
+• lower
+• nearby
+• newly
+• openly
+• permanently
+• precisely
+• primarily
+• purely
+• rapidly
+• relatively
+• remarkably
+• roughly
+• severely
+• significantly
+• somewhat
+• steadily
+• strictly
+• subsequently
+• sufficiently
+• temporarily
+• thoroughly
+• truly
+• ultimately
+• universal
+• widely
+
+AUX words:
+----------------------------------------
+• oppose
+
+NOUN words:
+----------------------------------------
+• accountant
+• accuracy
+• adapt
+• addiction
+• administration
+• affair
+• agriculture
+• aid
+• aircraft
+• analyst
+• ancestor
+• animation
+• anxiety
+• approval
+• arrow
+• artwork
+• aspect
+• assessment
+• asset
+• assistance
+• associate
+• assumption
+• assure
+• attachment
+• audio
+• awareness
+• bacteria
+• badge
+• ballet
+• barrier
+• basket
+• beg
+• bet
+• bias
+• bid
+• bombing
+• bond
+• breast
+• brick
+• broadcast
+• broadcaster
+• buck
+• budget
+• bullet
+• cable
+• calculate
+• canal
+• cancer
+• capacity
+• capture
+• carbon
+• certainty
+• chairman
+• chart
+• chase
+• cheer
+• circuit
+• circumstance
+• citizen
+• civilization
+• clarify
+• classic
+• coincidence
+• collapse
+• collector
+• colony
+• combination
+• command
+• committee
+• completion
+• component
+• concentration
+• concept
+• concern
+• conduct
+• confidence
+• conflict
+• confusion
+• conservation
+• consideration
+• conspiracy
+• construction
+• consumption
+• contribute
+• contribution
+• controversy
+• convenience
+• convention
+• convert
+• convey
+• cop
+• corporation
+• coverage
+• cowboy
+• crack
+• creation
+• creativity
+• crisis
+• criterion
+• critic
+• criticism
+• crop
+• cue
+• curve
+• dairy
+• darkness
+• database
+• deadline
+• dealer
+• debate
+• debt
+• deck
+• decline
+• decoration
+• defence
+• defend
+• defender
+• demand
+• democracy
+• demonstration
+• depression
+• desire
+• destruction
+• detail
+• determination
+• devote
+• dime
+• disability
+• disagreement
+• disappointment
+• discipline
+• discourage
+• disorder
+• distribution
+• district
+• diversity
+• division
+• dominate
+• donation
+• draft
+• drought
+• dump
+• duration
+• economist
+• editorial
+• elect
+• embrace
+• emission
+• emphasis
+• empire
+• encounter
+• enthusiasm
+• entrepreneur
+• era
+• estate
+• estimate
+• evaluate
+• evaluation
+• evolution
+• evolve
+• exclude
+• existence
+• expansion
+• expectation
+• expense
+• expertise
+• exploit
+• exploration
+• exposure
+• extend
+• extension
+• extent
+• extract
+• fabric
+• faculty
+• failure
+• faith
+• fantasy
+• feedback
+• finance
+• flame
+• flash
+• flavor
+• folding
+• fool
+• format
+• formation
+• fortune
+• fossil
+• foundation
+• founder
+• fraction
+• fragment
+• framework
+• fraud
+• freedom
+• fulfill
+• fund
+• gallon
+• gaming
+• gang
+• gender
+• gene
+• genius
+• globalization
+• govern
+• greenhouse
+• guarantee
+• guideline
+• habitat
+• harbor
+• headquarters
+• heal
+• healthcare
+• historian
+• honour
+• hook
+• household
+• humour
+• hypothesis
+• icon
+• illusion
+• illustrate
+• illustration
+• implement
+• implication
+• incentive
+• incident
+• income
+• independence
+• index
+• indication
+• infection
+• inflation
+• info
+• infrastructure
+• inherit
+• initiative
+• innovation
+• input
+• insight
+• installation
+• instant
+• institution
+• insurance
+• interact
+• interaction
+• interpret
+• interpretation
+• invasion
+• investigation
+• investment
+• investor
+• isolate
+• journalism
+• joy
+• jury
+• justice
+• labour
+• landscape
+• lane
+• launch
+• leadership
+• legend
+• lens
+• lifetime
+• lighting
+• limitation
+• load
+• loan
+• lung
+• lyric
+• magnificent
+• majority
+• makeup
+• manufacture
+• manufacturing
+• marathon
+• margin
+• marker
+• mass
+• master
+• matching
+• maximum
+• measurement
+• mechanism
+• medal
+• medication
+• membership
+• metaphor
+• military
+• miner
+• minister
+• mission
+• mode
+• modify
+• monitor
+• mortgage
+• mosque
+• motion
+• motivation
+• multiply
+• myth
+• navigation
+• necessity
+• negotiate
+• negotiation
+• nerve
+• nickel
+• nightmare
+• notion
+• novelist
+• nursing
+• nutrition
+• obesity
+• obligation
+• observation
+• observer
+• obstacle
+• occupy
+• offence
+• offender
+• opponent
+• opposition
+• orchestra
+• organ
+• origin
+• outfit
+• outline
+• output
+• ownership
+• oxygen
+• pace
+• panel
+• panic
+• parade
+• parliament
+• participation
+• partnership
+• passage
+• passionate
+• patch
+• patience
+• pause
+• peer
+• penalty
+• pension
+• perception
+• perspective
+• phase
+• phenomenon
+• philosophy
+• physician
+• pile
+• placement
+• popularity
+• portion
+• possess
+• praise
+• preference
+• presence
+• pride
+• priority
+• privacy
+• probability
+• procedure
+• proceed
+• programming
+• promotion
+• proportion
+• proposal
+• psychologist
+• psychology
+• publication
+• publicity
+• punk
+• purchase
+• racism
+• radiation
+• rank
+• rat
+• rating
+• recall
+• recession
+• reckon
+• recognition
+• recovery
+• recruit
+• reduction
+• referee
+• refugee
+• regulate
+• regulation
+• relief
+• remark
+• reputation
+• requirement
+• resist
+• resolution
+• resolve
+• restore
+• restriction
+• revenue
+• revision
+• rob
+• robbery
+• root
+• rub
+• rush
+• satellite
+• satisfaction
+• satisfy
+• scale
+• scandal
+• scheme
+• scholar
+• scholarship
+• scratch
+• sector
+• seeker
+• selection
+• seminar
+• sequence
+• settler
+• shame
+• shelter
+• shore
+• shortage
+• sidewalk
+• significance
+• silk
+• skull
+• slave
+• slogan
+• slope
+• soul
+• specialist
+• spectator
+• speculation
+• spill
+• spokesman
+• spokesperson
+• sponsor
+• sponsorship
+• starve
+• status
+• steam
+• steel
+• stock
+• stretch
+• stroke
+• struggle
+• submit
+• suburb
+• suffering
+• surgeon
+• surgery
+• survival
+• survivor
+• suspect
+• sweep
+• tag
+• tale
+• tank
+• teen
+• temple
+• tendency
+• tension
+• terminal
+• territory
+• terror
+• terrorism
+• terrorist
+• testing
+• theft
+• therapist
+• therapy
+• thesis
+• threat
+• threaten
+• tissue
+• tone
+• trace
+• trading
+• tragedy
+• trait
+• transfer
+• transform
+• transition
+• trap
+• trial
+• tribe
+• trigger
+• troop
+• tsunami
+• uncertainty
+• unfold
+• unite
+• unity
+• universe
+• urge
+• variation
+• venue
+• vertical
+• victory
+• viewpoint
+• violence
+• vision
+• vitamin
+• voting
+• weakness
+• wealth
+• welfare
+• wheat
+• wildlife
+• wire
+• wisdom
+• witness
+• wound
+• wrist
+
+VERB words:
+----------------------------------------
+• absorb
+• accommodate
+• accuse
+• acknowledge
+• acquire
+• activate
+• adjust
+• adopt
+• alter
+• anticipate
+• appeal
+• arise
+• assess
+• astonishing → astonish
+• bound → bind
+• boost
+• cite
+• classify
+• comprise
+• concerned → concern
+• construct
+• cope
+• criticize
+• dare
+• defeat
+• deny
+• detailed → detail
+• detect
+• differ
+• distribute
+• dive
+• eliminate
+• emphasize
+• enable
+• enhance
+• ensure
+• establish
+• exceed
+• expose
+• fault
+• fortunate
+• funding → fund
+• generate
+• genre
+• gesture
+• hesitate
+• imply
+• impose
+• incorporate
+• infer
+• integrate
+• invade
+• isolated → isolate
+• justify
+• making → make
+• melt
+• moving → move
+• obey
+• observe
+• obtain
+• opposed → oppose
+• outcome
+• overcome
+• pose
+• precede
+• preserve
+• propose
+• pursue
+• reinforce
+• restrict
+• retain
+• seek
+• settle
+• sibling → sible
+• specify
+• speculate
+• suspend
+• terrify
+• transmit
+• undergo
+• undertake
+• vary
+• wander
+• withdraw
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 2808
+• Known lemmas in text: 397
+• New lemmas found in text: 875
+• New lemmas added to database: 875
+• Total words in database after analysis: 3683
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 2
+• Paragraph Count: 1
+• Avg Sentence Length: 731.0
+• Flesch Kincaid Grade: 297.07
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+term                4         0.31           
+time                4         0.31           
+prep                3         0.23           
+adv                 2         0.15           
+challenge           2         0.15           
+concern             2         0.15           
+delight             2         0.15           
+detail              2         0.15           
+find                2         0.15           
+firm                2         0.15           
+fund                2         0.15           
+graphic             2         0.15           
+hunt                2         0.15           
+impress             2         0.15           
+isolate             2         0.15           
+oppose              2         0.15           
+relieve             2         0.15           
+screen              2         0.15           
+shape               2         0.15           
+shock               2         0.15           
+shoot               2         0.15           
+strike              2         0.15           
+surround            2         0.15           
+abandon             1         0.08           
+absolute            1         0.08           
+absorb              1         0.08           
+abstract            1         0.08           
+academic            1         0.08           
+accent              1         0.08           
+acceptable          1         0.08           
+accidentally        1         0.08           
+accommodate         1         0.08           
+accommodation       1         0.08           
+accompany           1         0.08           
+accomplish          1         0.08           
+account             1         0.08           
+accountant          1         0.08           
+accuracy            1         0.08           
+accurate            1         0.08           
+accurately          1         0.08           
+accuse              1         0.08           
+acknowledge         1         0.08           
+acquire             1         0.08           
+activate            1         0.08           
+actual              1         0.08           
+adapt               1         0.08           
+addiction           1         0.08           
+additional          1         0.08           
+additionally        1         0.08           
+address             1         0.08           
+adequate            1         0.08           
+adequately          1         0.08           
+adjust              1         0.08           
+administration      1         0.08           
+adopt               1         0.08           
+advance             1         0.08           
+affair              1         0.08           
+affordable          1         0.08           
+aged                1         0.08           
+agency              1         0.08           
+aggressive          1         0.08           
+agriculture         1         0.08           
+aid                 1         0.08           
+aircraft            1         0.08           
+alarm               1         0.08           
+alongside           1         0.08           
+alter               1         0.08           
+altogether          1         0.08           
+ambitious           1         0.08           
+ambulance           1         0.08           
+amusing             1         0.08           
+analyst             1         0.08           
+ancestor            1         0.08           
+animation           1         0.08           
+anniversary         1         0.08           
+anticipate          1         0.08           
+anxiety             1         0.08           
+anxious             1         0.08           
+apology             1         0.08           
+apparent            1         0.08           
+apparently          1         0.08           
+appeal              1         0.08           
+applicant           1         0.08           
+approach            1         0.08           
+appropriate         1         0.08           
+appropriately       1         0.08           
+approval            1         0.08           
+approve             1         0.08           
+arise               1         0.08           
+arm                 1         0.08           
+armed               1         0.08           
+arrow               1         0.08           
+artificial          1         0.08           
+artistic            1         0.08           
+artwork             1         0.08           
+ashamed             1         0.08           
+aspect              1         0.08           
+assess              1         0.08           
+assessment          1         0.08           
+asset               1         0.08           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+4              2              term, time
+3              1              prep
+2              20             adv, challenge, concern, delight, detail, ... (15 more)
+1              77             abandon, absolute, absorb, abstract, academic, ... (72 more)

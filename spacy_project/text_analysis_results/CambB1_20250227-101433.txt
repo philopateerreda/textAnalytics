@@ -1,0 +1,2487 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• abbrev
+• absent
+• acceptable
+• active
+• advanced
+• advanced
+• advanced
+• aged
+• aged
+• alive
+• alphabetical
+• alphabetical
+• amazed
+• amazed
+• american
+• american
+• amusing
+• amusing
+• ancient
+• annoyed
+• antique
+• anxious
+• anxious
+• appropriate
+• arithmetic
+• ashamed
+• assistant
+• attractive
+• available
+• available
+• awful
+• awful
+• awful
+• basic
+• bitter
+• bitter
+• blank
+• blank
+• blind
+• bold
+• bossy
+• brief
+• british
+• british
+• broad
+• calm
+• calm
+• careless
+• cathedral
+• cellar
+• centigrade
+• central
+• central
+• certain
+• charming
+• charming
+• cheerful
+• cheerful
+• classical
+• classical
+• classical
+• clear
+• clear
+• clear
+• comfortable
+• comfortable
+• compete
+• complicated
+• confident
+• confident
+• confused
+• confusing
+• consonant
+• convenient
+• crazy
+• crazy
+• creative
+• criminal
+• cruel
+• curious
+• curious
+• cute
+• dead
+• dead
+• decorate
+• delete
+• delete
+• depressed
+• digital
+• digital
+• disabled
+• disabled
+• disappointed
+• disappointing
+• disappointing
+• disgusting
+• dull
+• east
+• easygoing
+• efficient
+• elder → eld
+• elderly
+• electrical
+• elementary
+• embarrassed
+• embarrassed
+• embarrassing
+• enjoyable
+• enjoyable
+• environmental
+• exact
+• exclam
+• exhausted
+• exhaustive
+• external
+• extraordinary
+• extreme
+• extreme
+• familiar
+• fancy
+• fancy
+• fashionable
+• fashioned
+• fashioned
+• fashioned
+• female
+• female
+• financial
+• financial
+• fit
+• fit
+• fit
+• fit
+• fit
+• fit
+• fit
+• fit
+• fond
+• fond
+• foreign
+• french
+• french
+• frequent
+• fresh
+• fresh
+• frozen
+• furthest → furth
+• general
+• generous
+• generous
+• gentle
+• glad
+• glad
+• global
+• golden
+• gorgeous
+• grateful
+• grill
+• guilty
+• guilty
+• handsome
+• honest
+• hopeful
+• hopeless
+• hopeless
+• icy
+• icy
+• impossible
+• incorrect
+• incredible
+• inexpensive
+• initial
+• intelligent
+• intelligent
+• intermediate
+• intermediate
+• interrupt
+• jealous
+• jealous
+• keen
+• keen
+• keen
+• keen
+• keen
+• laundry
+• left
+• likely
+• limited
+• limited
+• literal
+• literal
+• lively
+• lonely
+• loose
+• mad
+• mad
+• magic
+• male
+• male
+• marvellous
+• messy
+• mild
+• mild
+• miserable
+• miserable
+• mobile
+• multi
+• musical
+• musical
+• narrow
+• nasty
+• national
+• neat
+• necessary
+• nervous
+• nervous
+• nervous
+• nervous
+• normal
+• normal
+• northeast
+• obvious
+• ordinary
+• ordinary
+• original
+• original
+• original
+• outdoor
+• outer
+• painful
+• painful
+• pale
+• particular
+• particular
+• patient
+• patient
+• peaceful
+• permanent
+• plain
+• plain
+• plain
+• pleasant
+• pleasant
+• pleased
+• plenty
+• polite
+• political
+• powerful
+• pregnant
+• preliminary
+• prepared
+• prepositional
+• previous
+• primary
+• primary
+• principal
+• productive
+• productive
+• productive
+• professional
+• professional
+• proper
+• proud
+• public
+• public
+• public
+• public
+• public
+• public
+• public
+• public
+• pure
+• qualified
+• rare
+• raw
+• raw
+• realistic
+• realistic
+• reasonable
+• reasonable
+• reasonable
+• recent
+• receptive
+• receptive
+• relaxed
+• relaxed
+• reliable
+• remote
+• remote
+• responsible
+• romantic
+• romantic
+• rough
+• rough
+• rough
+• rough
+• rude
+• rude
+• satisfactory
+• satisfied
+• satisfied
+• secondary
+• secondary
+• secondary
+• select
+• selfie
+• selfish
+• sensible
+• sensitive
+• separate
+• sharp
+• sharp
+• sharp
+• sharp
+• shiny
+• silent
+• simple
+• single
+• single
+• single
+• single
+• single
+• singular
+• situated
+• slim
+• slim
+• smart
+• smart
+• smart
+• smart
+• smooth
+• smooth
+• smooth
+• sociable
+• social
+• sour
+• sour
+• sour
+• spare
+• spare
+• spare
+• specific
+• steep
+• sticky
+• stressful
+• strict
+• strict
+• stupid
+• stupid
+• successful
+• suitable
+• suitable
+• sunbathe
+• sympathy
+• tasty
+• temporary
+• tense
+• terrific
+• terrified
+• tight
+• tight
+• tiny
+• total
+• traditional
+• transparent
+• twin
+• typical
+• typical
+• unable
+• unable
+• uncomfortable
+• underground
+• underground
+• underground
+• underground
+• underline
+• undress
+• undress
+• unemployed
+• unemployed
+• unexpected
+• unfit
+• unhealthy
+• unimportant
+• uninterested
+• unknown
+• unlikely
+• unlikely
+• unlucky
+• unmarried
+• unpleasant
+• unsuitable
+• unwell
+• upper
+• upset
+• urgent
+• usual
+• valuable
+• vowel
+• waitress
+• waitress
+• wide
+• wide
+• willing
+• windscreen
+• wise
+• wooden
+
+ADP words:
+----------------------------------------
+• beneath
+• minus
+• underneath
+• versus
+• versus
+
+ADV words:
+----------------------------------------
+• abroad
+• abroad
+• absolutely
+• absolutely
+• ahead
+• alike
+• altogether
+• anymore
+• apart
+• apart
+• approximately
+• awesome
+• backwards
+• certainly
+• cleaner
+• clearly
+• completely
+• completely
+• completely
+• correctly
+• curiously
+• curiously
+• daily
+• definitely
+• deliberately
+• directly
+• directly
+• easily
+• especially
+• exactly
+• extremely
+• fairly
+• finally
+• forever
+• fortunately
+• forward
+• forward
+• forward
+• forward
+• forward
+• frequently
+• fully
+• generally
+• generally
+• happily
+• hardly
+• hardly
+• hardly
+• hardly
+• honestly
+• honestly
+• hopefully
+• hopefully
+• immediately
+• incredibly
+• incredibly
+• lately
+• luckily
+• nearly
+• normally
+• notepaper
+• nowadays
+• obviously
+• occasionally
+• originally
+• outdoors
+• overnight
+• particularly
+• partly
+• perfectly
+• personally
+• possibly
+• potentially
+• previously
+• properly
+• properly
+• properly
+• rarely
+• reasonably
+• regularly
+• regularly
+• safely
+• seriously
+• shortly
+• sincerely
+• sincerely
+• slightly
+• specially
+• terribly
+• totally
+• typically
+• underground
+• unfortunately
+• urgently
+
+AUX words:
+----------------------------------------
+• ought
+
+CCONJ words:
+----------------------------------------
+• plus
+
+NOUN words:
+----------------------------------------
+• abbreviation
+• absent
+• accent
+• accent
+• access
+• access
+• access
+• access
+• access
+• accident
+• accident
+• accident
+• accident
+• accommodation
+• accommodation
+• accommodation
+• achievement
+• acronym
+• addition
+• addition
+• addition
+• admission
+• admission
+• advance
+• advance
+• advantage
+• advert
+• advert
+• advertise
+• advertisement
+• advertisement
+• advertisement
+• aeroplane
+• aeroplane
+• agency
+• agent
+• agent
+• air
+• air
+• air
+• air
+• air
+• alarm
+• alarm
+• alarm
+• ambition
+• ankle
+• anniversary
+• announcement
+• apology
+• appearance
+• application
+• application
+• application
+• appointment
+• appointment
+• appointment
+• approach
+• architect
+• architect
+• argument
+• army
+• army
+• arrange
+• arrangement
+• arrival
+• arrival
+• aspirin
+• aspirin
+• assistant
+• assistant
+• athlete
+• athlete
+• athlete
+• athletics → athletic
+• atmosphere
+• attempt
+• attention
+• attitude
+• attraction
+• audience
+• background
+• background
+• backpacker
+• backpacker
+• baggage
+• bananas → banana
+• bank
+• barbecue
+• bargain
+• basis
+• bathing
+• bathing
+• bathing
+• beauty
+• beginner
+• beginner
+• beginning
+• behaviour
+• bell
+• bestseller
+• bill
+• biology
+• block
+• block
+• block
+• block
+• block
+• blogger
+• blood
+• blouse
+• blow
+• board
+• board
+• board
+• board
+• boarding
+• bone
+• booking
+• booking
+• bookstore
+• bookstore
+• border
+• border
+• boss
+• box
+• boyfriend
+• brain
+• breath
+• breath
+• breathe
+• breeze
+• broccoli
+• broccoli
+• brochure
+• brochure
+• bug
+• bug
+• bunch
+• bunch
+• bunch
+• button
+• button
+• buyer
+• cab
+• cab
+• cabin
+• cabin
+• cafeteria
+• calculator
+• calf
+• cambridgeesol
+• camping
+• camping
+• campsite
+• campsite
+• candle
+• captain
+• captain
+• cardboard
+• care
+• care
+• care
+• carpet
+• carpet
+• case
+• case
+• case
+• case
+• case
+• case
+• case
+• case
+• cash
+• cash
+• cash
+• cash
+• cashpoint
+• cashpoint
+• categories → category
+• cattle
+• ceiling
+• ceiling
+• celebrity
+• cell
+• cell
+• centimeter
+• ceremony
+• certificate
+• certificate
+• chain
+• chain
+• challenge
+• champion
+• championship
+• championship
+• chance
+• character
+• charges → charge
+• charity
+• charity
+• charter
+• chatroom
+• checkout
+• cheek
+• cheeks → cheek
+• chef
+• chef
+• chemistry
+• cheque
+• cheque
+• chest
+• chest
+• choice
+• choice
+• cigarette
+• climate
+• climbing
+• clip
+• clip
+• coach
+• coach
+• coach
+• coach
+• cod
+• collar
+• colleague
+• colleague
+• collection
+• collection
+• comedy
+• comedy
+• comfort
+• comment
+• comments → comment
+• competitor
+• competitor
+• composition
+• conclusion
+• condition
+• condition
+• conditioning
+• conference
+• conference
+• confirm
+• congratulations → congratulation
+• connection
+• connection
+• consult
+• consultants → consultant
+• consultation
+• content
+• contents → content
+• continent
+• continent
+• contract
+• control
+• control
+• control
+• convince
+• cooking
+• corn
+• corpus
+• cosy
+• cottage
+• cottage
+• cotton
+• cotton
+• couple
+• courage
+• court
+• court
+• crash
+• credit
+• credit
+• credit
+• credit
+• crew
+• crew
+• crew
+• cricket
+• crossing
+• crossing
+• crossing
+• crossroads → crossroad
+• crossroads → crossroad
+• crossroads → crossroad
+• crowd
+• cruise
+• cure
+• currency
+• currency
+• curriculum
+• curry
+• curtains → curtain
+• custom
+• customs → custom
+• customs → custom
+• customs → custom
+• cute
+• cycling
+• cycling
+• cycling
+• cyclist
+• cyclist
+• cyclist
+• damage
+• dancing
+• dancing
+• danger
+• danger
+• data → datum
+• deaf
+• deal
+• death
+• decision
+• decision
+• decrease
+• degree
+• degree
+• degree
+• degrees → degree
+• delay
+• delivery
+• depart
+• department
+• department
+• departure
+• departure
+• deposit
+• deposit
+• deposit
+• depth
+• depth
+• destination
+• destination
+• detective
+• dial
+• didn
+• didn
+• didn
+• difficulty
+• director
+• director
+• disc
+• disc
+• disc
+• disc
+• disc
+• discussion
+• discussion
+• disease
+• dishwasher
+• disk
+• disk
+• disk
+• disk
+• disk
+• dislikes → dislike
+• dislike
+• display
+• display
+• distance
+• disuse
+• diver
+• diving
+• documents → document
+• document
+• document
+• document
+• documentary
+• documentary
+• dot
+• dot
+• dot
+• download
+• drama
+• drama
+• drawers → drawer
+• drawer
+• drawers → drawer
+• drawer
+• duty
+• earring
+• earring
+• effort
+• electricity
+• electronic
+• embassy
+• emergency
+• employ
+• employee
+• employee
+• employer
+• employer
+• employment
+• employment
+• enemy
+• energy
+• energy
+• enquiry
+• essay
+• evidence
+• evidence
+• examination
+• examinations → examination
+• examination
+• examination
+• examination
+• exception
+• exchange
+• exchange
+• exchange
+• exchange
+• excitement
+• exclam
+• exclam
+• exclam
+• exclam
+• exclam
+• exhibition
+• exhibition
+• expedition
+• experience
+• experience
+• expert
+• explanation
+• explorer
+• explorers → explorer
+• explorer
+• facilities → facility
+• facilities → facility
+• facilities → facility
+• facilities → facility
+• fare
+• farming
+• farmland
+• fashion
+• fashion
+• fashion
+• fax
+• fee
+• ferry
+• fever
+• fever
+• fiction
+• figure
+• firefighter
+• firefighter
+• firework
+• fireworks → firework
+• firm
+• firm
+• fitness
+• fitness
+• flatmate
+• flood
+• flood
+• flute
+• focus
+• focus
+• fold
+• folder
+• folk
+• folk
+• footballer
+• footballer
+• forecast
+• fountain
+• frame
+• freeze
+• freezer
+• frequency
+• friendship
+• fuel
+• furniture
+• furniture
+• furniture
+• gain
+• gale
+• gallery
+• gallery
+• gallery
+• gallery
+• garage
+• garage
+• garage
+• garage
+• gas
+• gas
+• gas
+• gas
+• gas
+• gas
+• gas
+• generation
+• giant
+• goalkeeper
+• goalkeeper
+• government
+• grammar
+• grammar
+• grant
+• graphics → graphic
+• greeting
+• grill
+• grocery
+• grocery
+• groom
+• guard
+• guest
+• guest
+• guide
+• guide
+• guide
+• guide
+• guide
+• guide
+• guide
+• gum
+• gum
+• guy
+• gymnastics → gymnastic
+• hairdresser
+• hall
+• handkerchief
+• handlebars → handlebar
+• handwriting
+• happiness
+• harbour
+• hardware
+• hardware
+• harm
+• headings → heading
+• headline
+• headline
+• headline
+• headphones → headphone
+• heart
+• heart
+• heat
+• heat
+• heater
+• heating
+• heating
+• heating
+• heel
+• heels → heel
+• heel
+• heels → heel
+• height
+• hero
+• hero
+• heroine
+• heroine
+• heroine
+• hike
+• hip
+• hip
+• hire
+• hitchhike
+• homepage
+• horror
+• horror
+• horror
+• housewife
+• housework
+• hunger
+• identification
+• identity
+• illness
+• illness
+• illness
+• imagination
+• immigration
+• importance
+• improvement
+• inch
+• increase
+• industry
+• influence
+• inform
+• ing
+• ing
+• ingredient
+• ingredients → ingredient
+• ingredients → ingredient
+• initials → initial
+• injure
+• injure
+• ink
+• ink
+• install
+• install
+• instance
+• instance
+• instructions → instruction
+• instructions → instruction
+• instructions → instruction
+• instructions → instruction
+• instructor
+• instructor
+• instructor
+• interval
+• interval
+• introduction
+• invention
+• invention
+• iron
+• iron
+• issue
+• item
+• jail
+• jazz
+• jet
+• jet
+• jewellery
+• jewelry
+• jewelry
+• jockey
+• jockey
+• jogging
+• joke
+• joke
+• joke
+• judge
+• jug
+• keeper
+• kettle
+• kettle
+• knowledge
+• lab
+• lab
+• label
+• laboratory
+• ladder
+• lawyer
+• lawyer
+• lead
+• leader
+• leather
+• leather
+• lecture
+• lemons → lemon
+• lemon
+• lemon
+• len
+• length
+• lexis
+• licence
+• licence
+• licence
+• lightning
+• lightning
+• link
+• link
+• liter
+• litter
+• litter
+• location
+• lock
+• lock
+• logo
+• lottery
+• luck
+• luck
+• luggage
+• lunchtime
+• luxury
+• luxury
+• maker
+• maker
+• mall
+• mall
+• mall
+• marriage
+• marriage
+• mate
+• materials → material
+• material
+• material
+• meaning
+• meanings → meaning
+• meanings → meaning
+• meaning
+• meaning
+• meaning
+• meaning
+• measure
+• medium
+• media → medium
+• melon
+• memory
+• memory
+• memories → memory
+• memory
+• mention
+• mess
+• methods → method
+• microwave
+• microwave
+• microwave
+• microwave
+• millimeter
+• mineral
+• mineral
+• modal
+• monument
+• motor
+• motor
+• mushroom
+• nationalities → nationality
+• nationality
+• nature
+• nature
+• nature
+• nature
+• navy
+• neighbourhood
+• nephew
+• nightlife
+• notebook
+• notice
+• notice
+• notice
+• notice
+• noticeboard
+• novel
+• occupation
+• offer
+• oil
+• oil
+• opening
+• opening
+• opera
+• opera
+• opera
+• operation
+• operation
+• operator
+• operator
+• opportunity
+• option
+• owner
+• owner
+• packet
+• pain
+• pain
+• pain
+• painter
+• painter
+• painter
+• palace
+• pan
+• pan
+• pan
+• pants → pant
+• pants → pant
+• parcel
+• parking
+• parking
+• parking
+• parking
+• parking
+• parking
+• particles → particle
+• pass
+• pass
+• pass
+• password
+• password
+• patient
+• patient
+• patient
+• pattern
+• pattern
+• pedestrian
+• penfriend
+• penny
+• percent
+• performance
+• performance
+• performance
+• performer
+• perfume
+• permission
+• permit
+• petrol
+• petrol
+• petrol
+• petrol
+• petrol
+• petrol
+• petrol
+• pharmacy
+• photography
+• photography
+• photography
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phr
+• phrasal
+• physics
+• pill
+• pillow
+• pin
+• pipe
+• pitch
+• pitch
+• pity
+• pity
+• pleasure
+• plug
+• plug
+• plug
+• plug
+• podcast
+• podcast
+• podcast
+• poem
+• poet
+• poetry
+• politics → politic
+• politics → politic
+• politician
+• pollution
+• pollution
+• pollution
+• position
+• postage
+• power
+• prayer
+• preparation
+• prescription
+• prescription
+• prescription
+• presentation
+• presenter
+• presenter
+• presenter
+• president
+• preview
+• print
+• printer
+• printer
+• printer
+• prison
+• prison
+• prison
+• prison
+• prisoner
+• production
+• production
+• production
+• production
+• profession
+• profession
+• professor
+• programmer
+• progress
+• promise
+• promise
+• pronounce
+• pronounce
+• pronunciation
+• pronunciation
+• property
+• property
+• publisher
+• pullover
+• pullover
+• pump
+• pupil
+• pupil
+• purpose
+• purpose
+• purpose
+• purpose
+• purse
+• questionnaire
+• queue
+• rail
+• rail
+• rail
+• rail
+• raincoat
+• rainforest
+• range
+• rate
+• rate
+• reality
+• receipt
+• receipt
+• reception
+• reception
+• receptionist
+• receptionist
+• recipe
+• recipe
+• record
+• record
+• record
+• recording
+• recording
+• recording
+• recycle
+• recycle
+• recycle
+• recycling
+• recycling
+• reference
+• refrigerator
+• refund
+• regards → regard
+• region
+• register
+• registration
+• regret
+• relation
+• relationship
+• relative
+• relative
+• relaxation
+• rent
+• rent
+• rent
+• reply
+• reply
+• reporter
+• request
+• research
+• reservation
+• reserve
+• reserve
+• resort
+• respect
+• rest
+• rest
+• rest
+• retirement
+• review
+• review
+• rider
+• rider
+• rivers → river
+• river
+• river
+• roast
+• roast
+• role
+• roll
+• roll
+• roll
+• roll
+• romance
+• roommate
+• rope
+• roundabout
+• roundabout
+• route
+• route
+• row
+• rubbish
+• rubbish
+• rubbish
+• rugby
+• runners → runner
+• runner
+• running
+• sailing
+• sailing
+• sailor
+• salary
+• salary
+• sale
+• sale
+• sales → sale
+• salesman
+• saleswoman
+• saleswoman
+• sandal
+• sandal
+• scene
+• scenery
+• scenery
+• schoolgirl
+• scream
+• sculpture
+• seaside
+• season
+• season
+• security
+• self
+• sense
+• series
+• series
+• server
+• server
+• server
+• service
+• service
+• service
+• service
+• service
+• session
+• sex
+• sex
+• shade
+• shade
+• shadow
+• shave
+• sheet
+• sheet
+• sheet
+• sheets → sheet
+• sheet
+• sheet
+• sheet
+• shock
+• shock
+• shoot
+• shopper
+• sight
+• sight
+• sight
+• sight
+• sightseeing
+• sightseeing
+• sightseeing
+• sign
+• sign
+• sign
+• signs → sign
+• sign
+• sign
+• signature
+• silence
+• singing
+• sink
+• sink
+• site
+• sitting
+• size
+• skiing
+• skiing
+• skin
+• skin
+• slice
+• slice
+• slide
+• smartphone
+• smartphone
+• snowfall
+• softdrink
+• software
+• software
+• soldier
+• soldier
+• solution
+• sort
+• soundtrack
+• soundtrack
+• soundtrack
+• speaker
+• species → specie
+• specification
+• speed
+• spice
+• spinach
+• spite
+• spy
+• staff
+• stall
+• statue
+• steak
+• steak
+• steal
+• sth
+• sth
+• stick
+• stress
+• stress
+• stress
+• strike
+• string
+• studio
+• stuff
+• subway
+• subway
+• suggestion
+• suit
+• suit
+• suit
+• suit
+• suit
+• suits → suit
+• suit
+• suit
+• sum
+• sunrise
+• sunset
+• sunshine
+• supper
+• supply
+• support
+• support
+• supporter
+• surf
+• surface
+• surround
+• surround
+• sweatshirt
+• sweatshirt
+• swimmer
+• switch
+• switch
+• switch
+• system
+• takeaway
+• talent
+• tap
+• tap
+• tasty
+• technique
+• technology
+• technology
+• term
+• term
+• textbook
+• themes → theme
+• thoughts → thought
+• thought
+• thriller
+• thriller
+• throat
+• thumb
+• thumb
+• thunder
+• thunder
+• thunderstorm
+• tie
+• tie
+• tie
+• tie
+• tie
+• tights → tight
+• tights → tight
+• tights → tight
+• tin
+• tin
+• tip
+• tip
+• tip
+• toast
+• toast
+• toast
+• tomorrow
+• tongue
+• tourism
+• tournament
+• tower
+• tower
+• track
+• track
+• track
+• track
+• tracksuit
+• tracksuit
+• trade
+• training
+• translate
+• translate
+• translation
+• translation
+• translation
+• transport
+• transport
+• transport
+• trash
+• trash
+• trash
+• trend
+• trick
+• trouble
+• trumpet
+• trunk
+• trunk
+• trunk
+• truth
+• tub
+• tube
+• tunnel
+• tunnel
+• turning
+• underpants → underpant
+• underpants → underpant
+• underwear
+• unemployment
+• upload
+• usage
+• user
+• value
+• variety
+• vase
+• vehicle
+• version
+• version
+• vet
+• virus
+• visa
+• visa
+• voice
+• voice
+• volume
+• volunteer
+• volunteer
+• volunteer
+• wage
+• wage
+• waiting
+• waiting
+• waitress
+• waitress
+• walking
+• wallet
+• war
+• war
+• wards → ward
+• wardrobe
+• washing
+• washing
+• washing
+• waste
+• web
+• web
+• web
+• webcam
+• wedding
+• wedding
+• weight
+• weight
+• windsurfing
+• workout
+• workout
+• worth
+• writing
+• yoga
+• youth
+
+PRON words:
+----------------------------------------
+• anybody
+
+SCONJ words:
+----------------------------------------
+• despite
+• despite
+• till
+• till
+• till
+• whilst
+
+VERB words:
+----------------------------------------
+• accept
+• accessed → access
+• accompany
+• according → accord
+• according → accord
+• achieve
+• admit
+• admit
+• advertise
+• advise
+• aero
+• affect
+• affect
+• afford
+• aim
+• allow
+• amusing → amuse
+• announce
+• annoy
+• apologise
+• apply
+• apply
+• approve
+• aren
+• argue
+• arrest
+• ashamed → ashame
+• assigned → assign
+• assist
+• attach
+• attend
+• attract
+• avoid
+• beat
+• behave
+• behave
+• belong
+• bite
+• blame
+• bleed → blee
+• bleed → blee
+• blow
+• blowing → blow
+• boil
+• boiled → boil
+• boiled → boil
+• bother
+• bother
+• bother
+• bother
+• boxing → box
+• cancel
+• care
+• care
+• celebrate
+• challenging → challenge
+• challenging → challenge
+• charge
+• chewing → chew
+• click
+• click
+• communicate
+• compete
+• compete
+• complain
+• complain
+• composed → compose
+• concentrate
+• confine
+• confused → confuse
+• confusing → confuse
+• connect
+• connect
+• considered → consider
+• consider
+• consist
+• constrained → constrain
+• consulted → consult
+• contain
+• contain
+• continue
+• control
+• covers → cover
+• cover
+• covers → cover
+• crowded → crowd
+• damaged → damage
+• damaged → damage
+• deal
+• deal
+• declare
+• degrees → degree
+• delay
+• delayed → delay
+• delighted → delight
+• delighted → delight
+• deliver
+• deliver
+• depend
+• depends → depend
+• depends → depend
+• depressed → depress
+• deserve
+• destroy
+• developed → develop
+• developed → develop
+• develop
+• dial
+• disagree
+• disappoint
+• disappointed → disappoint
+• discover
+• distract
+• disturb
+• doubt
+• drag
+• dusty
+• earn
+• earn
+• embarrassing → embarrass
+• employ
+• encourage
+• engaged → engage
+• engaged → engage
+• engaged → engage
+• engaged → engage
+• escape
+• essay
+• examinations → examination
+• exclaim
+• exclam
+• exclam
+• exclam
+• exclam
+• exclam
+• exclam
+• exist
+• experienced → experience
+• experienced → experience
+• explode
+• fail
+• fare
+• fare
+• fasten
+• fasten
+• fight
+• fit
+• float
+• flow
+• forbidden → forbid
+• forgive
+• fountain
+• freeze
+• freezing → freeze
+• frozen → freeze
+• freezing → freeze
+• gain
+• gives → give
+• given → give
+• given → give
+• given → give
+• given → give
+• given → give
+• gave → give
+• gave → give
+• going → go
+• going → go
+• went → go
+• went → go
+• went → go
+• went → go
+• went → go
+• going → go
+• going → go
+• gone → go
+• going → go
+• going → go
+• going → go
+• going → go
+• going → go
+• grab
+• grabbed → grab
+• grilled → grill
+• grill
+• grilled → grill
+• guide
+• guidebook
+• handle
+• handle
+• hang
+• hang
+• hang
+• hang
+• hang
+• hung → hang
+• hang
+• hang
+• headphones → headphone
+• herbs → herb
+• hire
+• hire
+• hire
+• hire
+• homepage
+• identify
+• identify
+• impressed → impress
+• impressed → impress
+• informed → inform
+• insist
+• inspired → inspire
+• intend
+• intend
+• involve
+• ironing → iron
+• jogging → jog
+• jogging → jog
+• kept → keep
+• kept → keep
+• keeps → keep
+• kill
+• knit
+• knock
+• knock
+• knocked → knock
+• lack
+• lead
+• lead
+• lend
+• limited → limit
+• located → locate
+• lock
+• maintain
+• manage
+• manage
+• manage
+• mend
+• nationalities → nationalitie
+• notice
+• offend
+• operate
+• organise
+• owe
+• pack
+• pack
+• passed → pass
+• pass
+• pass
+• pass
+• perform
+• perform
+• perform
+• permitted → permit
+• permitted → permit
+• persuade
+• petrol
+• plug
+• pray
+• predict
+• press
+• press
+• prevent
+• print
+• produce
+• produce
+• prohibited → prohibit
+• prohibited → prohibit
+• promise
+• promote
+• pronouns → pronoun
+• pronounce
+• protect
+• prove
+• provide
+• provide
+• pump
+• punish
+• purse
+• quit
+• quit
+• raise
+• raise
+• raise
+• range
+• reach
+• react
+• reacted → react
+• realised → realise
+• rebuild
+• receive
+• recommend
+• recommend
+• record
+• recover
+• recover
+• recycled → recycle
+• recycled → recycle
+• reduce
+• reduced → reduce
+• reduce
+• refuse
+• register
+• registered → register
+• relating → relate
+• relax
+• relieved → relieve
+• rely
+• remain
+• remind
+• remove
+• remove
+• replace
+• required → require
+• reserve
+• rest
+• retire
+• revise
+• rid
+• rid
+• rise
+• rises → rise
+• rising → rise
+• rose → rise
+• ruin
+• said → say
+• scared → scare
+• saw → see
+• serve
+• serve
+• sets → set
+• set
+• set
+• set
+• set
+• set
+• set
+• set
+• sets → set
+• set
+• shake
+• shake
+• shine
+• shocked → shock
+• shocking → shock
+• shoot
+• shoot
+• shows → show
+• shows → show
+• showing → show
+• shows → show
+• shows → show
+• shows → show
+• showed → show
+• shut
+• sign
+• sign
+• sign
+• signpost
+• sink
+• sleeve
+• sleeve
+• slip
+• solve
+• spare
+• sparkling → sparkle
+• sparkling → sparkle
+• spicy
+• spite
+• split
+• split
+• squash
+• squash
+• stole → steal
+• steal
+• stick
+• stir
+• stressed → stress
+• strike
+• subtract
+• succeed
+• succeed
+• suffer
+• suffer
+• suggest
+• suits → suit
+• sum
+• sunglasses → sunglasse
+• sunshine
+• supplied → supply
+• support
+• support
+• suppose
+• suppose
+• supposed → suppose
+• supposed → suppose
+• suprising → suprise
+• surfing → surf
+• surfing → surf
+• surfboarding → surfboard
+• surrounded → surround
+• switch
+• switch
+• talented → talente
+• tear
+• tie
+• tie
+• tracksuit
+• translate
+• treat
+• trust
+• trust
+• underwear
+• uninteresting → unintereste
+• updated → update
+• updated → update
+• updated → update
+• update
+• vote
+• wonder
+• wonder
+• wrap
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 1179
+• Known lemmas in text: 964
+• New lemmas found in text: 1262
+• New lemmas added to database: 1262
+• Total words in database after analysis: 2441
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 274
+• Paragraph Count: 1
+• Avg Sentence Length: 55.22
+• Flesch Kincaid Grade: 23.39
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+phr                 121       2.15           
+adv                 84        1.50           
+prep                82        1.46           
+pron                38        0.68           
+time                35        0.62           
+word                27        0.48           
+work                26        0.46           
+adj                 25        0.45           
+conj                22        0.39           
+good                21        0.37           
+room                20        0.36           
+list                19        0.34           
+turn                19        0.34           
+car                 18        0.32           
+station             18        0.32           
+computer            17        0.30           
+film                17        0.30           
+look                16        0.28           
+music               15        0.27           
+player              15        0.27           
+play                14        0.25           
+break               13        0.23           
+bus                 13        0.23           
+vocabulary          13        0.23           
+way                 13        0.23           
+book                12        0.21           
+exclam              12        0.21           
+hand                12        0.21           
+school              12        0.21           
+stay                12        0.21           
+come                11        0.20           
+ice                 11        0.20           
+know                11        0.20           
+phone               11        0.20           
+right               11        0.20           
+road                11        0.20           
+run                 11        0.20           
+sport               11        0.20           
+stop                11        0.20           
+check               10        0.18           
+job                 10        0.18           
+like                10        0.18           
+race                10        0.18           
+set                 10        0.18           
+shirt               10        0.18           
+study               10        0.18           
+swimming            10        0.18           
+away                9         0.16           
+candidate           9         0.16           
+card                9         0.16           
+centre              9         0.16           
+course              9         0.16           
+det                 9         0.16           
+draw                9         0.16           
+fit                 9         0.16           
+include             9         0.16           
+lot                 9         0.16           
+paper               9         0.16           
+piece               9         0.16           
+sign                9         0.16           
+suit                9         0.16           
+table               9         0.16           
+tell                9         0.16           
+tennis              9         0.16           
+walk                9         0.16           
+case                8         0.14           
+end                 8         0.14           
+face                8         0.14           
+fall                8         0.14           
+get                 8         0.14           
+give                8         0.14           
+guide               8         0.14           
+hang                8         0.14           
+head                8         0.14           
+leave               8         0.14           
+light               8         0.14           
+meeting             8         0.14           
+order               8         0.14           
+petrol              8         0.14           
+present             8         0.14           
+price               8         0.14           
+public              8         0.14           
+ring                8         0.14           
+sit                 8         0.14           
+think               8         0.14           
+try                 8         0.14           
+verb                8         0.14           
+water               8         0.14           
+clothe              7         0.12           
+game                7         0.12           
+long                7         0.12           
+meaning             7         0.12           
+need                7         0.12           
+new                 7         0.12           
+note                7         0.12           
+number              7         0.12           
+park                7         0.12           
+shoe                7         0.12           
+show                7         0.12           
+use                 7         0.12           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+121            1              phr
+84             1              adv
+82             1              prep
+38             1              pron
+35             1              time
+27             1              word
+26             1              work
+25             1              adj
+22             1              conj
+21             1              good
+20             1              room
+19             2              list, turn
+18             2              car, station
+17             2              computer, film
+16             1              look
+15             2              music, player
+14             1              play
+13             4              break, bus, vocabulary, way
+12             5              book, exclam, hand, school, stay
+11             9              come, ice, know, phone, right, ... (4 more)
+10             8              check, job, like, race, set, ... (3 more)
+9              18             away, candidate, card, centre, course, ... (13 more)
+8              23             case, end, face, fall, get, ... (18 more)
+7              12             clothe, game, long, meaning, need, ... (7 more)

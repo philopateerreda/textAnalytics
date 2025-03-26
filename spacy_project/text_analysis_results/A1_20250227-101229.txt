@@ -1,0 +1,778 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• afraid
+• amazing
+• angry
+• arrive
+• bad
+• beautiful
+• big
+• black
+• blonde
+• blue
+• busy
+• cheap
+• close
+• common
+• complete
+• cool
+• correct
+• dangerous
+• dark
+• delicious
+• different
+• difficult
+• dirty
+• easy
+• exciting
+• expensive
+• extra
+• false
+• famous
+• fantastic
+• far
+• fat
+• favorite
+• final
+• final
+• fine
+• flat
+• free
+• friendly
+• funny
+• future
+• good
+• great
+• green
+• happy
+• hard
+• healthy
+• hot
+• hungry
+• important
+• interested
+• interesting
+• key
+• large
+• late
+• little
+• live
+• local
+• long
+• lose
+• main
+• modern
+• natural
+• negative
+• new
+• nice
+• old
+• online
+• open
+• opposite
+• orange
+• perfect
+• personal
+• pink
+• poor
+• popular
+• positive
+• possible
+• present
+• pretty
+• quick
+• ready
+• real
+• red
+• rich
+• right
+• sad
+• sick
+• similar
+• slow
+• small
+• sorry
+• special
+• strong
+• sure
+• tall
+• terrible
+• thirsty
+• tired
+• true
+• useful
+• warm
+• white
+• wonderful
+• yellow
+
+ADP words:
+----------------------------------------
+• like
+• near
+• past
+
+ADV words:
+----------------------------------------
+• ago
+• away
+• downstairs
+• fast
+• high
+• later
+• maybe
+• outside
+• probably
+• quickly
+• short
+• soon
+• upstairs
+• usually
+• best → well
+• better → well
+
+AUX words:
+----------------------------------------
+• teach
+
+NOUN words:
+----------------------------------------
+• action
+• activity
+• actor
+• actress
+• address
+• adult
+• advice
+• age
+• animal
+• apartment
+• apple
+• area
+• arm
+• art
+• article
+• artist
+• ask
+• aunt
+• autumn
+• baby
+• bag
+• bath
+• bathroom
+• beach
+• bed
+• bedroom
+• beer
+• bicycle
+• bike
+• blog
+• boat
+• body
+• book
+• boot
+• bottle
+• boy
+• break
+• breakfast
+• brother
+• building
+• bus
+• business
+• butter
+• buy
+• bye
+• cafe
+• cake
+• camera
+• car
+• card
+• career
+• carrot
+• cat
+• cent
+• center
+• chair
+• change
+• check
+• child
+• chocolate
+• class
+• classroom
+• clothes → clothe
+• club
+• coat
+• coffee
+• color
+• colour
+• company
+• computer
+• concert
+• contest
+• conversation
+• cook
+• cost
+• country
+• course
+• cousin
+• cow
+• cream
+• cream
+• culture
+• cup
+• customer
+• dad
+• dance
+• dancer
+• date
+• describe
+• description
+• design
+• desk
+• diet
+• difference
+• dinner
+• discuss
+• dish
+• doctor
+• dog
+• dollar
+• door
+• dress
+• drink
+• drive
+• driver
+• dvd
+• ear
+• eat
+• egg
+• elephant
+• email
+• end
+• euro
+• event
+• exam
+• example
+• exercise
+• eye
+• face
+• fact
+• family
+• farm
+• farmer
+• father
+• feeling
+• festival
+• fill
+• film
+• find
+• finish
+• fire
+• flight
+• floor
+• flower
+• fly
+• food
+• foot
+• football
+• forget
+• friend
+• fruit
+• fun
+• game
+• garden
+• geography
+• girl
+• girlfriend
+• glass
+• goodbye
+• grandfather
+• grandmother
+• grandparent
+• guitar
+• gym
+• hair
+• hand
+• hat
+• hate
+• health
+• history
+• hobby
+• holiday
+• home
+• horse
+• hospital
+• hotel
+• hour
+• house
+• husband
+• ice
+• idea
+• improve
+• information
+• interest
+• internet
+• interview
+• introduce
+• island
+• jacket
+• job
+• juice
+• kilometer
+• kind
+• kitchen
+• land
+• language
+• laugh
+• leg
+• lesson
+• letter
+• library
+• lie
+• life
+• line
+• lion
+• list
+• look
+• lot
+• love
+• lunch
+• machine
+• magazine
+• man
+• market
+• match
+• meal
+• meat
+• meeting
+• member
+• menu
+• message
+• meter
+• midnight
+• mile
+• milk
+• minute
+• miss
+• mistake
+• model
+• moment
+• money
+• money
+• month
+• morning
+• mother
+• mouth
+• movie
+• mum
+• museum
+• music
+• need
+• neighbour
+• news
+• newspaper
+• night
+• nose
+• number
+• nurse
+• object
+• office
+• onion
+• opinion
+• order
+• page
+• paint
+• pair
+• paper
+• paragraph
+• parent
+• park
+• partner
+• party
+• passport
+• pay
+• pen
+• pencil
+• people
+• period
+• person
+• phone
+• photo
+• photograph
+• phrase
+• piano
+• picture
+• piece
+• pig
+• place
+• plan
+• plane
+• plant
+• player
+• police
+• policeman
+• pool
+• post
+• potato
+• pound
+• practice
+• practise
+• price
+• problem
+• product
+• programme
+• project
+• purple
+• question
+• radio
+• rain
+• reader
+• reason
+• repeat
+• report
+• restaurant
+• result
+• rice
+• ride
+• road
+• room
+• routine
+• rule
+• salad
+• salt
+• sandwich
+• school
+• science
+• section
+• sell
+• sentence
+• share
+• shirt
+• shirt
+• shoe
+• shopping
+• sing
+• singer
+• sister
+• situation
+• skill
+• skirt
+• sleep
+• snake
+• snow
+• son
+• sound
+• soup
+• space
+• spell
+• spelling
+• sport
+• star
+• statement
+• station
+• story
+• street
+• student
+• study
+• style
+• subject
+• success
+• sugar
+• summer
+• sun
+• supermarket
+• sweater
+• swim
+• swimming
+• table
+• talk
+• taxi
+• tea
+• teacher
+• team
+• teenager
+• telephone
+• television
+• tennis
+• test
+• text
+• thanks → thank
+• theatre
+• thing
+• ticket
+• time
+• title
+• toilet
+• tomato
+• tooth
+• topic
+• tourist
+• town
+• traffic
+• train
+• travel
+• tree
+• trip
+• trousers → trouser
+• type
+• type
+• uncle
+• university
+• vacation
+• vegetable
+• video
+• village
+• visit
+• visitor
+• waiter
+• wall
+• wash
+• watch
+• water
+• way
+• weather
+• website
+• wife
+• window
+• wine
+• woman
+• word
+• work
+• worker
+• world
+• writer
+• wrong
+• year
+
+PRON words:
+----------------------------------------
+• everybody
+• somebody
+
+VERB words:
+----------------------------------------
+• add
+• agree
+• answer
+• born → bear
+• begin
+• beginning → begin
+• believe
+• bring
+• build
+• capital
+• carry
+• choose
+• clock
+• come
+• compare
+• cooking → cook
+• create
+• cut
+• dancing → dance
+• decide
+• die
+• draw
+• enjoy
+• excited → excite
+• explain
+• fall
+• feel
+• fish
+• follow
+• form
+• grow
+• guess
+• happen
+• head
+• hear
+• help
+• ice
+• imagine
+• include
+• jeans → jean
+• know
+• learn
+• leave
+• left → leave
+• let
+• listen
+• map
+• married → marry
+• mean
+• meaning → mean
+• meet
+• note
+• painting → paint
+• pepper
+• play
+• point
+• prefer
+• prepare
+• quiet
+• read
+• reading → read
+• remember
+• return
+• run
+• send
+• sheep
+• shower
+• sit
+• speak
+• spend
+• start
+• stay
+• stop
+• tell
+• thank
+• think
+• try
+• turn
+• understand
+• use
+• wake
+• want
+• wear
+• west
+• win
+• write
+• writing → write
+• young
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 0
+• Known lemmas in text: 0
+• New lemmas found in text: 605
+• New lemmas added to database: 605
+• Total words in database after analysis: 605
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 12
+• Paragraph Count: 1
+• Avg Sentence Length: 77.75
+• Flesch Kincaid Grade: 33.7
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+begin               2         0.32           
+cook                2         0.32           
+cream               2         0.32           
+dance               2         0.32           
+final               2         0.32           
+ice                 2         0.32           
+leave               2         0.32           
+mean                2         0.32           
+money               2         0.32           
+paint               2         0.32           
+read                2         0.32           
+shirt               2         0.32           
+thank               2         0.32           
+type                2         0.32           
+well                2         0.32           
+write               2         0.32           
+action              1         0.16           
+activity            1         0.16           
+actor               1         0.16           
+actress             1         0.16           
+add                 1         0.16           
+address             1         0.16           
+adult               1         0.16           
+advice              1         0.16           
+afraid              1         0.16           
+age                 1         0.16           
+ago                 1         0.16           
+agree               1         0.16           
+amazing             1         0.16           
+angry               1         0.16           
+animal              1         0.16           
+answer              1         0.16           
+apartment           1         0.16           
+apple               1         0.16           
+area                1         0.16           
+arm                 1         0.16           
+arrive              1         0.16           
+art                 1         0.16           
+article             1         0.16           
+artist              1         0.16           
+ask                 1         0.16           
+aunt                1         0.16           
+autumn              1         0.16           
+away                1         0.16           
+baby                1         0.16           
+bad                 1         0.16           
+bag                 1         0.16           
+bath                1         0.16           
+bathroom            1         0.16           
+beach               1         0.16           
+bear                1         0.16           
+beautiful           1         0.16           
+bed                 1         0.16           
+bedroom             1         0.16           
+beer                1         0.16           
+believe             1         0.16           
+bicycle             1         0.16           
+big                 1         0.16           
+bike                1         0.16           
+black               1         0.16           
+blog                1         0.16           
+blonde              1         0.16           
+blue                1         0.16           
+boat                1         0.16           
+body                1         0.16           
+book                1         0.16           
+boot                1         0.16           
+bottle              1         0.16           
+boy                 1         0.16           
+break               1         0.16           
+breakfast           1         0.16           
+bring               1         0.16           
+brother             1         0.16           
+build               1         0.16           
+building            1         0.16           
+bus                 1         0.16           
+business            1         0.16           
+busy                1         0.16           
+butter              1         0.16           
+buy                 1         0.16           
+bye                 1         0.16           
+cafe                1         0.16           
+cake                1         0.16           
+camera              1         0.16           
+capital             1         0.16           
+car                 1         0.16           
+card                1         0.16           
+career              1         0.16           
+carrot              1         0.16           
+carry               1         0.16           
+cat                 1         0.16           
+cent                1         0.16           
+center              1         0.16           
+chair               1         0.16           
+change              1         0.16           
+cheap               1         0.16           
+check               1         0.16           
+child               1         0.16           
+chocolate           1         0.16           
+choose              1         0.16           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+2              16             begin, cook, cream, dance, final, ... (11 more)
+1              84             action, activity, actor, actress, add, ... (79 more)

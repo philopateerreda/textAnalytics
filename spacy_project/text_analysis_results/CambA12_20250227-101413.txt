@@ -1,0 +1,2576 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• able
+• adverb
+• adverb
+• adverb
+• adverb
+• adverb
+• alien
+• alien
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• alphabetic
+• asleep
+• asleep
+• asleep
+• awake
+• awake
+• awake
+• balcony
+• blond
+• bored
+• bored
+• boring
+• brave
+• brave
+• brilliant
+• brown
+• brown
+• brown
+• brown
+• cambridgeenglish
+• cambridgeenglish
+• cambridgeenglish
+• careful
+• careful
+• careful
+• clean
+• clean
+• clever
+• clever
+• clever
+• closed
+• cloudy
+• cloudy
+• cloudy
+• cloudy
+• cold
+• cold
+• cold
+• cold
+• colourful
+• comic
+• comic
+• comic
+• comic
+• comic
+• curly
+• curly
+• curly
+• curly
+• dear
+• dear
+• dear
+• dear
+• dear
+• dear
+• deep
+• deep
+• dictionary
+• double
+• double
+• double
+• double
+• dressed
+• dressed
+• dry
+• dry
+• dry
+• dry
+• dry
+• early
+• early
+• early
+• english
+• english
+• english
+• enormous
+• enormous
+• enormous
+• excellent
+• excellent
+• excellent
+• excited
+• extinct
+• extinct
+• extinct
+• fair
+• fair
+• fair
+• favourite
+• favourite
+• favourite
+• favourite
+• favourite
+• flashlight
+• foggy
+• frightening
+• frightening
+• frightening
+• furry
+• furry
+• gold
+• grammatical
+• grammatical
+• grammatical
+• grammatical
+• grammatical
+• grammatical
+• grammatical
+• grammatical
+• grammatical
+• gray
+• gray
+• gray
+• gray
+• gray
+• gray
+• grey
+• grey
+• heavy
+• heavy
+• heavy
+• horrible
+• horrible
+• huge
+• huge
+• huge
+• huge
+• ill
+• ill
+• independent
+• irregular
+• kitten
+• lazy
+• lazy
+• lazy
+• light
+• loud
+• loud
+• loud
+• loud
+• lovely
+• lovely
+• lovely
+• low
+• low
+• lucky
+• lucky
+• lucky
+• married
+• mechanic
+• middle
+• naughty
+• naughty
+• naughty
+• net
+• net
+• noisy
+• noisy
+• org
+• org
+• oven
+• pet
+• pet
+• pet
+• polar
+• polar
+• polar
+• polar
+• possessive
+• possessive
+• possessive
+• possessive
+• possessive
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• proficient
+• regular
+• round
+• safe
+• safe
+• safe
+• safe
+• scary
+• scary
+• scary
+• scary
+• secret
+• silly
+• silly
+• silly
+• silly
+• skateboard
+• soft
+• soft
+• soft
+• sore
+• sore
+• south
+• square
+• square
+• square
+• square
+• straight
+• straight
+• straight
+• straight
+• strange
+• strange
+• strange
+• stripe
+• striped
+• sunny
+• sunny
+• sunny
+• sunny
+• sunny
+• surprised
+• sweet
+• sweet
+• sweet
+• sweet
+• sweet
+• sweet
+• sweet
+• sweet
+• sweet
+• sweet
+• sweet
+• thematic
+• thematic
+• thematic
+• thematic
+• thematic
+• thematic
+• thematic
+• thematic
+• thin
+• thin
+• thin
+• thin
+• thin
+• tidy
+• tidy
+• ugly
+• ugly
+• ugly
+• ugly
+• undressed
+• undressed
+• undressed
+• undressed
+• undressed
+• undressed
+• undressed
+• unfriendly
+• unfriendly
+• unfriendly
+• unhappy
+• unkind
+• untidy
+• unusual
+• unusual
+• unusual
+• weak
+• weak
+• weak
+• weak
+• wet
+• wild
+• wild
+• wild
+• worried
+• worried
+
+ADP words:
+----------------------------------------
+• adv
+• adv
+• inside
+• inside
+• inside
+• skateboard
+
+ADV words:
+----------------------------------------
+• actually
+• actually
+• actually
+• adv
+• asleep
+• awake
+• badly
+• badly
+• badly
+• badly
+• carefully
+• carefully
+• carefully
+• carefully
+• deep
+• early
+• early
+• inside
+• instead
+• instead
+• instead
+• loudly
+• loudly
+• loudly
+• loudly
+• matter
+• naughty
+• north
+• quietly
+• quietly
+• quietly
+• quietly
+• round
+• slowly
+• slowly
+• slowly
+• slowly
+• specifically
+• straight
+• straight
+• straight
+• straight
+• straight
+• suddenly
+• suddenly
+• suddenly
+• twice
+• twice
+• worse
+• worse
+• worst
+• worst
+
+AUX words:
+----------------------------------------
+• got
+• shall
+• shall
+• shall
+• shall
+• strawberry
+
+DET words:
+----------------------------------------
+• half
+
+NOUN words:
+----------------------------------------
+• ability
+• ability
+• ability
+• ability
+• ache
+• ache
+• act
+• adj
+• adj
+• adj
+• adj
+• adj
+• adj
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adv
+• adventure
+• adventure
+• adventure
+• afternoon
+• airport
+• alien
+• alien
+• alphabet
+• alphabet
+• alphabet
+• ambulance
+• ambulance
+• ambulance
+• ambulance
+• ambulance
+• app
+• armchair
+• armchair
+• astronaut
+• astronaut
+• backpack
+• backpack
+• backpack
+• backpack
+• backpack
+• backpack
+• ball
+• ball
+• ball
+• ball
+• ball
+• ball
+• balloon
+• balloon
+• balloon
+• band
+• band
+• band
+• band
+• bandage
+• bandage
+• bandage
+• baseball
+• baseball
+• baseball
+• baseball
+• baseball
+• baseball
+• baseball
+• baseball
+• basement
+• basement
+• basketball
+• basketball
+• basketball
+• basketball
+• basketball
+• basketball
+• bat
+• bat
+• bat
+• bat
+• bat
+• bat
+• bat
+• bat
+• bean
+• bean
+• belt
+• bird
+• bird
+• birthday
+• birthday
+• birthday
+• biscuit
+• biscuit
+• biscuit
+• biscuit
+• biscuit
+• biscuit
+• biscuit
+• bit
+• bit
+• bit
+• blanket
+• blanket
+• bookcase
+• bookcase
+• bookshop
+• bounce
+• bounce
+• bounce
+• bounce
+• bowl
+• bowl
+• bowl
+• bowl
+• bracelet
+• bracelet
+• bracelet
+• bracelet
+• brave
+• bread
+• bread
+• bread
+• bread
+• bridge
+• brilliant
+• brush
+• brush
+• brush
+• brush
+• burger
+• burger
+• burger
+• burn
+• businessman
+• businessman
+• businessman
+• businessman
+• butterfly
+• butterfly
+• butterfly
+• butterfly
+• café
+• café
+• cage
+• cage
+• cage
+• cage
+• cage
+• calendar
+• calendar
+• calendar
+• calendar
+• camel
+• camel
+• camel
+• camp
+• camp
+• candidates → candidate
+• candidates → candidate
+• candy
+• candy
+• candy
+• candy
+• candy
+• candy
+• candy
+• candy
+• candy
+• cap
+• cap
+• cap
+• cap
+• cartoon
+• catch
+• catch
+• catch
+• catch
+• catch
+• catch
+• cave
+• cave
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• centre
+• century
+• cereal
+• cereal
+• channel
+• channel
+• channel
+• chat
+• cheese
+• cheese
+• chemist
+• chemist
+• chess
+• chess
+• chess
+• chicken
+• chips → chip
+• chips → chip
+• chips → chip
+• chips → chip
+• chips → chip
+• chips → chip
+• chips → chip
+• chips → chip
+• chips → chip
+• chopsticks → chopstick
+• chopsticks → chopstick
+• cinema
+• cinema
+• circus
+• circus
+• circus
+• circus
+• city
+• city
+• city
+• city
+• city
+• clap
+• clap
+• clap
+• clap
+• classmate
+• classmate
+• classmate
+• clean
+• climb
+• cloud
+• cloud
+• cloud
+• cloud
+• clown
+• coconut
+• coconut
+• coconut
+• coconut
+• college
+• comb
+• comb
+• comb
+• comb
+• communication
+• competition
+• competition
+• competition
+• competition
+• competition
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conj
+• conjunction
+• conjunction
+• conjunction
+• conjunction
+• conjunction
+• cont
+• cont
+• cooker
+• cooker
+• cooker
+• cookie
+• cookie
+• cookie
+• cookie
+• corner
+• corner
+• corner
+• corner
+• costume
+• costume
+• costume
+• costume
+• cough
+• count
+• count
+• countryside
+• countryside
+• countryside
+• countryside
+• countryside
+• crayon
+• crayon
+• crayon
+• creature
+• creature
+• creature
+• creature
+• crocodile
+• crocodile
+• crocodile
+• cross
+• crown
+• crown
+• cry
+• cry
+• cupboard
+• cupboard
+• curly
+• cushion
+• cushion
+• cushion
+• cushion
+• cycle
+• cycle
+• cycle
+• daughter
+• daughter
+• daughter
+• day
+• day
+• dentist
+• dentist
+• dentist
+• desert
+• designer
+• designer
+• designer
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• det
+• determiners → determiner
+• diary
+• diary
+• diary
+• diary
+• dining
+• dining
+• dining
+• dining
+• dining
+• dinosaur
+• dinosaur
+• dinosaur
+• dinosaur
+• direction
+• direction
+• direction
+• direction
+• direction
+• direction
+• direction
+• directions → direction
+• direction
+• direction
+• dis
+• dis
+• dis
+• dis
+• dis
+• dis
+• dis
+• dis
+• dis
+• disappear
+• doll
+• doll
+• doll
+• doll
+• doll
+• doll
+• dolphin
+• dolphin
+• dolphin
+• dolphin
+• donkey
+• donkey
+• donkey
+• donkey
+• drawing
+• drawing
+• drawing
+• drawing
+• dream
+• dream
+• dream
+• dream
+• drop
+• drop
+• drop
+• drum
+• duck
+• duck
+• duck
+• duck
+• duck
+• eagle
+• eagle
+• earache
+• earache
+• elbow
+• elbow
+• elbow
+• elevator
+• elevator
+• elevator
+• elevator
+• elevator
+• elevator
+• elevator
+• elevator
+• elevator
+• elevator
+• engine
+• engine
+• engine
+• engine
+• engine
+• engine
+• engine
+• engine
+• engineer
+• engineer
+• engineer
+• entrance
+• entrance
+• entrance
+• entrance
+• entrance
+• environment
+• equipment
+• equipment
+• equipment
+• equipment
+• equipment
+• eraser
+• eraser
+• eraser
+• eraser
+• eraser
+• eraser
+• eraser
+• eraser
+• eraser
+• evening
+• evening
+• evening
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• excl
+• exclamation
+• exclamation
+• exclamation
+• exclamation
+• exclamation
+• exit
+• exit
+• exit
+• explore
+• explore
+• factory
+• factory
+• factory
+• factory
+• feed
+• feed
+• feed
+• fetch
+• field
+• field
+• field
+• fighter
+• fighter
+• fighter
+• fighter
+• file
+• file
+• file
+• file
+• file
+• file
+• finger
+• finger
+• finger
+• finger
+• fishing
+• fishing
+• fishing
+• fix
+• fix
+• fix
+• flag
+• flag
+• flag
+• flag
+• flashlight
+• flashlight
+• flashlight
+• flashlight
+• flashlight
+• flashlight
+• flashlight
+• flour
+• flour
+• flyers → flyer
+• flyers → flyer
+• fog
+• foggy
+• foggy
+• forest
+• forest
+• forest
+• forest
+• fork
+• fork
+• fridge
+• fridge
+• frog
+• fries → fry
+• fries → fry
+• fries → fry
+• fries → fry
+• fries → fry
+• fries → fry
+• fries → fry
+• fries → fry
+• fries → fry
+• funfair
+• funfair
+• funfair
+• funfair
+• fur
+• fur
+• fur
+• furry
+• gate
+• giraffe
+• giraffe
+• glove
+• glue
+• glue
+• goal
+• goal
+• goal
+• goal
+• goal
+• gold
+• gold
+• gold
+• gold
+• gold
+• golf
+• golf
+• granddaughter
+• granddaughter
+• granddaughter
+• granddaughter
+• granddaughter
+• grandma
+• grandma
+• grandma
+• grandma
+• grandpa
+• grandpa
+• grandson
+• grandson
+• grape
+• grape
+• grape
+• grape
+• grass
+• grass
+• grass
+• gray
+• gray
+• gray
+• grey
+• grey
+• grey
+• grey
+• ground
+• ground
+• group
+• group
+• half
+• half
+• helicopter
+• helicopter
+• helicopter
+• helicopter
+• helicopter
+• helmet
+• helmet
+• helmet
+• hide
+• hill
+• hippo
+• hippo
+• hippo
+• hockey
+• hockey
+• hockey
+• hold
+• hole
+• hole
+• hole
+• homework
+• homework
+• homework
+• honey
+• hooray
+• hop
+• hop
+• hop
+• hope
+• hope
+• hurry
+• hurry
+• hurt
+• ill
+• insect
+• instrument
+• instrument
+• instrument
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• invent
+• invent
+• invitation
+• invitation
+• invitation
+• invite
+• invite
+• jam
+• journalist
+• journalist
+• journalist
+• journalist
+• journey
+• journey
+• journey
+• jump
+• jump
+• jungle
+• keyboard
+• keyboard
+• kick
+• kick
+• kick
+• kick
+• kick
+• kid
+• kid
+• kilometre
+• kilometre
+• kilometre
+• kilometre
+• king
+• kiwi
+• kiwi
+• knee
+• knee
+• knee
+• knife
+• knife
+• lake
+• lake
+• lake
+• lamp
+• laptop
+• laptop
+• leaf
+• leaf
+• leaf
+• leaf
+• leaf
+• learners → learner
+• leisure
+• levels → level
+• level
+• level
+• level
+• level
+• level
+• level
+• lift
+• lift
+• lift
+• lift
+• lift
+• lift
+• lift
+• lift
+• light
+• light
+• lime
+• lime
+• lime
+• living
+• living
+• living
+• living
+• living
+• lizard
+• lorry
+• lorry
+• lorry
+• lorry
+• lorry
+• lorry
+• lorry
+• lorry
+• lorry
+• lorry
+• mail
+• mail
+• mail
+• mail
+• manager
+• manager
+• manager
+• manager
+• mat
+• maths → math
+• math
+• maths → math
+• math
+• maths → math
+• math
+• maths → math
+• math
+• matter
+• matter
+• matter
+• meatballs → meatball
+• meatballs → meatball
+• meatballs → meatball
+• medicine
+• medicine
+• medicine
+• metal
+• metal
+• metal
+• metal
+• mice
+• middle
+• milkshake
+• milkshake
+• milkshake
+• milkshake
+• mind
+• mind
+• mind
+• mirror
+• mirror
+• mirror
+• mix
+• mix
+• monkey
+• monkey
+• monkey
+• monster
+• monster
+• moon
+• motorway
+• mountain
+• mouse
+• mice → mouse
+• mouse
+• mouse
+• mice → mouse
+• mouse
+• mouse
+• mouse
+• mouse
+• moustache
+• moustache
+• moustache
+• moustache
+• movers → mover
+• names → name
+• names → name
+• names → name
+• neck
+• neck
+• neck
+• neck
+• neck
+• necklace
+• nest
+• nest
+• net
+• net
+• noise
+• noise
+• noodles → noodle
+• noodles → noodle
+• noodles → noodle
+• noodles → noodle
+• noodles → noodle
+• ocean
+• ocean
+• ocean
+• octopus
+• officer
+• officer
+• officer
+• officer
+• olives → olive
+• olives → olive
+• ordinals → ordinal
+• ordinals → ordinal
+• org
+• painting
+• painting
+• painting
+• pajamas → pajama
+• pajamas → pajama
+• pancake
+• pancake
+• pancake
+• panda
+• panda
+• panda
+• panda
+• pardon
+• parrot
+• parrot
+• passenger
+• passenger
+• passenger
+• passenger
+• pasta
+• pasta
+• path
+• path
+• path
+• path
+• pea
+• pea
+• penguin
+• penguin
+• photographer
+• photographer
+• photographer
+• picnic
+• picnic
+• picnic
+• picnic
+• pie
+• pie
+• pie
+• pilot
+• pineapple
+• pineapple
+• pineapple
+• pirate
+• pirate
+• pirate
+• pirate
+• pizza
+• pizza
+• planet
+• planet
+• plastic
+• plastic
+• plastic
+• plastic
+• plate
+• plate
+• plate
+• platform
+• platform
+• playground
+• playground
+• playground
+• playground
+• pocket
+• pocket
+• pocket
+• pocket
+• pond
+• pop
+• pop
+• pop
+• pop
+• pop
+• pop
+• pop
+• pop
+• pop
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• poss
+• possibility
+• possibility
+• postcard
+• postcard
+• poster
+• poster
+• poster
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• prep
+• preposition
+• preposition
+• preposition
+• preposition
+• preposition
+• prepositions → preposition
+• prize
+• prize
+• program
+• program
+• program
+• program
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• puppy
+• puppy
+• puppy
+• push
+• push
+• push
+• puzzle
+• puzzle
+• puzzle
+• puzzle
+• pyjamas → pyjama
+• pyjamas → pyjama
+• pyjamas → pyjama
+• pyjamas → pyjama
+• pyramid
+• qualifications → qualification
+• quarter
+• queen
+• quiz
+• rabbit
+• rabbit
+• rabbit
+• rabbit
+• rabbit
+• race
+• race
+• race
+• race
+• race
+• racing
+• racing
+• racing
+• racket
+• racket
+• racket
+• racket
+• racket
+• railway
+• railway
+• rainbow
+• ray
+• ray
+• ray
+• ray
+• repair
+• ring
+• ring
+• ring
+• ring
+• robot
+• rock
+• rock
+• rock
+• rock
+• rock
+• rock
+• rock
+• rocket
+• rocket
+• rocket
+• rocket
+• roller
+• roller
+• roller
+• roller
+• roller
+• roller
+• roller
+• roller
+• roller
+• roof
+• roof
+• roof
+• roof
+• roof
+• round
+• round
+• rubber
+• rubber
+• rubber
+• rubber
+• rubber
+• rubber
+• rubber
+• rubber
+• rubber
+• rucksack
+• rucksack
+• rucksack
+• rucksack
+• rucksack
+• rucksack
+• rucksack
+• rucksack
+• rug
+• ruler
+• ruler
+• ruler
+• ruler
+• sail
+• sail
+• sail
+• sand
+• sand
+• sand
+• sauce
+• sauce
+• sauce
+• sauce
+• sausage
+• sausage
+• sausage
+• sausage
+• sausage
+• save
+• scarf
+• scarf
+• scarf
+• scarf
+• scissors → scissor
+• scissors → scissor
+• scissors → scissor
+• score
+• score
+• score
+• score
+• score
+• screen
+• screen
+• screen
+• screen
+• sea
+• search
+• search
+• search
+• search
+• seat
+• seat
+• seat
+• seat
+• secret
+• shampoo
+• shape
+• shape
+• shape
+• shark
+• shark
+• shark
+• shelf
+• shelf
+• shelf
+• shelf
+• shell
+• ship
+• ship
+• shop
+• shop
+• shop
+• shop
+• shop
+• shop
+• shop
+• shop
+• shop
+• shop
+• shop
+• shop
+• shoulder
+• shoulder
+• shoulder
+• shoulder
+• silver
+• silver
+• silver
+• silver
+• silver
+• skates → skate
+• skates → skate
+• skate
+• skates → skate
+• skate
+• skate
+• skate
+• skateboard
+• skateboard
+• skateboard
+• skating
+• skating
+• skating
+• skating
+• skating
+• skating
+• skating
+• skating
+• skating
+• ski
+• ski
+• ski
+• skip
+• skip
+• sky
+• sky
+• sky
+• sky
+• skyscraper
+• skyscraper
+• skyscraper
+• skyscraper
+• smell
+• smell
+• smell
+• smile
+• smile
+• smile
+• smile
+• snack
+• snack
+• snack
+• snail
+• snail
+• snail
+• snowball
+• snowball
+• snowboard
+• snowman
+• snowman
+• snowman
+• soap
+• soap
+• soap
+• soccer
+• soccer
+• soccer
+• soccer
+• soccer
+• soccer
+• soccer
+• soccer
+• soccer
+• soccer
+• soccer
+• soccer
+• sock
+• sock
+• sock
+• sock
+• sofa
+• song
+• song
+• song
+• song
+• song
+• spaceship
+• spaceship
+• spaceship
+• spaceship
+• spider
+• spider
+• spider
+• spoon
+• spoon
+• spoon
+• spoon
+• spot
+• spot
+• spot
+• spot
+• spot
+• spring
+• square
+• stadium
+• stadium
+• stage
+• stage
+• stage
+• stair
+• stair
+• stair
+• stamp
+• stamp
+• stamp
+• stand
+• starters → starter
+• step
+• step
+• step
+• step
+• stomach
+• stomach
+• stomach
+• stomach
+• stomach
+• stomach
+• stomach
+• stomach
+• stomach
+• stone
+• stone
+• stone
+• stone
+• store
+• store
+• store
+• store
+• store
+• store
+• store
+• store
+• store
+• store
+• storm
+• storm
+• storm
+• stream
+• stream
+• stripe
+• stripe
+• stripe
+• suitcase
+• suitcase
+• sunglasses → sunglass
+• sunglasses → sunglass
+• sunglasses → sunglass
+• sunglasses → sunglass
+• surname
+• surprise
+• sweet
+• swimsuit
+• swing
+• swing
+• swing
+• swing
+• swing
+• tablet
+• tail
+• tail
+• taste
+• taste
+• taste
+• taste
+• teeth
+• temperature
+• temperature
+• temperature
+• temperature
+• temperature
+• tent
+• tent
+• tent
+• tent
+• theater
+• theater
+• theater
+• theater
+• throw
+• throw
+• throw
+• tick
+• tick
+• tick
+• tick
+• tick
+• tidy
+• tiger
+• tiger
+• tiger
+• tiger
+• tiger
+• timetable
+• timetable
+• tire
+• tire
+• tire
+• tire
+• today
+• today
+• today
+• toe
+• toe
+• toe
+• toe
+• toothache
+• toothache
+• toothbrush
+• toothbrush
+• toothbrush
+• toothbrush
+• toothpaste
+• toothpaste
+• toothpaste
+• toothpaste
+• toothpaste
+• torch
+• torch
+• torch
+• torch
+• torch
+• torch
+• torch
+• torch
+• tortoise
+• touch
+• tour
+• tour
+• towel
+• towel
+• towel
+• toy
+• toy
+• toy
+• toy
+• tractor
+• tractor
+• tractor
+• tractor
+• trainers → trainer
+• trainers → trainer
+• trainers → trainer
+• treasure
+• treasure
+• treasure
+• treasure
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• truck
+• tune
+• tune
+• tune
+• tune
+• umbrella
+• uniform
+• unkind
+• unkind
+• untidy
+• untidy
+• view
+• view
+• view
+• view
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• vocabulary
+• volleyball
+• wait
+• walk
+• walk
+• walk
+• walk
+• walk
+• walk
+• walk
+• walk
+• waterfall
+• waterfall
+• watermelon
+• watermelon
+• watermelon
+• watermelon
+• watermelon
+• wave
+• wave
+• wave
+• wave
+• wave
+• wave
+• wave
+• week
+• week
+• weekend
+• weekend
+• whale
+• whale
+• whale
+• wheel
+• wheel
+• whisper
+• whistle
+• wifi
+• wifi
+• wifi
+• wind
+• wind
+• wind
+• windy
+• windy
+• windy
+• wing
+• wing
+• wing
+• wing
+• winner
+• winner
+• winner
+• winner
+• winter
+• wood
+• wood
+• wood
+• wood
+• wool
+• wool
+• wordlist
+• wordlist
+• wordlist
+• wordlists → wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• wordlist
+• worry
+• worry
+• yesterday
+• zebra
+• zebra
+• zoo
+• zoo
+• zoo
+
+PRON words:
+----------------------------------------
+• adv
+
+VERB words:
+----------------------------------------
+• aligned → align
+• appear
+• appears → appear
+• appears → appear
+• appears → appear
+• appears → appear
+• appears → appear
+• appear
+• appear
+• based → base
+• bored → bore
+• borrow
+• borrow
+• borrow
+• burn
+• burn
+• called → call
+• called → call
+• called → call
+• called → call
+• catch
+• catch
+• cave
+• chat
+• chat
+• chips → chip
+• clean
+• clown
+• collect
+• collect
+• collect
+• collect
+• conj
+• conj
+• cry
+• cry
+• demonstrate
+• disappear
+• disappear
+• drop
+• enter
+• enter
+• enter
+• excl
+• excl
+• excl
+• excl
+• excl
+• excuse
+• excuse
+• expected → expect
+• expected → expect
+• expected → expect
+• expected → expect
+• expected → expect
+• expected → expect
+• explore
+• fetch
+• fix
+• frightened → frighten
+• frightened → frighten
+• frightened → frighten
+• frightened → frighten
+• frog
+• frog
+• fries → fry
+• got → get
+• got → get
+• got → get
+• got → get
+• got → get
+• got → get
+• got → get
+• goat
+• grandpa
+• grandpa
+• gray
+• grey
+• hide
+• hide
+• hide
+• hit
+• hit
+• hit
+• hit
+• hold
+• hold
+• hurry
+• hurt
+• hurt
+• hurt
+• insect
+• instrument
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• int
+• invite
+• jellyfish
+• jellyfish
+• join
+• join
+• join
+• join
+• jump
+• kick
+• kick
+• kick
+• kick
+• kick
+• kid
+• lift
+• lift
+• lift
+• lift
+• lift
+• lift
+• lift
+• lift
+• lift
+• matter
+• meatballs → meatball
+• meatballs → meatball
+• motivating → motivate
+• olives → olive
+• olives → olive
+• pancake
+• pear
+• pear
+• pear
+• pear
+• pear
+• pick
+• pick
+• pick
+• pick
+• pleased → please
+• pleased → please
+• pleased → please
+• prep
+• prep
+• prep
+• prep
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• pron
+• published → publish
+• pull
+• pull
+• pull
+• racing → race
+• recognise
+• recognise
+• recognise
+• rucksack
+• rucksack
+• rug
+• rug
+• save
+• save
+• score
+• score
+• screen
+• shop
+• shopping → shop
+• shout
+• shout
+• shout
+• skates → skate
+• skates → skate
+• skates → skate
+• skates → skate
+• skating → skate
+• skateboarding → skateboard
+• skateboarding → skateboard
+• skateboarding → skateboard
+• skateboarding → skateboard
+• skateboarding → skateboard
+• smell
+• snowboarding → snowboard
+• snowboarding → snowboard
+• spotted → spot
+• spotted → spot
+• spotted → spot
+• spotted → spot
+• spotted → spot
+• stand
+• stand
+• stand
+• striped → stripe
+• striped → stripe
+• striped → stripe
+• striped → stripe
+• surprised → surprise
+• surprised → surprise
+• surprised → surprise
+• takes → take
+• takes → take
+• theirs
+• throw
+• throw
+• toothbrush
+• touch
+• verb
+• wait
+• wait
+• wait
+• walk
+• wave
+• welcome
+• welcome
+• wish
+• wish
+• wish
+• wish
+• worry
+• worried → worry
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 605
+• Known lemmas in text: 487
+• New lemmas found in text: 574
+• New lemmas added to database: 574
+• Total words in database after analysis: 1179
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 277
+• Paragraph Count: 1
+• Avg Sentence Length: 55.1
+• Flesch Kincaid Grade: 21.46
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+adv                 67        1.40           
+pron                60        1.25           
+int                 47        0.98           
+prep                47        0.98           
+excl                39        0.81           
+list                36        0.75           
+vocabulary          35        0.73           
+det                 34        0.71           
+conj                32        0.67           
+time                27        0.56           
+poss                26        0.54           
+centre              25        0.52           
+fire                21        0.44           
+wordlist            21        0.44           
+right               20        0.42           
+station             20        0.42           
+look                19        0.40           
+alphabetic          18        0.38           
+bus                 18        0.38           
+ice                 18        0.38           
+lot                 18        0.38           
+lift                17        0.35           
+truck               17        0.35           
+film                16        0.33           
+movie               16        0.33           
+music               16        0.33           
+computer            15        0.31           
+room                15        0.31           
+tennis              15        0.31           
+fall                14        0.29           
+shop                14        0.29           
+woman               14        0.29           
+car                 13        0.27           
+football            13        0.27           
+glass               13        0.27           
+leave               13        0.27           
+ride                13        0.27           
+star                13        0.27           
+town                13        0.27           
+book                12        0.25           
+drive               12        0.25           
+picture             12        0.25           
+place               12        0.25           
+skate               12        0.25           
+soccer              12        0.25           
+sweet               12        0.25           
+center              11        0.23           
+child               11        0.23           
+close               11        0.23           
+dress               11        0.23           
+fly                 11        0.23           
+letter              11        0.23           
+sport               11        0.23           
+apartment           10        0.21           
+bad                 10        0.21           
+bike                10        0.21           
+chip                10        0.21           
+clock               10        0.21           
+correct             10        0.21           
+direction           10        0.21           
+elevator            10        0.21           
+fish                10        0.21           
+flat                10        0.21           
+fry                 10        0.21           
+game                10        0.21           
+girl                10        0.21           
+gray                10        0.21           
+kick                10        0.21           
+lorry               10        0.21           
+man                 10        0.21           
+rucksack            10        0.21           
+skateboard          10        0.21           
+spot                10        0.21           
+stop                10        0.21           
+store               10        0.21           
+table               10        0.21           
+television          10        0.21           
+water               10        0.21           
+bed                 9         0.19           
+candy               9         0.19           
+dis                 9         0.19           
+eraser              9         0.19           
+grammatical         9         0.19           
+grow                9         0.19           
+long                9         0.19           
+number              9         0.19           
+open                9         0.19           
+photo               9         0.19           
+pop                 9         0.19           
+roller              9         0.19           
+rubber              9         0.19           
+shirt               9         0.19           
+short               9         0.19           
+skating             9         0.19           
+stomach             9         0.19           
+straight            9         0.19           
+thank               9         0.19           
+understand          9         0.19           
+walk                9         0.19           
+write               9         0.19           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+67             1              adv
+60             1              pron
+47             2              int, prep
+39             1              excl
+36             1              list
+35             1              vocabulary
+34             1              det
+32             1              conj
+27             1              time
+26             1              poss
+25             1              centre
+21             2              fire, wordlist
+20             2              right, station
+19             1              look
+18             4              alphabetic, bus, ice, lot
+17             2              lift, truck
+16             3              film, movie, music
+15             3              computer, room, tennis
+14             3              fall, shop, woman
+13             7              car, football, glass, leave, ride, ... (2 more)
+12             7              book, drive, picture, place, skate, ... (2 more)
+11             7              center, child, close, dress, fly, ... (2 more)
+10             25             apartment, bad, bike, chip, clock, ... (20 more)
+9              22             bed, candy, dis, eraser, grammatical, ... (17 more)
