@@ -1,4 +1,12 @@
-## docker exec -it text_analyzer python main.py /app/readT/path/to/your/file.srt --save-words yes
+# Build and run with Docker Compose - Updated 2025-04-13
+##docker-compose up -d
+
+# Use the Docker container
+## to save words:
+###.\analyze_text.bat "file_path" --save-words yes
+## to not save words:
+###.\analyze_text.bat "file_path" --save-words no
+
 import re
 import sqlite3
 import time
