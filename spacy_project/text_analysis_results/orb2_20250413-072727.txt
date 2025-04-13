@@ -1,0 +1,245 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• aflame
+• arrogant
+• blasphemous
+• bloody
+• clumsy
+• detailed
+• disastrous
+• disheartened
+• epicyclical
+• foolish
+• foolish
+• geocentric
+• harmonious
+• heliocentric
+• heliocentric
+• helpless
+• imperfect
+• insane
+• lofty
+• meaningless
+• meaningless
+• mercenary
+• precarious
+• rash
+• superior
+• trustworthy
+• uncertain
+• uncertain
+• unfinished
+• unthinkable
+• wicked
+
+ADV words:
+----------------------------------------
+• independently
+• modestly
+• momentarily
+• skillfully
+
+NOUN words:
+----------------------------------------
+• afterlife
+• blasphemy
+• blessings → blessing
+• brazen
+• centrism
+• clergy
+• collaborators → collaborator
+• contradictions → contradiction
+• corruption
+• curt
+• epicycles → epicycle
+• essence
+• greed
+• heavens → heaven
+• humanity
+• humankind
+• increments → increment
+• induction
+• inquisitors → inquisitor
+• intellect
+• intuition
+• intuition
+• intuition
+• intuition
+• judgment
+• layperson
+• mercenary
+• nonsense
+• orbit
+• parting
+• radius
+• radius
+• rafal
+• realm
+• recantation
+• reward
+• rotation
+• rotation
+• task
+• task
+• vastness
+
+VERB words:
+----------------------------------------
+• celibate
+• deem
+• dispose
+• disrupt
+• enroll
+• entrust
+• flipped → flip
+• flipped → flip
+• inquire
+• overlooked → overlook
+• reformed → reform
+• revolves → revolve
+• revolving → revolve
+• revolved → revolve
+• shrink
+• tolerate
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 3780
+• Known lemmas in text: 308
+• New lemmas found in text: 78
+• New lemmas added to database: 78
+• Total words in database after analysis: 3858
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 102
+• Paragraph Count: 1
+• Avg Sentence Length: 20.69
+• Flesch Kincaid Grade: 8.77
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+move                13        2.06           
+astronomy           8         1.27           
+reason              8         1.27           
+think               8         1.27           
+know                6         0.95           
+mountain            6         0.95           
+theory              6         0.95           
+burn                5         0.79           
+child               5         0.79           
+come                5         0.79           
+find                5         0.79           
+heliocentrism       5         0.79           
+life                5         0.79           
+need                5         0.79           
+study               5         0.79           
+want                5         0.79           
+way                 5         0.79           
+wrong               5         0.79           
+accept              4         0.63           
+beautiful           4         0.63           
+believe             4         0.63           
+family              4         0.63           
+heretic             4         0.63           
+idea                4         0.63           
+intuition           4         0.63           
+leave               4         0.63           
+letter              4         0.63           
+like                4         0.63           
+order               4         0.63           
+planet              4         0.63           
+research            4         0.63           
+right               4         0.63           
+work                4         0.63           
+arrest              3         0.48           
+case                3         0.48           
+center              3         0.48           
+continue            3         0.48           
+finish              3         0.48           
+help                3         0.48           
+lie                 3         0.48           
+place               3         0.48           
+prove               3         0.48           
+revolve             3         0.48           
+single              3         0.48           
+tell                3         0.48           
+thank               3         0.48           
+thing               3         0.48           
+true                3         0.48           
+university          3         0.48           
+world               3         0.48           
+answer              2         0.32           
+argument            2         0.32           
+change              2         0.32           
+charge              2         0.32           
+choose              2         0.32           
+current             2         0.32           
+death               2         0.32           
+deny                2         0.32           
+earth               2         0.32           
+equal               2         0.32           
+expand              2         0.32           
+faith               2         0.32           
+flip                2         0.32           
+foolish             2         0.32           
+good                2         0.32           
+grow                2         0.32           
+heliocentric        2         0.32           
+home                2         0.32           
+house               2         0.32           
+jump                2         0.32           
+line                2         0.32           
+live                2         0.32           
+look                2         0.32           
+meaningless         2         0.32           
+model               2         0.32           
+movement            2         0.32           
+observation         2         0.32           
+obvious             2         0.32           
+orb                 2         0.32           
+path                2         0.32           
+person              2         0.32           
+plain               2         0.32           
+radius              2         0.32           
+rational            2         0.32           
+read                2         0.32           
+ridiculous          2         0.32           
+rotate              2         0.32           
+rotation            2         0.32           
+sake                2         0.32           
+say                 2         0.32           
+sequence            2         0.32           
+sound               2         0.32           
+star                2         0.32           
+support             2         0.32           
+sure                2         0.32           
+surely              2         0.32           
+understand          2         0.32           
+unify               2         0.32           
+universe            2         0.32           
+wait                2         0.32           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+13             1              move
+8              3              astronomy, reason, think
+6              3              know, mountain, theory
+5              11             burn, child, come, find, heliocentrism, ... (6 more)
+4              15             accept, beautiful, believe, family, heretic, ... (10 more)
+3              17             arrest, case, center, continue, finish, ... (12 more)
+2              50             answer, argument, change, charge, choose, ... (45 more)

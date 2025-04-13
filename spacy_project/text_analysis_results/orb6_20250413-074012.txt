@@ -1,0 +1,253 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• blinded
+• concentric
+• divergent
+• eccentric
+• elite
+• flawed
+• futile
+• futile
+• greek
+• indefinite
+• laypeople
+• lesser → less
+• lost
+• lustful
+• mere
+• mere
+• noble
+• overwhelming
+• peculiar
+• pitiful
+• planetary
+• planetary
+• prudent
+• ptolemaic
+• secular
+• substantial
+• theoretical
+
+ADV words:
+----------------------------------------
+• backward
+• backward
+• utterly
+
+AUX words:
+----------------------------------------
+• felt
+
+NOUN words:
+----------------------------------------
+• abbey
+• abbey
+• abbeys → abbey
+• academia
+• algebra
+• bystanders → bystander
+• clergyman
+• employing
+• equilibrium
+• geometry
+• grace
+• greatness
+• harmony
+• harmony
+• infidels → infidel
+• inscription
+• lust
+• maturity
+• occurrence
+• opposing
+• pauper
+• planetes → planete
+• preconceptions → preconception
+• prudence
+• prudence
+• publishing
+• retrograde
+• retrograde
+• retrograde
+• retrograde
+• reverse
+• riddle
+• riddle
+• riddle
+• sects → sect
+• selling
+• stance
+• tonight
+• townspeople
+• vault
+• velocity
+• wanderer
+
+VERB words:
+----------------------------------------
+• converse
+• cooperate
+• devolve
+• discard
+• disputes → dispute
+• dogma
+• endure
+• grasp
+• grasp
+• imprudent
+• indulgences → indulgence
+• lashing → lash
+• lashing → lash
+• mimicking → mimic
+• ordained → ordain
+• postulates → postulate
+• reverse
+• secularized → secularize
+• succumb
+• summarize
+• summarize
+• vomited → vomit
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4043
+• Known lemmas in text: 339
+• New lemmas found in text: 78
+• New lemmas added to database: 78
+• Total words in database after analysis: 4121
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 98
+• Paragraph Count: 1
+• Avg Sentence Length: 22.72
+• Flesch Kincaid Grade: 9.47
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+know                13        1.89           
+like                10        1.45           
+time                10        1.45           
+world               9         1.31           
+change              7         1.02           
+heaven              7         1.02           
+life                6         0.87           
+look                6         0.87           
+motion              6         0.87           
+move                6         0.87           
+wait                6         0.87           
+circle              5         0.73           
+hope                5         0.73           
+movement            5         0.73           
+right               5         0.73           
+tell                5         0.73           
+theory              5         0.73           
+find                4         0.58           
+forward             4         0.58           
+instant             4         0.58           
+long                4         0.58           
+mean                4         0.58           
+moment              4         0.58           
+place               4         0.58           
+planet              4         0.58           
+retrograde          4         0.58           
+thing               4         0.58           
+understand          4         0.58           
+use                 4         0.58           
+way                 4         0.58           
+abbey               3         0.44           
+appear              3         0.44           
+book                3         0.44           
+cosmo               3         0.44           
+different           3         0.44           
+document            3         0.44           
+eye                 3         0.44           
+forbid              3         0.44           
+give                3         0.44           
+great               3         0.44           
+happen              3         0.44           
+knowledge           3         0.44           
+lack                3         0.44           
+mistake             3         0.44           
+pass                3         0.44           
+people              3         0.44           
+problem             3         0.44           
+punishment          3         0.44           
+read                3         0.44           
+reason              3         0.44           
+remember            3         0.44           
+riddle              3         0.44           
+simple              3         0.44           
+sky                 3         0.44           
+speak               3         0.44           
+special             3         0.44           
+start               3         0.44           
+study               3         0.44           
+universe            3         0.44           
+university          3         0.44           
+work                3         0.44           
+writing             3         0.44           
+answer              2         0.29           
+ask                 2         0.29           
+betray              2         0.29           
+body                2         0.29           
+come                2         0.29           
+condition           2         0.29           
+earth               2         0.29           
+expect              2         0.29           
+feel                2         0.29           
+forgive             2         0.29           
+futile              2         0.29           
+get                 2         0.29           
+good                2         0.29           
+grasp               2         0.29           
+heavenly            2         0.29           
+holy                2         0.29           
+interesting         2         0.29           
+lash                2         0.29           
+learn               2         0.29           
+meet                2         0.29           
+mind                2         0.29           
+monk                2         0.29           
+observe             2         0.29           
+orb                 2         0.29           
+path                2         0.29           
+possible            2         0.29           
+prudence            2         0.29           
+reverse             2         0.29           
+scripture           2         0.29           
+sense               2         0.29           
+simply              2         0.29           
+solve               2         0.29           
+subject             2         0.29           
+town                2         0.29           
+true                2         0.29           
+turn                2         0.29           
+wander              2         0.29           
+word                2         0.29           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+13             1              know
+10             2              like, time
+9              1              world
+7              2              change, heaven
+6              5              life, look, motion, move, wait
+5              6              circle, hope, movement, right, tell, ... (1 more)
+4              13             find, forward, instant, long, mean, ... (8 more)
+3              32             abbey, appear, book, cosmo, different, ... (27 more)
+2              38             answer, ask, betray, body, come, ... (33 more)

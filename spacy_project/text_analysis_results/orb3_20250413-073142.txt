@@ -1,0 +1,225 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• harmless
+• heretics
+• lifespan
+• nothingness
+• poppy
+• promising
+• reborn
+• resilient
+• revised
+• terrifying
+• terrifying
+• vigilant
+
+ADV words:
+----------------------------------------
+• awhile
+• officially
+
+NOUN words:
+----------------------------------------
+• anger
+• ash
+• commotion
+• cooperation
+• curiosity
+• disclosure
+• epidemic
+• eve
+• fate
+• fate
+• geocentrism
+• heathens → heathen
+• heresy
+• heresy
+• heresy
+• heresy
+• inspiration
+• inspiration
+• inspiration
+• intrusion
+• jaws → jaw
+• madness
+• mark
+• offense
+• offense
+• organization
+• privilege
+• prototype
+• reminder
+• reminder
+• salvation
+• teachings → teaching
+• torture
+• torture
+• torture
+
+VERB words:
+----------------------------------------
+• awaits → await
+• betray
+• clenching → clench
+• consciousness
+• contradicted → contradict
+• contradicts → contradict
+• exorcise
+• faded → fade
+• freaked → freak
+• humiliate
+• inflict
+• paraphrase
+• proclaim
+• recognize
+• recommit
+• resume
+• sacrificing → sacrifice
+• tamed → tame
+• torture
+• underestimate
+• violates → violate
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 3858
+• Known lemmas in text: 295
+• New lemmas found in text: 57
+• New lemmas added to database: 57
+• Total words in database after analysis: 3915
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 94
+• Paragraph Count: 1
+• Avg Sentence Length: 19.77
+• Flesch Kincaid Grade: 8.55
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+know                13        2.31           
+burn                10        1.78           
+research            9         1.60           
+end                 8         1.42           
+heliocentrism       8         1.42           
+right               6         1.07           
+think               6         1.07           
+good                5         0.89           
+like                5         0.89           
+material            5         0.89           
+pain                5         0.89           
+say                 5         0.89           
+thing               5         0.89           
+turn                5         0.89           
+accuse              4         0.71           
+answer              4         0.71           
+experience          4         0.71           
+far                 4         0.71           
+happen              4         0.71           
+heresy              4         0.71           
+life                4         0.71           
+tell                4         0.71           
+torture             4         0.71           
+university          4         0.71           
+admission           3         0.53           
+afterlife           3         0.53           
+astronomy           3         0.53           
+believe             3         0.53           
+calculation         3         0.53           
+charge              3         0.53           
+choice              3         0.53           
+course              3         0.53           
+death               3         0.53           
+die                 3         0.53           
+drink               3         0.53           
+guess               3         0.53           
+heretic             3         0.53           
+home                3         0.53           
+important           3         0.53           
+inspiration         3         0.53           
+mean                3         0.53           
+recant              3         0.53           
+theology            3         0.53           
+theory              3         0.53           
+word                3         0.53           
+world               3         0.53           
+wrong               3         0.53           
+academic            2         0.36           
+afternoon           2         0.36           
+agree               2         0.36           
+allow               2         0.36           
+avoid               2         0.36           
+begin               2         0.36           
+blasphemous         2         0.36           
+body                2         0.36           
+child               2         0.36           
+come                2         0.36           
+conduct             2         0.36           
+confess             2         0.36           
+contradict          2         0.36           
+document            2         0.36           
+easy                2         0.36           
+evil                2         0.36           
+fate                2         0.36           
+form                2         0.36           
+future              2         0.36           
+heliocentric        2         0.36           
+impressive          2         0.36           
+leave               2         0.36           
+let                 2         0.36           
+long                2         0.36           
+meet                2         0.36           
+mind                2         0.36           
+model               2         0.36           
+offense             2         0.36           
+open                2         0.36           
+probably            2         0.36           
+prove               2         0.36           
+recantation         2         0.36           
+reminder            2         0.36           
+revise              2         0.36           
+revision            2         0.36           
+seed                2         0.36           
+sky                 2         0.36           
+smart               2         0.36           
+soon                2         0.36           
+sorry               2         0.36           
+speak               2         0.36           
+special             2         0.36           
+student             2         0.36           
+sure                2         0.36           
+swear               2         0.36           
+take                2         0.36           
+terrifying          2         0.36           
+time                2         0.36           
+universe            2         0.36           
+use                 2         0.36           
+want                2         0.36           
+way                 2         0.36           
+work                2         0.36           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+13             1              know
+10             1              burn
+9              1              research
+8              2              end, heliocentrism
+6              2              right, think
+5              7              good, like, material, pain, say, ... (2 more)
+4              10             accuse, answer, experience, far, happen, ... (5 more)
+3              23             admission, afterlife, astronomy, believe, calculation, ... (18 more)
+2              53             academic, afternoon, agree, allow, avoid, ... (48 more)

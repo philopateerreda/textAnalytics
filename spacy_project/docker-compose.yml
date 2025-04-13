@@ -8,6 +8,7 @@ services:
       - ./text_analysis_results:/app/text_analysis_results
       - ./OldDBs:/app/OldDBs
       - ./readT:/app/readT
+      - .:/app
     environment:
       - LOG_LEVEL=INFO
     stdin_open: true

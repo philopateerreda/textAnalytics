@@ -414,20 +414,24 @@ class TextAnalyzer:
                 pos_groups.setdefault(pos, []).append((word, lemma))
             
             # Display words by part of speech
-            for pos, word_pairs in sorted(pos_groups.items()):
+            for pos, words in pos_groups.items():
                 f.write(f"\n{pos} words:\n")
                 f.write("-" * 40 + "\n")
-                
-                # Sort alphabetically by lemma
-                for word, lemma in sorted(word_pairs, key=lambda x: x[1]):
-                    if word != lemma:
-                        f.write(f"• {word} → {lemma}\n")
-                    else:
+                # Deduplicate words while preserving order
+                seen = set()
+                deduped_words = []
+                for word, lemma in words:
+                    if word not in seen:
+                        seen.add(word)
+                        deduped_words.append((word, lemma))
+                for word, lemma in deduped_words:
+                    if word == lemma:
                         f.write(f"• {word}\n")
-            f.write("\n")
+                    else:
+                        f.write(f"• {word} → {lemma}\n")
         else:
-            f.write("No new words found to learn.\n\n")
-            
+            f.write("No new words found to learn.\n")
+        
         f.write("DATABASE STATISTICS:\n")
         f.write("-" * 80 + "\n")
         f.write(f"• Words in database before analysis: {results['database_stats']['total_words_in_db_before']}\n")
@@ -565,8 +569,11 @@ class TextAnalyzer:
             self.save_results(results, output_file)
             logger.info(f"Results saved to '{output_file}.{self.output_format}'")
             
-            # Backup the database after analysis
-            self.backup_database(input_file)
+            # Backup the database after analysis only if we're not using --save-words no
+            if save_words_option != "no":
+                self.backup_database(input_file)
+            else:
+                logger.info("Skipping database backup (--save-words no specified)")
 
         except Exception as e:
             logger.error(f"Analysis failed: {e}")
