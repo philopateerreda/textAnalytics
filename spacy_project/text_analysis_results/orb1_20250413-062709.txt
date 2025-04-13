@@ -1,0 +1,145 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+No new words found to learn.
+
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 3780
+• Known lemmas in text: 380
+• New lemmas found in text: 0
+• New lemmas added to database: 0
+• Total words in database after analysis: 3780
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 101
+• Paragraph Count: 1
+• Avg Sentence Length: 19.71
+• Flesch Kincaid Grade: 8.44
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+know                11        1.72           
+universe            10        1.57           
+research            9         1.41           
+good                8         1.25           
+like                8         1.25           
+star                8         1.25           
+come                7         1.10           
+time                7         1.10           
+way                 7         1.10           
+astronomy           6         0.94           
+beautiful           6         0.94           
+center              6         0.94           
+live                6         0.94           
+beauty              5         0.78           
+movement            5         0.78           
+obtain              5         0.78           
+offer               5         0.78           
+right               5         0.78           
+sense               5         0.78           
+sun                 5         0.78           
+theology            5         0.78           
+truth               5         0.78           
+course              4         0.63           
+field               4         0.63           
+heretic             4         0.63           
+look                4         0.63           
+matter              4         0.63           
+observation         4         0.63           
+people              4         0.63           
+rational            4         0.63           
+study               4         0.63           
+think               4         0.63           
+world               4         0.63           
+answer              3         0.47           
+away                3         0.47           
+case                3         0.47           
+chance              3         0.47           
+continue            3         0.47           
+favor               3         0.47           
+guy                 3         0.47           
+hear                3         0.47           
+honor               3         0.47           
+kill                3         0.47           
+love                3         0.47           
+move                3         0.47           
+nail                3         0.47           
+object              3         0.47           
+place               3         0.47           
+recant              3         0.47           
+record              3         0.47           
+say                 3         0.47           
+scholar             3         0.47           
+see                 3         0.47           
+stop                3         0.47           
+university          3         0.47           
+want                3         0.47           
+abandon             2         0.31           
+amazing             2         0.31           
+avoid               2         0.31           
+awesome             2         0.31           
+believe             2         0.31           
+brag                2         0.31           
+burn                2         0.31           
+catch               2         0.31           
+complex             2         0.31           
+devote              2         0.31           
+early               2         0.31           
+exactly             2         0.31           
+eye                 2         0.31           
+faith               2         0.31           
+fall                2         0.31           
+forgive             2         0.31           
+get                 2         0.31           
+glad                2         0.31           
+high                2         0.31           
+hold                2         0.31           
+home                2         0.31           
+human               2         0.31           
+let                 2         0.31           
+lie                 2         0.31           
+little              2         0.31           
+long                2         0.31           
+magnitude           2         0.31           
+make                2         0.31           
+material            2         0.31           
+orb                 2         0.31           
+order               2         0.31           
+orderly             2         0.31           
+owe                 2         0.31           
+pain                2         0.31           
+plus                2         0.31           
+question            2         0.31           
+release             2         0.31           
+sir                 2         0.31           
+smart               2         0.31           
+special             2         0.31           
+thing               2         0.31           
+trouble             2         0.31           
+use                 2         0.31           
+ward                2         0.31           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+11             1              know
+10             1              universe
+9              1              research
+8              3              good, like, star
+7              3              come, time, way
+6              4              astronomy, beautiful, center, live
+5              9              beauty, movement, obtain, offer, right, ... (4 more)
+4              11             course, field, heretic, look, matter, ... (6 more)
+3              23             answer, away, case, chance, continue, ... (18 more)
+2              44             abandon, amazing, avoid, awesome, believe, ... (39 more)

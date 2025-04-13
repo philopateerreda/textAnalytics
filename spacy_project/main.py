@@ -1,3 +1,4 @@
+## docker exec -it text_analyzer python main.py /app/readT/path/to/your/file.srt --save-words yes
 import re
 import sqlite3
 import time
