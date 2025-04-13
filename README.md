@@ -44,14 +44,18 @@ A more advanced text analytics tool that uses spaCy for sophisticated NLP capabi
 - Python 3.9 (managed via Docker)
 - spaCy and its dependencies (installed via Docker)
 
-### Usage
+### run
 ```bash
 # Build and run with Docker Compose
 docker-compose up -d
 
 # Use the Docker container
-docker exec -it text-analytics-app python main.py --file /app/readT/your_file.txt
+## to save words:
+.\analyze_text.bat "file_path" --save-words yes
+## to not save words:
+.\analyze_text.bat "file_path" --save-words no
 ```
+<!-- Updated instructions for easier path handling -->
 
 ## Key Differences
 
