@@ -1,0 +1,201 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+NOUN words:
+----------------------------------------
+• prejudices → prejudice
+• theoretician
+• awe
+• admiration
+• errand
+• grasp
+• boor
+• preservation
+• townspeople
+• burden
+• ambiguity
+• breather
+• inevitability
+• severity
+• refuge
+• sincerity
+• solitude
+• acceptance
+• hometown
+• occupant
+• skepticism
+• commentary
+
+ADV words:
+----------------------------------------
+• nimbly
+• elegantly
+• peacefully
+
+VERB words:
+----------------------------------------
+• amazed → amaze
+• conceived → conceive
+• refined → refine
+• farewell
+• compensated → compensate
+• prevailing → prevail
+• pacified → pacify
+• contradict
+• coexist
+• resume
+• enrolled → enrol
+• refrained → refrain
+
+ADJ words:
+----------------------------------------
+• frivolous
+• prominent
+• revolutionary
+• fussy
+• speechless
+• hysterical
+• drastic
+• unavoidable
+• immaterial
+• insurmountable
+• creepy
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4698
+• Known lemmas in text: 387
+• New lemmas found in text: 48
+• New lemmas added to database: 48
+• Total words in database after analysis: 4746
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 80
+• Paragraph Count: 1
+• Avg Sentence Length: 26.25
+• Flesch Kincaid Grade: 11.34
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+way                 9         1.29           
+world               9         1.29           
+know                8         1.14           
+offer               8         1.14           
+father              7         1.00           
+long                7         1.00           
+right               7         1.00           
+thing               7         1.00           
+believe             6         0.86           
+feel                6         0.86           
+like                6         0.86           
+material            6         0.86           
+time                6         0.86           
+beauty              5         0.71           
+come                5         0.71           
+curiosity           5         0.71           
+doubt               5         0.71           
+end                 5         0.71           
+happen              5         0.71           
+human               5         0.71           
+knowledge           5         0.71           
+obtain              5         0.71           
+question            5         0.71           
+think               5         0.71           
+truth               5         0.71           
+faith               4         0.57           
+leave               4         0.57           
+result              4         0.57           
+teacher             4         0.57           
+theory              4         0.57           
+university          4         0.57           
+word                4         0.57           
+work                4         0.57           
+book                3         0.43           
+case                3         0.43           
+choose              3         0.43           
+clear               3         0.43           
+continue            3         0.43           
+course              3         0.43           
+deal                3         0.43           
+finally             3         0.43           
+find                3         0.43           
+important           3         0.43           
+let                 3         0.43           
+lose                3         0.43           
+man                 3         0.43           
+miracle             3         0.43           
+new                 3         0.43           
+past                3         0.43           
+pursue              3         0.43           
+sacrifice           3         0.43           
+say                 3         0.43           
+share               3         0.43           
+speak               3         0.43           
+start               3         0.43           
+tell                3         0.43           
+unavoidable         3         0.43           
+understand          3         0.43           
+write               3         0.43           
+age                 2         0.29           
+attend              2         0.29           
+bad                 2         0.29           
+big                 2         0.29           
+body                2         0.29           
+certain             2         0.29           
+conviction          2         0.29           
+cosmology           2         0.29           
+day                 2         0.29           
+different           2         0.29           
+eliminate           2         0.29           
+future              2         0.29           
+grow                2         0.29           
+honest              2         0.29           
+hurt                2         0.29           
+inherit             2         0.29           
+intend              2         0.29           
+learn               2         0.29           
+listen              2         0.29           
+look                2         0.29           
+mean                2         0.29           
+model               2         0.29           
+movement            2         0.29           
+name                2         0.29           
+observation         2         0.29           
+orb                 2         0.29           
+point               2         0.29           
+probably            2         0.29           
+problem             2         0.29           
+refuse              2         0.29           
+research            2         0.29           
+secret              2         0.29           
+see                 2         0.29           
+sin                 2         0.29           
+social              2         0.29           
+stay                2         0.29           
+thank               2         0.29           
+thinking            2         0.29           
+today               2         0.29           
+want                2         0.29           
+young               2         0.29           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+9              2              way, world
+8              2              know, offer
+7              4              father, long, right, thing
+6              5              believe, feel, like, material, time
+5              12             beauty, come, curiosity, doubt, end, ... (7 more)
+4              8              faith, leave, result, teacher, theory, ... (3 more)
+3              26             book, case, choose, clear, continue, ... (21 more)
+2              41             age, attend, bad, big, body, ... (36 more)

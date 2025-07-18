@@ -1,0 +1,215 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• sinful
+• sublime
+• solemn
+• sacred
+• sweeping
+• vivid
+• imminent
+• frank
+• fascinated
+• fiery
+• circular
+• unstable
+• unpredictable
+• deformed
+• primal
+• momentary
+• lifelong
+
+VERB words:
+----------------------------------------
+• comprehend
+• mingle
+• commence
+• feign
+• envy
+• forgave
+• reconsider
+• seething → seethe
+
+NOUN words:
+----------------------------------------
+• splendor
+• glow
+• masks → mask
+• retribution
+• stature
+• reflexes → reflex
+• murderer
+• outlook
+• assassins → assassin
+• duelists → duelist
+• perfection
+• realization
+• finale
+• ignorance
+• weirdo
+• stargazing
+• tonight
+• charm
+• mask
+• hopelessness
+• chalice
+• grief
+• crucifixion
+• frustration
+• drivel
+• rambling
+• mountainside
+• denial
+• affirmation
+
+AUX words:
+----------------------------------------
+• wanna
+
+ADV words:
+----------------------------------------
+• aimlessly
+• hideously
+• blindly
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4776
+• Known lemmas in text: 379
+• New lemmas found in text: 57
+• New lemmas added to database: 57
+• Total words in database after analysis: 4833
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 92
+• Paragraph Count: 1
+• Avg Sentence Length: 24.76
+• Flesch Kincaid Grade: 9.97
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+like                13        1.79           
+know                10        1.37           
+hope                9         1.24           
+look                9         1.24           
+star                9         1.24           
+world               9         1.24           
+die                 7         0.96           
+sky                 7         0.96           
+beautiful           6         0.82           
+change              6         0.82           
+heretic             6         0.82           
+let                 6         0.82           
+people              6         0.82           
+right               6         0.82           
+work                6         0.82           
+life                5         0.69           
+sorry               5         0.69           
+thing               5         0.69           
+understand          5         0.69           
+want                5         0.69           
+ask                 4         0.55           
+bear                4         0.55           
+believe             4         0.55           
+despair             4         0.55           
+find                4         0.55           
+good                4         0.55           
+move                4         0.55           
+observation         4         0.55           
+perfect             4         0.55           
+place               4         0.55           
+say                 4         0.55           
+thank               4         0.55           
+think               4         0.55           
+way                 4         0.55           
+allow               3         0.41           
+bad                 3         0.41           
+begin               3         0.41           
+big                 3         0.41           
+call                3         0.41           
+center              3         0.41           
+circle              3         0.41           
+circular            3         0.41           
+constellation       3         0.41           
+corrupt             3         0.41           
+death               3         0.41           
+eye                 3         0.41           
+fact                3         0.41           
+fail                3         0.41           
+fall                3         0.41           
+feel                3         0.41           
+gaze                3         0.41           
+guess               3         0.41           
+heaven              3         0.41           
+humankind           3         0.41           
+leave               3         0.41           
+lose                3         0.41           
+movement            3         0.41           
+night               3         0.41           
+notice              3         0.41           
+one                 3         0.41           
+perfection          3         0.41           
+realm               3         0.41           
+see                 3         0.41           
+speak               3         0.41           
+stop                3         0.41           
+time                3         0.41           
+truth               3         0.41           
+try                 3         0.41           
+turn                3         0.41           
+universe            3         0.41           
+wrong               3         0.41           
+ago                 2         0.27           
+aside               2         0.27           
+away                2         0.27           
+cast                2         0.27           
+choose              2         0.27           
+come                2         0.27           
+course              2         0.27           
+dream               2         0.27           
+duel                2         0.27           
+far                 2         0.27           
+fight               2         0.27           
+glow                2         0.27           
+happy               2         0.27           
+hold                2         0.27           
+live                2         0.27           
+love                2         0.27           
+lowly               2         0.27           
+mask                2         0.27           
+matter              2         0.27           
+member              2         0.27           
+peasant             2         0.27           
+point               2         0.27           
+sin                 2         0.27           
+tell                2         0.27           
+today               2         0.27           
+true                2         0.27           
+wait                2         0.27           
+wonderful           2         0.27           
+word                2         0.27           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+13             1              like
+10             1              know
+9              4              hope, look, star, world
+7              2              die, sky
+6              7              beautiful, change, heretic, let, people, ... (2 more)
+5              5              life, sorry, thing, understand, want
+4              14             ask, bear, believe, despair, find, ... (9 more)
+3              37             allow, bad, begin, big, call, ... (32 more)
+2              29             ago, aside, away, cast, choose, ... (24 more)

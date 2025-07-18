@@ -1,0 +1,172 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADJ words:
+----------------------------------------
+• archival
+• faultless
+• mistaken
+• fullness
+• ferocious
+• puzzling
+
+NOUN words:
+----------------------------------------
+• precision
+• verge
+• accordance
+• sighting
+• imbeciles → imbecile
+• stubbornness
+
+ADV words:
+----------------------------------------
+• perilously
+• mistakenly
+• mercilessly
+
+VERB words:
+----------------------------------------
+• concocted → concoct
+• accumulated → accumulate
+• shed
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4970
+• Known lemmas in text: 331
+• New lemmas found in text: 18
+• New lemmas added to database: 18
+• Total words in database after analysis: 4988
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 83
+• Paragraph Count: 1
+• Avg Sentence Length: 25.6
+• Flesch Kincaid Grade: 10.28
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+think               11        1.79           
+know                9         1.47           
+model               9         1.47           
+like                8         1.31           
+mean                8         1.31           
+right               8         1.31           
+tell                8         1.31           
+life                7         1.14           
+truth               7         1.14           
+universe            7         1.14           
+appear              6         0.98           
+final               6         0.98           
+look                6         0.98           
+phase               6         0.98           
+history             5         0.82           
+read                5         0.82           
+see                 5         0.82           
+thing               5         0.82           
+time                5         0.82           
+true                5         0.82           
+work                5         0.82           
+case                4         0.65           
+circle              4         0.65           
+complete            4         0.65           
+course              4         0.65           
+feel                4         0.65           
+great               4         0.65           
+human               4         0.65           
+long                4         0.65           
+matter              4         0.65           
+need                4         0.65           
+perfect             4         0.65           
+person              4         0.65           
+shape               4         0.65           
+theory              4         0.65           
+way                 4         0.65           
+world               4         0.65           
+wrong               4         0.65           
+accept              3         0.49           
+ask                 3         0.49           
+away                3         0.49           
+center              3         0.49           
+certain             3         0.49           
+change              3         0.49           
+correct             3         0.49           
+cosmos              3         0.49           
+day                 3         0.49           
+doubt               3         0.49           
+excuse              3         0.49           
+far                 3         0.49           
+meet                3         0.49           
+miracle             3         0.49           
+reach               3         0.49           
+research            3         0.49           
+revolve             3         0.49           
+small               3         0.49           
+understand          3         0.49           
+want                3         0.49           
+writing             3         0.49           
+ability             2         0.33           
+amazing             2         0.33           
+archival            2         0.33           
+beautiful           2         0.33           
+burden              2         0.33           
+carry               2         0.33           
+clear               2         0.33           
+corrupt             2         0.33           
+end                 2         0.33           
+epicycle            2         0.33           
+error               2         0.33           
+eye                 2         0.33           
+find                2         0.33           
+form                2         0.33           
+good                2         0.33           
+heliocentrism       2         0.33           
+hypothesis          2         0.33           
+idea                2         0.33           
+illuminate          2         0.33           
+imbecile            2         0.33           
+incredible          2         0.33           
+leave               2         0.33           
+mind                2         0.33           
+moment              2         0.33           
+move                2         0.33           
+movement            2         0.33           
+natural             2         0.33           
+opportunity         2         0.33           
+orb                 2         0.33           
+place               2         0.33           
+proper              2         0.33           
+record              2         0.33           
+refine              2         0.33           
+rule                2         0.33           
+sky                 2         0.33           
+square              2         0.33           
+task                2         0.33           
+trick               2         0.33           
+try                 2         0.33           
+vault               2         0.33           
+worried             2         0.33           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+11             1              think
+9              2              know, model
+8              4              like, mean, right, tell
+7              3              life, truth, universe
+6              4              appear, final, look, phase
+5              7              history, read, see, thing, time, ... (2 more)
+4              17             case, circle, complete, course, feel, ... (12 more)
+3              21             accept, ask, away, center, certain, ... (16 more)
+2              41             ability, amazing, archival, beautiful, burden, ... (36 more)

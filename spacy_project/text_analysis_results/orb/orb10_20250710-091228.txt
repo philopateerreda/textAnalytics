@@ -1,0 +1,248 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+NOUN words:
+----------------------------------------
+• barn
+• reading
+• trail
+• sunlight
+• array
+• monastery
+• pagan
+• sharing
+• commoners → commoner
+• disciple
+• neighbor
+• believer
+• villagers → villager
+• scar
+• duel
+• killer
+• clergyman
+• clergy
+• curiosity
+• thirst
+• behavior
+• discrepancies → discrepancy
+• orbits → orbit
+• organization
+• rations → ration
+• beggars → beggar
+• orbit
+• intersection
+• treatise
+• peasants → peasant
+• inquisitors → inquisitor
+• midst
+• turmoil
+• morality
+• salvation
+• pagans → pagan
+• hell
+• madness
+
+ADJ words:
+----------------------------------------
+• unreliable
+• dire
+• badeni
+• moist
+• pagan
+• atomic
+• atheistic
+• wary
+• intolerable
+• arrogant
+• prejudiced
+• wrathful
+• uncontrollable
+• immoral
+• shrewd
+• flawless
+• planetary
+• retrograde
+• imperfect
+• geocentric
+• elliptical
+• polished
+• heliocentric
+• divided
+• petty
+
+VERB words:
+----------------------------------------
+• putting → put
+• congratulating → congratulate
+• withstanding → withstand
+• refute
+• stems → stem
+• quote
+• despise
+• disapprove
+• drifted → drift
+• confronted → confront
+• overlook
+• prying → pry
+• discard
+• restructuring → restructure
+• destined → destine
+• plunged → plunge
+
+ADV words:
+----------------------------------------
+• aside
+• surprisingly
+• misguidedly
+• astray
+• lightly
+
+SCONJ words:
+----------------------------------------
+• humankind
+
+AUX words:
+----------------------------------------
+• having
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 3932
+• Known lemmas in text: 350
+• New lemmas found in text: 83
+• New lemmas added to database: 83
+• Total words in database after analysis: 4015
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 98
+• Paragraph Count: 1
+• Avg Sentence Length: 22.52
+• Flesch Kincaid Grade: 9.33
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+work                14        1.98           
+write               13        1.84           
+want                11        1.56           
+think               9         1.27           
+like                8         1.13           
+read                8         1.13           
+need                7         0.99           
+research            7         0.99           
+tell                7         0.99           
+world               6         0.85           
+close               5         0.71           
+course              5         0.71           
+friend              5         0.71           
+know                5         0.71           
+people              5         0.71           
+scar                5         0.71           
+story               5         0.71           
+barn                4         0.57           
+bread               4         0.57           
+color               4         0.57           
+excuse              4         0.57           
+hear                4         0.57           
+heretic             4         0.57           
+knowledge           4         0.57           
+lead                4         0.57           
+learn               4         0.57           
+lose                4         0.57           
+mean                4         0.57           
+orbit               4         0.57           
+pagan               4         0.57           
+rainbow             4         0.57           
+right               4         0.57           
+thank               4         0.57           
+theory              4         0.57           
+atmosphere          3         0.42           
+case                3         0.42           
+church              3         0.42           
+circle              3         0.42           
+come                3         0.42           
+continue            3         0.42           
+dear                3         0.42           
+duel                3         0.42           
+good                3         0.42           
+hope                3         0.42           
+join                3         0.42           
+let                 3         0.42           
+man                 3         0.42           
+mind                3         0.42           
+movement            3         0.42           
+occur               3         0.42           
+pull                3         0.42           
+purpose             3         0.42           
+record              3         0.42           
+sorry               3         0.42           
+thing               3         0.42           
+truth               3         0.42           
+use                 3         0.42           
+wait                3         0.42           
+way                 3         0.42           
+word                3         0.42           
+alive               2         0.28           
+ask                 2         0.28           
+attend              2         0.28           
+behavior            2         0.28           
+book                2         0.28           
+certain             2         0.28           
+child               2         0.28           
+end                 2         0.28           
+faith               2         0.28           
+far                 2         0.28           
+forgive             2         0.28           
+furthermore         2         0.28           
+get                 2         0.28           
+hard                2         0.28           
+idea                2         0.28           
+immoral             2         0.28           
+information         2         0.28           
+interest            2         0.28           
+leave               2         0.28           
+library             2         0.28           
+light               2         0.28           
+orb                 2         0.28           
+ordinary            2         0.28           
+outside             2         0.28           
+perform             2         0.28           
+produce             2         0.28           
+put                 2         0.28           
+qualification       2         0.28           
+rare                2         0.28           
+reason              2         0.28           
+remember            2         0.28           
+responsibility      2         0.28           
+result              2         0.28           
+share               2         0.28           
+special             2         0.28           
+stone               2         0.28           
+take                2         0.28           
+teach               2         0.28           
+time                2         0.28           
+tragedy             2         0.28           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+14             1              work
+13             1              write
+11             1              want
+9              1              think
+8              2              like, read
+7              3              need, research, tell
+6              1              world
+5              7              close, course, friend, know, people, ... (2 more)
+4              17             barn, bread, color, excuse, hear, ... (12 more)
+3              26             atmosphere, case, church, circle, come, ... (21 more)
+2              40             alive, ask, attend, behavior, book, ... (35 more)

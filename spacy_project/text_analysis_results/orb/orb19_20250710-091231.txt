@@ -1,0 +1,217 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+NOUN words:
+----------------------------------------
+• shortcomings → shortcoming
+• wandering
+• timing
+• burnings → burning
+• authorization
+• bishop
+• recantation
+• monks → monk
+• envoy
+• mob
+• sorcerer
+• sorcery
+• moderation
+• followers → follower
+• tactics → tactic
+• hint
+• cosmology
+• novice
+• means
+• printing
+• typeface
+• craftsmen → craftsman
+• winepress
+• amounts → amount
+• moneymaker
+• coordinates → coordinate
+• geometry
+• peek
+• greatness
+• cessation
+• shield
+• trajectory
+• accomplishments → accomplishment
+• typefaces → typeface
+• miracles → miracle
+
+VERB words:
+----------------------------------------
+• memorized → memorize
+• submerge
+• perished → perish
+• reemerge
+• rethink
+• overthrow
+• underestimated → underestimate
+• manipulated → manipulate
+• erase
+• belittle
+• disrupt
+• suppress
+• overthrown → overthrow
+• ceased → cease
+• diffused → diffuse
+• reunite
+
+ADV words:
+----------------------------------------
+• gently
+• awfully
+
+ADJ words:
+----------------------------------------
+• dedicated
+• timid
+• subordinate
+• resilient
+• reassured
+• brazen
+• farthest → farth
+• minded
+• reckless
+• grotesque
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4386
+• Known lemmas in text: 374
+• New lemmas found in text: 61
+• New lemmas added to database: 61
+• Total words in database after analysis: 4447
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 96
+• Paragraph Count: 1
+• Avg Sentence Length: 23.55
+• Flesch Kincaid Grade: 10.12
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+book                21        2.87           
+heliocentrism       9         1.23           
+know                9         1.23           
+want                8         1.09           
+ask                 7         0.96           
+find                7         0.96           
+inquisitor          7         0.96           
+man                 6         0.82           
+money               6         0.82           
+right               6         0.82           
+time                6         0.82           
+work                6         0.82           
+case                5         0.68           
+heretic             5         0.68           
+kill                5         0.68           
+like                5         0.68           
+people              5         0.68           
+tell                5         0.68           
+true                5         0.68           
+way                 5         0.68           
+age                 4         0.55           
+burn                4         0.55           
+conviction          4         0.55           
+end                 4         0.55           
+forget              4         0.55           
+freedom             4         0.55           
+important           4         0.55           
+life                4         0.55           
+likely              4         0.55           
+long                4         0.55           
+old                 4         0.55           
+planet              4         0.55           
+printing            4         0.55           
+say                 4         0.55           
+think               4         0.55           
+ago                 3         0.41           
+assumption          3         0.41           
+authority           3         0.41           
+believe             3         0.41           
+come                3         0.41           
+cosmology           3         0.41           
+defend              3         0.41           
+destination         3         0.41           
+die                 3         0.41           
+drink               3         0.41           
+far                 3         0.41           
+friend              3         0.41           
+goal                3         0.41           
+lead                3         0.41           
+leave               3         0.41           
+let                 3         0.41           
+live                3         0.41           
+make                3         0.41           
+meet                3         0.41           
+new                 3         0.41           
+occur               3         0.41           
+order               3         0.41           
+orthodoxy           3         0.41           
+press               3         0.41           
+produce             3         0.41           
+profit              3         0.41           
+read                3         0.41           
+reason              3         0.41           
+share               3         0.41           
+steal               3         0.41           
+try                 3         0.41           
+wander              3         0.41           
+word                3         0.41           
+write               3         0.41           
+year                3         0.41           
+accuse              2         0.27           
+act                 2         0.27           
+attack              2         0.27           
+chamber             2         0.27           
+change              2         0.27           
+confiscate          2         0.27           
+conflict            2         0.27           
+content             2         0.27           
+different           2         0.27           
+faith               2         0.27           
+feel                2         0.27           
+final               2         0.27           
+follow              2         0.27           
+get                 2         0.27           
+history             2         0.27           
+inquisition         2         0.27           
+leader              2         0.27           
+method              2         0.27           
+need                2         0.27           
+pass                2         0.27           
+rise                2         0.27           
+safe                2         0.27           
+see                 2         0.27           
+serve               2         0.27           
+speak               2         0.27           
+torture             2         0.27           
+treat               2         0.27           
+use                 2         0.27           
+well                2         0.27           
+young               2         0.27           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+21             1              book
+9              2              heliocentrism, know
+8              1              want
+7              3              ask, find, inquisitor
+6              5              man, money, right, time, work
+5              8              case, heretic, kill, like, people, ... (3 more)
+4              15             age, burn, conviction, end, forget, ... (10 more)
+3              35             ago, assumption, authority, believe, come, ... (30 more)
+2              30             accuse, act, attack, chamber, change, ... (25 more)

@@ -1,0 +1,25 @@
+# Docker and Git
+Dockerfile
+.dockerignore
+.git
+.gitignore
+
+# Python virtual environment and cache
+venv
+.venv
+env
+__pycache__/
+*.pyc
+
+# Local IDE / OS files
+.vscode/
+.idea/
+*.DS_Store
+
+# Output directories that are managed by volumes
+db/
+text_analysis_results/
+OldDBs/
+
+# Log files
+*.log

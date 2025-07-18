@@ -1,0 +1,1552 @@
+﻿1
+00:00:05,046 --> 00:00:08,967
+This is the leader
+of the Heretic Liberation Front...
+
+2
+00:00:10,343 --> 00:00:11,553
+Jolenta.
+
+3
+00:00:13,430 --> 00:00:15,724
+I'm glad you're all safe.
+
+4
+00:00:19,853 --> 00:00:23,356
+I know I should ask who that girl is.
+
+5
+00:00:24,691 --> 00:00:27,360
+But first, where's the book?
+
+6
+00:00:28,737 --> 00:00:29,779
+About that...
+
+7
+00:00:30,447 --> 00:00:33,908
+Due to my shortcomings,
+she got away with burning it.
+
+8
+00:00:34,909 --> 00:00:38,830
+However, she says
+she memorized the book's contents.
+
+9
+00:00:39,414 --> 00:00:40,373
+It's true!
+
+10
+00:00:40,874 --> 00:00:43,668
+I'm Draka. Pleased to meet you.
+
+11
+00:00:46,421 --> 00:00:47,338
+Oh?
+
+12
+00:00:48,423 --> 00:00:49,799
+Well then, Draka.
+
+13
+00:00:50,300 --> 00:00:51,176
+Come with me.
+
+14
+00:01:18,286 --> 00:01:20,789
+{\an8}ORB: ON THE MOVEMENTS OF THE EARTH
+
+15
+00:02:27,564 --> 00:02:32,694
+{\an8}EPISODE 19
+WANDERING IS HOW YOU FIND WHAT'S RIGHT
+
+16
+00:02:40,368 --> 00:02:41,744
+Hey there!
+
+17
+00:02:43,288 --> 00:02:45,331
+What a nuisance.
+
+18
+00:02:45,832 --> 00:02:47,834
+He passed out just from that?
+
+19
+00:02:48,334 --> 00:02:50,545
+- Hey, Asch!
+- Huh?
+
+20
+00:02:50,628 --> 00:02:52,213
+May we speak?
+
+21
+00:02:52,297 --> 00:02:54,757
+Perfect timing.
+I wanted to speak with you too,
+
+22
+00:02:55,341 --> 00:02:56,634
+Bishop Damian.
+
+23
+00:02:57,343 --> 00:03:00,972
+You ordered burnings
+at the stake again, didn't you?
+
+24
+00:03:01,055 --> 00:03:03,183
+And torture like this!
+
+25
+00:03:03,266 --> 00:03:04,517
+What about it?
+
+26
+00:03:05,685 --> 00:03:07,937
+I serve directly under the Holy Father.
+
+27
+00:03:08,438 --> 00:03:11,733
+I don't need authorization
+from a bishop like you.
+
+28
+00:03:13,151 --> 00:03:14,527
+Yes, that's true.
+
+29
+00:03:15,028 --> 00:03:17,780
+But you've clearly gone too far.
+
+30
+00:03:17,864 --> 00:03:22,327
+You're supposed to
+gently guide them toward recantation.
+
+31
+00:03:24,204 --> 00:03:25,663
+I've tried all of that.
+
+32
+00:03:26,247 --> 00:03:27,540
+But it was no use.
+
+33
+00:03:28,625 --> 00:03:30,293
+Besides, have you forgotten history?
+
+34
+00:03:31,002 --> 00:03:35,506
+200 years ago, when dedicated monks
+taught them the error of their ways,
+
+35
+00:03:36,007 --> 00:03:38,092
+the heretics responded by throwing stones.
+
+36
+00:03:38,593 --> 00:03:42,805
+Around that same time,
+they even killed an envoy of the Emperor.
+
+37
+00:03:43,431 --> 00:03:46,434
+The minute you go soft on them,
+that's how they act.
+
+38
+00:03:47,143 --> 00:03:49,312
+It's you who should read more history.
+
+39
+00:03:50,521 --> 00:03:53,316
+That was only 200 years ago.
+
+40
+00:03:53,816 --> 00:03:56,819
+Go back further, to 500 years ago,
+
+41
+00:03:56,903 --> 00:03:59,906
+and you'll find that the Archbishop
+
+42
+00:03:59,989 --> 00:04:02,200
+once defended accused witches from a mob.
+
+43
+00:04:02,283 --> 00:04:03,785
+And 400 years ago,
+
+44
+00:04:03,868 --> 00:04:07,455
+a sorcerer once rose to become Emperor.
+
+45
+00:04:08,539 --> 00:04:14,504
+The Church of old treated those accused
+of heresy or sorcery with moderation.
+
+46
+00:04:15,129 --> 00:04:16,130
+I don't get it.
+
+47
+00:04:16,631 --> 00:04:18,466
+Why are you so timid?
+
+48
+00:04:19,676 --> 00:04:23,763
+At this very moment, the Reformation
+and the heretical groups who followed them
+
+49
+00:04:23,846 --> 00:04:25,682
+are attacking the Church orthodoxy.
+
+50
+00:04:26,182 --> 00:04:28,059
+Our followers are all frightened.
+
+51
+00:04:28,142 --> 00:04:31,562
+If we don't act now to defend the faith,
+
+52
+00:04:31,646 --> 00:04:33,314
+how can we call ourselves clergy?
+
+53
+00:04:35,775 --> 00:04:36,651
+I too...
+
+54
+00:04:38,611 --> 00:04:40,738
+{\an8}When I was younger,
+
+55
+00:04:40,822 --> 00:04:43,658
+{\an8}I too felt the same sense of urgency.
+
+56
+00:04:44,534 --> 00:04:48,246
+{\an8}But having lived longer,
+I've seen many things,
+
+57
+00:04:48,329 --> 00:04:49,831
+{\an8}and I've realized something.
+
+58
+00:04:51,207 --> 00:04:55,211
+These methods cannot be changing
+the world for the better.
+
+59
+00:04:56,546 --> 00:04:57,797
+As you say,
+
+60
+00:04:58,298 --> 00:05:02,385
+the Church orthodoxy
+has grown remarkably weaker.
+
+61
+00:05:03,052 --> 00:05:04,721
+But what good will conflict do?
+
+62
+00:05:06,180 --> 00:05:08,182
+Rather than killing others,
+
+63
+00:05:08,266 --> 00:05:10,727
+it's better to die defending the Church.
+
+64
+00:05:11,561 --> 00:05:14,772
+There can be no salvation
+built on terror and torture.
+
+65
+00:05:15,273 --> 00:05:17,608
+Love those with different beliefs!
+
+66
+00:05:21,362 --> 00:05:22,280
+Submerge him.
+
+67
+00:05:24,741 --> 00:05:26,284
+Are you finished?
+
+68
+00:05:27,368 --> 00:05:29,120
+If so, it's my turn.
+
+69
+00:05:29,746 --> 00:05:32,999
+Just the other day,
+an inquisition chamber was attacked.
+
+70
+00:05:33,499 --> 00:05:36,878
+A total of ten men perished,
+including guards and an inquisitor.
+
+71
+00:05:38,212 --> 00:05:41,466
+Their tactics indicate
+it was the Heretic Liberation Front.
+
+72
+00:05:42,216 --> 00:05:44,344
+But something else caught our attention.
+
+73
+00:05:45,595 --> 00:05:48,723
+They stole a book that we had confiscated.
+
+74
+00:05:49,223 --> 00:05:51,392
+A book? What book?
+
+75
+00:05:52,226 --> 00:05:54,395
+Something about "heliocentrism."
+
+76
+00:05:56,230 --> 00:05:58,733
+We confiscated the book
+nearly one year ago.
+
+77
+00:05:59,233 --> 00:06:01,527
+I'm told it was found
+in an abandoned church.
+
+78
+00:06:02,278 --> 00:06:04,364
+The book seems fairly old,
+
+79
+00:06:04,447 --> 00:06:07,867
+but there was no indication
+of who wrote it or when.
+
+80
+00:06:07,950 --> 00:06:12,246
+Our only hint was the final passage
+and an accompanying address.
+
+81
+00:06:13,122 --> 00:06:15,124
+It said, "Give ten percent to Potocki."
+
+82
+00:06:16,793 --> 00:06:18,211
+But when we looked into it,
+
+83
+00:06:18,294 --> 00:06:21,089
+the man named Potocki had died long ago.
+
+84
+00:06:21,589 --> 00:06:26,594
+Only a citizen with no relation
+lives at the address now.
+
+85
+00:06:27,428 --> 00:06:28,846
+It's quite a mystery.
+
+86
+00:06:30,264 --> 00:06:34,685
+Potocki is a man who was arrested
+for researching heliocentrism.
+
+87
+00:06:35,186 --> 00:06:36,229
+What?
+
+88
+00:06:36,312 --> 00:06:37,688
+Years later,
+
+89
+00:06:37,772 --> 00:06:41,901
+heliocentrism also led to the death
+of his pupil and his adopted son.
+
+90
+00:06:42,402 --> 00:06:45,988
+That was 35 years ago. It was my case.
+
+91
+00:06:47,365 --> 00:06:49,951
+But why, after all these years?
+
+92
+00:06:50,034 --> 00:06:51,661
+Who could have written it?
+
+93
+00:06:51,744 --> 00:06:52,620
+Uh, what?
+
+94
+00:06:52,703 --> 00:06:55,289
+Was it those two young men
+from the village?
+
+95
+00:06:55,373 --> 00:06:58,835
+No, they died 25 years ago too.
+
+96
+00:06:58,918 --> 00:07:02,171
+If I may, what I wanted to ask about
+
+97
+00:07:02,255 --> 00:07:05,591
+was finding someone well-versed
+in cosmology for the investigation.
+
+98
+00:07:07,093 --> 00:07:09,137
+Do you know of anyone?
+
+99
+00:07:11,639 --> 00:07:13,474
+Cosmology, eh?
+
+100
+00:07:18,688 --> 00:07:20,356
+<i>At a bar on the edge of town,</i>
+
+101
+00:07:20,440 --> 00:07:23,359
+<i>you'll find a certain former inquisitor.</i>
+
+102
+00:07:24,277 --> 00:07:26,487
+Um, excuse me.
+
+103
+00:07:27,113 --> 00:07:29,282
+Bishop Damian sent me.
+
+104
+00:07:33,161 --> 00:07:35,371
+Are you Nowak?
+
+105
+00:07:36,372 --> 00:07:37,915
+Who are you?
+
+106
+00:07:40,626 --> 00:07:43,713
+Oh, uh, my name is Asch.
+
+107
+00:07:43,796 --> 00:07:45,173
+I'm an inquisitor.
+
+108
+00:07:46,757 --> 00:07:48,801
+- Will you...
+- Huh?
+
+109
+00:07:48,885 --> 00:07:51,345
+Will you buy me a drink?
+
+110
+00:07:51,929 --> 00:07:53,097
+No, uh...
+
+111
+00:07:53,181 --> 00:07:55,308
+This is about work. I'm not here to drink.
+
+112
+00:08:01,063 --> 00:08:02,482
+Um, sir?
+
+113
+00:08:04,901 --> 00:08:06,319
+Who are you?
+
+114
+00:08:09,238 --> 00:08:11,824
+I'm Asch, an inquisitor.
+
+115
+00:08:11,908 --> 00:08:15,453
+I'd like to ask for your help
+with a recent incident.
+
+116
+00:08:15,536 --> 00:08:18,789
+Huh? An inquisitor?
+
+117
+00:08:19,290 --> 00:08:20,583
+You?
+
+118
+00:08:20,666 --> 00:08:21,834
+Yes.
+
+119
+00:08:23,586 --> 00:08:26,047
+You're really an inquisitor?
+
+120
+00:08:26,130 --> 00:08:28,174
+That makes you my junior.
+
+121
+00:08:28,257 --> 00:08:30,134
+You're a novice, aren't you?
+
+122
+00:08:31,010 --> 00:08:33,763
+In that case,
+I'll let you in on something.
+
+123
+00:08:34,263 --> 00:08:37,475
+You know the bishop Damian, right?
+
+124
+00:08:38,267 --> 00:08:41,354
+He was once my subordinate.
+
+125
+00:08:42,063 --> 00:08:45,566
+And since he owes me for back then,
+
+126
+00:08:45,650 --> 00:08:49,695
+he employs me personally now.
+
+127
+00:08:50,196 --> 00:08:52,448
+In other words, I've reached the point
+
+128
+00:08:52,532 --> 00:08:55,451
+where I earn money without working.
+
+129
+00:08:55,535 --> 00:08:56,869
+Do you get it?
+
+130
+00:08:56,953 --> 00:08:58,996
+I don't have to work.
+
+131
+00:09:00,790 --> 00:09:03,376
+So I won't be discussing a job with you.
+
+132
+00:09:04,043 --> 00:09:05,586
+Run along now.
+
+133
+00:09:05,670 --> 00:09:08,631
+I've got no use for someone
+who won't buy me a drink.
+
+134
+00:09:09,257 --> 00:09:11,717
+It was Damian who sent me.
+
+135
+00:09:12,218 --> 00:09:14,762
+Oh, yeah? Well, you can leave.
+
+136
+00:09:16,847 --> 00:09:18,891
+Everyone has a past.
+
+137
+00:09:19,392 --> 00:09:23,020
+He is another man whose life
+was ruined by heliocentrism.
+
+138
+00:09:24,480 --> 00:09:28,484
+It's about the heliocentrism case
+you worked on 35 years ago.
+
+139
+00:09:32,572 --> 00:09:33,489
+What?
+
+140
+00:09:34,073 --> 00:09:36,742
+You're an expert in cosmology, right?
+
+141
+00:09:36,826 --> 00:09:40,246
+Recently, a book was stolen
+from our inquisition chamber.
+
+142
+00:09:41,289 --> 00:09:45,876
+The book is likely related
+to the case you worked on.
+
+143
+00:09:47,086 --> 00:09:48,504
+That's impossible.
+
+144
+00:09:49,380 --> 00:09:50,715
+And yet, it's true.
+
+145
+00:09:52,258 --> 00:09:53,509
+Leave.
+
+146
+00:09:53,593 --> 00:09:55,261
+- But--
+- Just go!
+
+147
+00:10:00,099 --> 00:10:02,184
+E-Excuse me, then.
+
+148
+00:10:12,403 --> 00:10:13,654
+<i>It can't be.</i>
+
+149
+00:10:15,072 --> 00:10:16,657
+<i>All is said and done.</i>
+
+150
+00:10:22,872 --> 00:10:26,792
+<i>I brought it to an end long ago.</i>
+
+151
+00:10:28,169 --> 00:10:32,506
+<i>It dares to reemerge
+after all these years?</i>
+
+152
+00:10:34,175 --> 00:10:35,343
+When my...
+
+153
+00:10:36,927 --> 00:10:40,181
+When my daughter is still dead?!
+
+154
+00:10:41,891 --> 00:10:43,559
+Your enemy is a resilient one.
+
+155
+00:10:47,104 --> 00:10:48,439
+So what?
+
+156
+00:10:51,025 --> 00:10:53,778
+What was that about?
+He was just an old drunk!
+
+157
+00:10:56,030 --> 00:10:56,989
+Wait.
+
+158
+00:11:00,451 --> 00:11:02,870
+Huh? Oh, uh, hello.
+
+159
+00:11:03,371 --> 00:11:05,331
+Have you narrowed the list of suspects?
+
+160
+00:11:05,998 --> 00:11:07,833
+Uh, y-yes.
+
+161
+00:11:08,459 --> 00:11:11,504
+We believe it was the work
+of the Heretic Liberation Front.
+
+162
+00:11:12,463 --> 00:11:14,882
+Allow me to join the investigation.
+
+163
+00:11:16,759 --> 00:11:19,720
+I'll need information
+on the Heretic Liberation Front.
+
+164
+00:11:20,221 --> 00:11:22,390
+Have you identified their leader?
+
+165
+00:11:22,973 --> 00:11:23,849
+Yes.
+
+166
+00:11:23,933 --> 00:11:27,144
+There's conflicting information,
+but we believe it's a woman.
+
+167
+00:11:28,729 --> 00:11:30,022
+How tragic.
+
+168
+00:11:30,606 --> 00:11:33,859
+She surely could have lived a safer life.
+
+169
+00:11:35,403 --> 00:11:38,155
+- Has anyone seen her face?
+- A few men have.
+
+170
+00:11:38,739 --> 00:11:41,617
+According to their statements,
+she's missing a tooth.
+
+171
+00:11:43,035 --> 00:11:44,370
+Awfully careless.
+
+172
+00:11:44,453 --> 00:11:47,456
+However, we don't know where they fled
+
+173
+00:11:47,540 --> 00:11:48,874
+or what their goal is.
+
+174
+00:11:49,458 --> 00:11:54,296
+Why would an organization
+that frees heretics go after a book?
+
+175
+00:11:56,716 --> 00:12:00,386
+When you reach a dead end,
+rethink your assumptions.
+
+176
+00:12:01,137 --> 00:12:02,138
+Huh?
+
+177
+00:12:02,221 --> 00:12:05,182
+Let's assume liberating heretics
+is not their goal,
+
+178
+00:12:05,266 --> 00:12:07,435
+but a means to an end.
+
+179
+00:12:08,352 --> 00:12:10,354
+What if their true goal
+
+180
+00:12:10,438 --> 00:12:14,275
+is to overthrow the Church orthodoxy?
+
+181
+00:12:14,859 --> 00:12:17,486
+The book would be an effective tool.
+
+182
+00:12:17,987 --> 00:12:23,534
+Books can be an efficient way
+to change people's way of thinking.
+
+183
+00:12:24,243 --> 00:12:27,037
+Far more so than traveling to preach.
+
+184
+00:12:27,621 --> 00:12:29,665
+But how would they reproduce it?
+
+185
+00:12:30,249 --> 00:12:31,459
+Asch.
+
+186
+00:12:31,542 --> 00:12:35,171
+An inquisitor should be well aware
+of the latest technology.
+
+187
+00:12:36,881 --> 00:12:40,009
+New technology
+is always used for evil first.
+
+188
+00:12:40,634 --> 00:12:44,346
+In this case, a new printing method
+for mass-producing books
+
+189
+00:12:44,430 --> 00:12:46,932
+called movable type may be involved.
+
+190
+00:12:47,683 --> 00:12:51,562
+In other words,
+if we combine all of my hypotheses,
+
+191
+00:12:52,229 --> 00:12:56,567
+it's likely that they're planning
+to publish that book.
+
+192
+00:12:57,902 --> 00:12:59,028
+If you agree,
+
+193
+00:12:59,111 --> 00:13:02,948
+then immediately begin questioning
+printers and typeface craftsmen.
+
+194
+00:13:03,032 --> 00:13:05,075
+They may also make their own machine
+
+195
+00:13:05,159 --> 00:13:07,995
+to avoid leaving a trail.
+
+196
+00:13:08,078 --> 00:13:13,083
+Ask about people or places
+that recently purchased a winepress
+
+197
+00:13:13,167 --> 00:13:14,585
+or large amounts of lead.
+
+198
+00:13:15,085 --> 00:13:16,337
+Uh, right!
+
+199
+00:13:17,421 --> 00:13:20,883
+Oh, and uh...
+I'm grateful for your cooperation.
+
+200
+00:13:20,966 --> 00:13:22,009
+Huh?
+
+201
+00:13:22,092 --> 00:13:23,594
+I don't know the details,
+
+202
+00:13:23,677 --> 00:13:26,180
+but I heard you have a complicated past.
+
+203
+00:13:27,056 --> 00:13:29,558
+To be honest, I underestimated you.
+
+204
+00:13:30,059 --> 00:13:33,395
+But now that you've risen
+to help us defeat these heretics,
+
+205
+00:13:33,479 --> 00:13:34,814
+I feel reassured.
+
+206
+00:13:36,482 --> 00:13:39,068
+They're merely being manipulated.
+
+207
+00:13:39,151 --> 00:13:41,153
+In a way, they're victims.
+
+208
+00:13:41,737 --> 00:13:44,198
+The true enemy is not them.
+
+209
+00:13:44,281 --> 00:13:45,115
+Huh?
+
+210
+00:13:46,116 --> 00:13:49,286
+This is my mission.
+
+211
+00:13:49,370 --> 00:13:51,247
+It's my fate.
+
+212
+00:13:52,581 --> 00:13:54,708
+As long as I have life left in me,
+
+213
+00:13:54,792 --> 00:13:56,794
+I'll follow them as far as it takes.
+
+214
+00:13:56,877 --> 00:13:58,921
+Until the root of all evil...
+
+215
+00:14:00,339 --> 00:14:04,093
+Until I erase heliocentrism
+once and for all!
+
+216
+00:14:11,767 --> 00:14:13,102
+Don't move.
+
+217
+00:14:13,978 --> 00:14:15,521
+You don't have my trust.
+
+218
+00:14:18,774 --> 00:14:20,359
+Why did you burn the book?
+
+219
+00:14:24,071 --> 00:14:27,116
+I wanted to know where the book led.
+
+220
+00:14:27,908 --> 00:14:30,160
+Burning it was the only way
+they'd take me.
+
+221
+00:14:31,036 --> 00:14:32,913
+What is that book to you?
+
+222
+00:14:33,497 --> 00:14:36,542
+{\an8}I had the feeling
+it could make me a lot of money.
+
+223
+00:14:37,209 --> 00:14:41,213
+Not only that, but you people
+also have your hands on a printing press.
+
+224
+00:14:41,297 --> 00:14:43,090
+I couldn't pass up this chance.
+
+225
+00:14:43,716 --> 00:14:44,675
+How about this?
+
+226
+00:14:45,634 --> 00:14:50,055
+In exchange for telling you the contents,
+I want 20% of the profits.
+
+227
+00:14:50,139 --> 00:14:51,390
+Will you consider it?
+
+228
+00:14:55,311 --> 00:14:57,605
+I'll bet people call you brazen.
+
+229
+00:14:58,439 --> 00:15:00,190
+Is money that important?
+
+230
+00:15:02,318 --> 00:15:03,360
+Yes.
+
+231
+00:15:04,570 --> 00:15:05,404
+Oh?
+
+232
+00:15:05,905 --> 00:15:08,449
+Then I'll tell you
+something important too.
+
+233
+00:15:09,199 --> 00:15:11,285
+The book you burned
+
+234
+00:15:11,368 --> 00:15:14,496
+was likely written
+by an old friend of mine.
+
+235
+00:15:16,540 --> 00:15:18,208
+Which means that for me,
+
+236
+00:15:18,292 --> 00:15:20,878
+it was quite significant.
+
+237
+00:15:21,462 --> 00:15:23,255
+When I learned of its existence,
+
+238
+00:15:23,339 --> 00:15:25,966
+I even broke out in a fever from surprise.
+
+239
+00:15:29,428 --> 00:15:33,474
+That's why I don't want you
+to treat it as a mere moneymaker.
+
+240
+00:15:33,974 --> 00:15:35,935
+It's worth more than that.
+
+241
+00:15:37,353 --> 00:15:38,187
+Come.
+
+242
+00:15:43,233 --> 00:15:45,986
+At this hour, you can still see the stars.
+
+243
+00:15:47,112 --> 00:15:48,489
+Do you know your planets?
+
+244
+00:15:49,615 --> 00:15:51,742
+Um, sort of.
+
+245
+00:15:52,618 --> 00:15:54,703
+Do you see Saturn there?
+
+246
+00:15:55,788 --> 00:15:56,622
+Yes.
+
+247
+00:15:57,206 --> 00:16:00,209
+{\an8}Each planet circles at a different speed.
+
+248
+00:16:00,834 --> 00:16:03,629
+{\an8}When do you think was the last time
+
+249
+00:16:03,712 --> 00:16:05,422
+{\an8}Saturn was at these coordinates?
+
+250
+00:16:06,548 --> 00:16:07,383
+Beats me.
+
+251
+00:16:08,759 --> 00:16:10,302
+Thirty years ago.
+
+252
+00:16:11,679 --> 00:16:15,349
+<i>I was nine years old
+the last time it was in that spot.</i>
+
+253
+00:16:15,849 --> 00:16:17,601
+<i>My passion was geometry.</i>
+
+254
+00:16:19,520 --> 00:16:20,437
+<i>Five years later,</i>
+
+255
+00:16:20,938 --> 00:16:23,524
+<i>at age 14, I encountered heliocentrism.</i>
+
+256
+00:16:25,275 --> 00:16:26,735
+<i>Six years later,</i>
+
+257
+00:16:27,236 --> 00:16:29,738
+<i>at age 20,
+I killed someone for the first time.</i>
+
+258
+00:16:30,823 --> 00:16:31,949
+And now,
+
+259
+00:16:32,449 --> 00:16:35,077
+at age 39, I've met you,
+
+260
+00:16:35,160 --> 00:16:37,246
+and Saturn has completed its circuit.
+
+261
+00:16:40,249 --> 00:16:43,043
+Saturn is the slowest
+of the planets we can see.
+
+262
+00:16:43,544 --> 00:16:47,756
+The reason is likely that
+it's the farthest from the sun.
+
+263
+00:16:48,674 --> 00:16:50,843
+A planet's speed differs with distance.
+
+264
+00:16:51,844 --> 00:16:54,013
+The universe is governed
+by a single order,
+
+265
+00:16:54,096 --> 00:16:57,474
+proceeding accurately and logically.
+
+266
+00:16:58,559 --> 00:17:01,520
+The heliocentric theory that you read
+
+267
+00:17:02,104 --> 00:17:04,106
+gives you a peek at God's greatness.
+
+268
+00:17:06,567 --> 00:17:07,901
+Is that so?
+
+269
+00:17:08,986 --> 00:17:10,738
+And... what of it?
+
+270
+00:17:11,321 --> 00:17:14,700
+Forgive me,
+but what are you trying to say?
+
+271
+00:17:17,536 --> 00:17:18,662
+You can't tell?
+
+272
+00:17:21,373 --> 00:17:23,000
+I'm desperately trying
+
+273
+00:17:23,500 --> 00:17:25,127
+to share how it inspires me.
+
+274
+00:17:27,337 --> 00:17:31,383
+Yes, but why are you sharing it with me?
+
+275
+00:17:32,718 --> 00:17:34,887
+You're the only person I know of
+
+276
+00:17:35,387 --> 00:17:38,348
+who has read that book.
+
+277
+00:17:39,058 --> 00:17:42,269
+You're one of the few
+who share my knowledge of heliocentrism.
+
+278
+00:17:42,895 --> 00:17:45,856
+It's simply because, for whatever reason,
+
+279
+00:17:47,274 --> 00:17:49,568
+you and I have crossed paths.
+
+280
+00:17:52,488 --> 00:17:55,449
+I wanted you to hear about
+what it's worth to me.
+
+281
+00:17:56,283 --> 00:17:58,035
+Rather than the money it can make.
+
+282
+00:17:59,328 --> 00:18:02,372
+You're awfully high-minded.
+
+283
+00:18:03,082 --> 00:18:05,292
+May I ask a question then?
+
+284
+00:18:05,793 --> 00:18:07,795
+You seem to belittle making money,
+
+285
+00:18:07,878 --> 00:18:09,713
+but what about your own actions?
+
+286
+00:18:11,256 --> 00:18:15,094
+You kill people, free heretics,
+and disrupt social order.
+
+287
+00:18:15,594 --> 00:18:17,554
+Is that something to be proud of?
+
+288
+00:18:18,555 --> 00:18:19,389
+No.
+
+289
+00:18:20,224 --> 00:18:21,809
+But I have no second thoughts.
+
+290
+00:18:22,726 --> 00:18:24,686
+I'm simply reclaiming
+
+291
+00:18:25,604 --> 00:18:28,565
+the freedom and life
+the Church stole from me.
+
+292
+00:18:30,442 --> 00:18:32,820
+And with it, my father... and friends.
+
+293
+00:18:33,862 --> 00:18:37,407
+Authorities who suppress
+individual freedom should be overthrown.
+
+294
+00:18:38,492 --> 00:18:41,078
+But aren't you doing the same?
+
+295
+00:18:42,496 --> 00:18:45,582
+The cessation of thought
+that occurs with authority
+
+296
+00:18:45,666 --> 00:18:47,876
+is not limited to religion.
+
+297
+00:18:47,960 --> 00:18:51,130
+Doesn't it occur among scholars too?
+
+298
+00:18:52,756 --> 00:18:53,632
+No.
+
+299
+00:18:54,591 --> 00:18:57,761
+Or so I'd like to say,
+but maybe you're right.
+
+300
+00:18:59,513 --> 00:19:02,015
+I've killed many times now.
+
+301
+00:19:02,766 --> 00:19:06,145
+When truth is your shield,
+violence can definitely accelerate.
+
+302
+00:19:06,895 --> 00:19:11,567
+Perhaps I have blind faith
+in the authority of heliocentrism.
+
+303
+00:19:11,650 --> 00:19:14,653
+Those who serve me
+may have ceased thinking too.
+
+304
+00:19:16,488 --> 00:19:18,198
+Even sadder,
+
+305
+00:19:18,282 --> 00:19:20,367
+that may be inevitable.
+
+306
+00:19:20,868 --> 00:19:21,952
+In other words,
+
+307
+00:19:22,035 --> 00:19:25,080
+logical thinking requires
+a set of assumptions.
+
+308
+00:19:25,164 --> 00:19:28,000
+It's a fundamental limit of human reason.
+
+309
+00:19:28,500 --> 00:19:32,254
+Whenever we think,
+assumptions of some kind occur,
+
+310
+00:19:32,337 --> 00:19:34,381
+and those eventually become authority.
+
+311
+00:19:35,924 --> 00:19:39,052
+Perhaps none of us
+can escape that framework.
+
+312
+00:19:40,262 --> 00:19:43,182
+The passion that runs
+beneath those conditions
+
+313
+00:19:43,682 --> 00:19:45,976
+travels a trajectory that can be reckless.
+
+314
+00:19:46,476 --> 00:19:48,478
+It can produce beautiful accomplishments
+
+315
+00:19:48,979 --> 00:19:51,315
+or grotesque tragedies.
+
+316
+00:19:52,566 --> 00:19:55,277
+How do you know
+you're not producing tragedy?
+
+317
+00:19:56,195 --> 00:19:59,615
+Because I believe
+freedom lies at my destination.
+
+318
+00:20:00,115 --> 00:20:01,783
+How do you define freedom?
+
+319
+00:20:02,659 --> 00:20:04,244
+The ability to ask that.
+
+320
+00:20:07,080 --> 00:20:09,041
+Perhaps I've said too much.
+
+321
+00:20:09,750 --> 00:20:11,126
+Let's head back.
+
+322
+00:20:16,715 --> 00:20:18,800
+- Captain.
+- Yes?
+
+323
+00:20:18,884 --> 00:20:21,136
+Will we be printing here?
+
+324
+00:20:22,304 --> 00:20:25,515
+No, we merely came here
+to retrieve the typefaces.
+
+325
+00:20:26,016 --> 00:20:28,060
+The printing press is at our next stop.
+
+326
+00:20:28,602 --> 00:20:30,187
+We've diffused the risks.
+
+327
+00:20:30,896 --> 00:20:33,690
+Then our next stop
+is the final destination
+
+328
+00:20:33,774 --> 00:20:35,943
+on our most important mission.
+
+329
+00:20:36,735 --> 00:20:37,569
+Yes.
+
+330
+00:20:38,278 --> 00:20:39,655
+And where is that?
+
+331
+00:20:40,697 --> 00:20:43,158
+Our next destination is...
+
+332
+00:20:44,243 --> 00:20:45,577
+About your request.
+
+333
+00:20:46,536 --> 00:20:48,622
+I can't give you 20% of the profits
+
+334
+00:20:49,373 --> 00:20:52,042
+because I don't plan
+to make a profit from this book.
+
+335
+00:20:54,378 --> 00:20:57,881
+However, I can lend you
+our printing press.
+
+336
+00:20:59,758 --> 00:21:02,970
+It's up to you
+to find something new to sell.
+
+337
+00:21:03,887 --> 00:21:05,973
+Not a bad deal, I'd say.
+
+338
+00:21:06,974 --> 00:21:07,808
+Well?
+
+339
+00:21:11,520 --> 00:21:13,814
+Yes. Please allow me to accept.
+
+340
+00:21:14,898 --> 00:21:15,732
+Sure.
+
+341
+00:21:18,610 --> 00:21:22,072
+Now then, tell me about the book.
+
+342
+00:21:22,990 --> 00:21:27,160
+{\an8}For the first time in ages,
+I want to reunite with my old friend.
+
+343
+00:21:28,870 --> 00:21:29,705
+{\an8}Right.
+
+344
+00:22:06,616 --> 00:22:07,576
+That is all.
+
+345
+00:22:13,832 --> 00:22:15,083
+I was right.
+
+346
+00:22:15,584 --> 00:22:17,336
+Reading and writing are miracles.
+
+347
+00:22:20,047 --> 00:22:21,965
+Oh, I forgot to ask.
+
+348
+00:22:24,384 --> 00:22:26,636
+Why do you want money so badly?
+
+349
+00:22:29,222 --> 00:22:30,182
+That's because
+
+350
+00:22:31,058 --> 00:22:32,976
+it's my conviction.
+
+351
+00:22:34,436 --> 00:22:36,146
+Then it is important.
+
+352
+00:22:36,855 --> 00:22:38,231
+But sometimes,
+
+353
+00:22:38,315 --> 00:22:41,610
+you meet something
+that makes you forget your convictions.
+
+354
+00:22:42,110 --> 00:22:44,446
+You should value those feelings too.
+
+355
+00:22:44,946 --> 00:22:45,781
+Otherwise...
+
+356
+00:22:48,325 --> 00:22:49,534
+Otherwise?
+
+357
+00:22:51,119 --> 00:22:52,788
+You'll end up like me.
+
+358
+00:22:56,041 --> 00:22:58,335
+Conviction can become a curse.
+
+359
+00:22:58,835 --> 00:23:02,130
+It's both my source of strength
+and my limitation.
+
+360
+00:23:03,382 --> 00:23:06,802
+But if we forget our convictions,
+we can only wander.
+
+361
+00:23:09,096 --> 00:23:10,180
+Keep wandering.
+
+362
+00:23:12,474 --> 00:23:14,935
+Surely, wandering is how
+you find what's right.
+
+363
+00:24:57,412 --> 00:25:00,957
+{\an8}Subtitle translation by: Brad Plumb
+

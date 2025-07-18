@@ -1,0 +1,23 @@
+# Set default behavior to automatically handle line endings.
+* text=auto
+
+# Explicitly declare text files to be normalized.
+*.py text
+*.md text
+*.txt text
+*.ini text
+*.yml text
+*.yaml text
+*.css text
+*.js text
+*.html text
+
+# Declare files that should always have LF line endings.
+*.sh eol=lf
+
+# Denote binary files that should not be modified.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.db binary

@@ -1,0 +1,207 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+NOUN words:
+----------------------------------------
+• codes → code
+• sender
+• breadcrumbs → breadcrumb
+• intrusion
+• misfortunes → misfortune
+• cooperation
+• chaos
+• complications → complication
+• sanctity
+• misunderstandings → misunderstanding
+• twists → twist
+• imperfection
+• carriage
+• sword
+• inspiration
+• savior
+• resurrection
+• kingdom
+• glory
+• madman
+• grudge
+• mercenary
+• warrior
+• subtitle
+
+VERB words:
+----------------------------------------
+• decoded → decode
+• suspect
+• suspecting → suspect
+• fleeing → flee
+• rambling → ramble
+• dispute
+• entrusting → entrust
+• having → have
+• intercepted → intercept
+• flee
+• condemning → condemn
+• condemn
+• believeth
+• absolve
+• surrender
+• fulfilling → fulfil
+
+ADJ words:
+----------------------------------------
+• abnormal
+• cluttered
+• harmless
+• dissatisfied
+• pointless
+• peculiar
+• pissed
+• meaningless
+• grave
+• merciful
+• eternal
+• bloody
+• crude
+• superficial
+
+ADV words:
+----------------------------------------
+• unluckily
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4064
+• Known lemmas in text: 348
+• New lemmas found in text: 52
+• New lemmas added to database: 52
+• Total words in database after analysis: 4116
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 87
+• Paragraph Count: 1
+• Avg Sentence Length: 23.92
+• Flesch Kincaid Grade: 9.87
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+come                8         1.23           
+ready               8         1.23           
+research            8         1.23           
+time                8         1.23           
+heliocentrism       7         1.07           
+heretic             7         1.07           
+leave               7         1.07           
+mean                7         1.07           
+thing               7         1.07           
+know                6         0.92           
+letter              6         0.92           
+long                6         0.92           
+die                 5         0.77           
+faith               5         0.77           
+forget              5         0.77           
+important           5         0.77           
+say                 5         0.77           
+think               5         0.77           
+try                 5         0.77           
+write               5         0.77           
+case                4         0.61           
+dangerous           4         0.61           
+give                4         0.61           
+hope                4         0.61           
+like                4         0.61           
+mistake             4         0.61           
+model               4         0.61           
+necklace            4         0.61           
+plan                4         0.61           
+right               4         0.61           
+truth               4         0.61           
+way                 4         0.61           
+accept              3         0.46           
+apologize           3         0.46           
+ask                 3         0.46           
+bad                 3         0.46           
+course              3         0.46           
+diary               3         0.46           
+end                 3         0.46           
+find                3         0.46           
+hell                3         0.46           
+inquisitor          3         0.46           
+kill                3         0.46           
+learn               3         0.46           
+life                3         0.46           
+look                3         0.46           
+need                3         0.46           
+pass                3         0.46           
+prepared            3         0.46           
+probably            3         0.46           
+stance              3         0.46           
+tell                3         0.46           
+theory              3         0.46           
+torch               3         0.46           
+tunnel              3         0.46           
+understand          3         0.46           
+work                3         0.46           
+wrong               3         0.46           
+ago                 2         0.31           
+believe             2         0.31           
+burn                2         0.31           
+certainly           2         0.31           
+criticism           2         0.31           
+daughter            2         0.31           
+document            2         0.31           
+error               2         0.31           
+expect              2         0.31           
+feel                2         0.31           
+fine                2         0.31           
+flee                2         0.31           
+gather              2         0.31           
+geocentric          2         0.31           
+happen              2         0.31           
+hard                2         0.31           
+head                2         0.31           
+idea                2         0.31           
+let                 2         0.31           
+make                2         0.31           
+man                 2         0.31           
+meet                2         0.31           
+mind                2         0.31           
+movement            2         0.31           
+new                 2         0.31           
+notice              2         0.31           
+occur               2         0.31           
+oppose              2         0.31           
+orb                 2         0.31           
+people              2         0.31           
+separate            2         0.31           
+sorry               2         0.31           
+study               2         0.31           
+sudden              2         0.31           
+superior            2         0.31           
+suspect             2         0.31           
+take                2         0.31           
+thank               2         0.31           
+tip                 2         0.31           
+turn                2         0.31           
+well                2         0.31           
+world               2         0.31           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+8              4              come, ready, research, time
+7              5              heliocentrism, heretic, leave, mean, thing
+6              3              know, letter, long
+5              8              die, faith, forget, important, say, ... (3 more)
+4              12             case, dangerous, give, hope, like, ... (7 more)
+3              26             accept, apologize, ask, bad, course, ... (21 more)
+2              42             ago, believe, burn, certainly, criticism, ... (37 more)

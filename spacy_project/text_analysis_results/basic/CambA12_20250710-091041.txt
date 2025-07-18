@@ -1,0 +1,487 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+NOUN words:
+----------------------------------------
+• wordlist
+• combined
+• vocabulary
+• learners → learner
+• wordlists → wordlist
+• starters → starter
+• cambridgeenglish
+• movers → mover
+• flyers → flyer
+• det
+• alphabet
+• armchair
+• bee
+• bookcase
+• bookshop
+• burger
+• conj
+• excl
+• candy
+• clap
+• class
+• classmate
+• coconut
+• crayon
+• discourse
+• exclamation
+• int
+• preposition
+• pron
+• pronoun
+• dining
+• doll
+• donkey
+• drawing
+• duck
+• adj
+• eraser
+• giraffe
+• goat
+• grandma
+• grandpa
+• grape
+• grey
+• handbag
+• hobby
+• lime
+• living
+• lizard
+• mango
+• meatballs → meatball
+• milk
+• morning
+• mouse
+• mice → mouse
+• pea
+• pear
+• pie
+• pineapple
+• playground
+• sausage
+• skateboard
+• shop
+• racket
+• tick
+• watermelon
+• zoo
+• names → name
+• balcony
+• band
+• beard
+• blond
+• café
+• cage
+• circus
+• clown
+• coffee
+• cough
+• dolphin
+• earache
+• elevator
+• star
+• funfair
+• granddaughter
+• grandson
+• holiday
+• skates → skate
+• skating
+• jungle
+• kitten
+• milkshake
+• moustache
+• noodles → noodle
+• pancake
+• panda
+• pirate
+• puppy
+• rabbit
+• roller
+• scarf
+• shark
+• skate
+• snail
+• ache
+• toothache
+• toothbrush
+• toothpaste
+• whale
+• ordinals → ordinal
+• astronaut
+• backpack
+• rucksack
+• cookie
+• bit
+• bracelet
+• bridge
+• calendar
+• chemist
+• chess
+• chopsticks → chopstick
+• crown
+• cushion
+• exit
+• fighter
+• flashlight
+• torch
+• glue
+• minute
+• kilometre
+• midnight
+• month
+• motorway
+• octopus
+• olives → olive
+• pajamas → pajama
+• pyjamas → pyjama
+• pizza
+• pyramid
+• quiz
+• scissors → scissor
+• shampoo
+• skyscraper
+• snack
+• snowboard
+• snowboarding
+• snowman
+• south
+• spaceship
+• strawberry
+• stripe
+• suitcase
+• sunglasses → sunglass
+• surname
+• theater
+• timetable
+• tortoise
+• tire
+• violin
+• volleyball
+• west
+• wifi
+• winter
+• ray
+• cinema
+• crocodile
+• homework
+• hooray
+• hop
+• horse
+• parrot
+• picnic
+• ruler
+• today
+• tractor
+• weekend
+• bandage
+• beetle
+• butterfly
+• century
+• comb
+• dinosaur
+• fetch
+• midday
+• motorbike
+• rug
+• swing
+• afternoon
+• evening
+• hospital
+• kangaroo
+• camel
+• cereal
+• fog
+• cont
+• guitar
+• hippo
+• mouth
+• party
+• penguin
+• swimsuit
+• half
+• pond
+• postcard
+• sea
+• tiger
+• wall
+• waterfall
+• sledge
+• snowball
+• summer
+• swan
+• left
+• bounce
+• cross
+• chat
+• whistle
+• nest
+• necklace
+• kiwi
+• pasta
+• honey
+• mat
+• sofa
+• cooker
+• kilometer
+• kite
+• yesterday
+• week
+• tomorrow
+• months → month
+• rainbow
+
+ADJ words:
+----------------------------------------
+• alphabetic
+• grammatical
+• thematic
+• colourful
+• cambridgeenglish
+• org
+• proficient
+• adj
+• brown
+• adjective
+• adverb
+• interrogative
+• possessive
+• favourite
+• gray
+• polar
+• red
+• awake
+• cloudy
+• cold
+• comic
+• undressed
+• naughty
+• sunny
+• windy
+• delicious
+• excited
+• extinct
+• foggy
+• furry
+• lucky
+• sore
+• unfriendly
+• unkind
+• untidy
+• worried
+• grey
+• bored
+• english
+• alphabet
+• south
+• surprised
+• married
+• striped
+• irregular
+• ago
+
+VERB words:
+----------------------------------------
+• aligned → align
+• conj
+• bounce
+• verb
+• got → get
+• pron
+• excl
+• shop
+• skateboarding → skateboard
+• dis
+• int
+• like
+• skip
+• comb
+• fetch
+• rucksack
+• striped → stripe
+• takes → take
+• olives → olive
+• cont
+• pardon
+• jellyfish
+• tortoise
+
+ADP words:
+----------------------------------------
+• like
+• balcony
+
+PRON words:
+----------------------------------------
+• theirs
+
+ADV words:
+----------------------------------------
+• ago
+• twice
+• gray
+• awake
+• sunny
+• excited
+• north
+
+AUX words:
+----------------------------------------
+• got
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 3101
+• Known lemmas in text: 802
+• New lemmas found in text: 280
+• New lemmas added to database: 280
+• Total words in database after analysis: 3381
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 209
+• Paragraph Count: 1
+• Avg Sentence Length: 73.03
+• Flesch Kincaid Grade: 28.45
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+adj                 282       5.34           
+pron                91        1.72           
+prep                85        1.61           
+excl                39        0.74           
+list                36        0.68           
+vocabulary          35        0.66           
+int                 28        0.53           
+time                28        0.53           
+adv                 27        0.51           
+center              26        0.49           
+conj                22        0.42           
+station             21        0.40           
+wordlist            21        0.40           
+centre              20        0.38           
+fire                20        0.38           
+bus                 19        0.36           
+look                19        0.36           
+right               19        0.36           
+alphabetic          18        0.34           
+music               18        0.34           
+ice                 17        0.32           
+lot                 17        0.32           
+truck               17        0.32           
+film                16        0.30           
+lift                16        0.30           
+car                 15        0.28           
+computer            15        0.28           
+fall                15        0.28           
+room                15        0.28           
+tennis              15        0.28           
+book                14        0.27           
+grammatical         14        0.27           
+movie               14        0.27           
+skate               14        0.27           
+sport               14        0.27           
+woman               14        0.27           
+football            13        0.25           
+close               12        0.23           
+drive               12        0.23           
+leave               12        0.23           
+lorry               12        0.23           
+picture             12        0.23           
+place               12        0.23           
+soccer              12        0.23           
+baseball            11        0.21           
+child               11        0.21           
+dress               11        0.21           
+fly                 11        0.21           
+glass               11        0.21           
+ride                11        0.21           
+sweet               11        0.21           
+television          11        0.21           
+write               11        0.21           
+bad                 10        0.19           
+bat                 10        0.19           
+chip                10        0.19           
+comic               10        0.19           
+direction           10        0.19           
+elevator            10        0.19           
+eraser              10        0.19           
+flat                10        0.19           
+floor               10        0.19           
+foot                10        0.19           
+fry                 10        0.19           
+girl                10        0.19           
+ground              10        0.19           
+letter              10        0.19           
+man                 10        0.19           
+mouse               10        0.19           
+photo               10        0.19           
+roller              10        0.19           
+rubber              10        0.19           
+rucksack            10        0.19           
+shirt               10        0.19           
+shop                10        0.19           
+skating             10        0.19           
+spot                10        0.19           
+store               10        0.19           
+table               10        0.19           
+walk                10        0.19           
+word                10        0.19           
+alphabet            9         0.17           
+apartment           9         0.17           
+bed                 9         0.17           
+bike                9         0.17           
+candy               9         0.17           
+catch               9         0.17           
+clock               9         0.17           
+correct             9         0.17           
+fish                9         0.17           
+gray                9         0.17           
+grow                9         0.17           
+old                 9         0.17           
+open                9         0.17           
+short               9         0.17           
+star                9         0.17           
+stop                9         0.17           
+swim                9         0.17           
+title               9         0.17           
+understand          9         0.17           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+282            1              adj
+91             1              pron
+85             1              prep
+39             1              excl
+36             1              list
+35             1              vocabulary
+28             2              int, time
+27             1              adv
+26             1              center
+22             1              conj
+21             2              station, wordlist
+20             2              centre, fire
+19             3              bus, look, right
+18             2              alphabetic, music
+17             3              ice, lot, truck
+16             2              film, lift
+15             5              car, computer, fall, room, tennis
+14             6              book, grammatical, movie, skate, sport, ... (1 more)
+13             1              football
+12             7              close, drive, leave, lorry, picture, ... (2 more)
+11             9              baseball, child, dress, fly, glass, ... (4 more)
+10             28             bad, bat, chip, comic, direction, ... (23 more)
+9              19             alphabet, apartment, bed, bike, candy, ... (14 more)

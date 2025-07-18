@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  text-analyzer:
+    build: .
+    container_name: text_analyzer
+    volumes:
+      - ./db:/app/db
+      - ./text_analysis_results:/app/text_analysis_results
+      - ./OldDBs:/app/OldDBs
+      - ./readT:/app/readT
+      - .:/app
+    environment:
+      - LOG_LEVEL=INFO
+    stdin_open: true
+    tty: true
+    # Don't include a default command

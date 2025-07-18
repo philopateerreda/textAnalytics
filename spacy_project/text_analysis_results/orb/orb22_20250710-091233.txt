@@ -1,0 +1,203 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+VERB words:
+----------------------------------------
+• irritate
+• panic
+• unhook
+• babbling → babble
+• choking → choke
+• intrigued → intrigue
+• commemorate
+• summon
+• accursed → accurse
+• endures → endure
+• rereading → reread
+
+NOUN words:
+----------------------------------------
+• gratitude
+• testudo
+• combat
+• flank
+• decoys → decoy
+• carts → cart
+• destiny
+• comrades → comrade
+• justification
+• footprints → footprint
+• vultures → vulture
+• stimulation
+• suppression
+• enjoyment
+• discretion
+• ratio
+• compromise
+• carrier
+• pigeon
+• postulate
+• theologians → theologian
+• setback
+• reverence
+• inferiority
+• crusade
+
+ADJ words:
+----------------------------------------
+• vulnerable
+• wretched
+• profitable
+• addicted
+• immense
+• cosmological
+• divine
+• vague
+• contrary
+• theological
+• confidential
+• cautious
+
+ADV words:
+----------------------------------------
+• frighteningly
+• counter
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4574
+• Known lemmas in text: 343
+• New lemmas found in text: 50
+• New lemmas added to database: 50
+• Total words in database after analysis: 4624
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 88
+• Paragraph Count: 1
+• Avg Sentence Length: 22.53
+• Flesch Kincaid Grade: 9.88
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+heliocentrism       13        2.14           
+know                10        1.65           
+heretic             7         1.15           
+time                7         1.15           
+come                6         0.99           
+like                6         0.99           
+people              6         0.99           
+right               6         0.99           
+think               6         0.99           
+book                5         0.82           
+cosmology           5         0.82           
+kill                5         0.82           
+mean                5         0.82           
+way                 5         0.82           
+blasphemy           4         0.66           
+father              4         0.66           
+reason              4         0.66           
+record              4         0.66           
+say                 4         0.66           
+tell                4         0.66           
+woman               4         0.66           
+word                4         0.66           
+world               4         0.66           
+away                3         0.49           
+believe             3         0.49           
+death               3         0.49           
+execution           3         0.49           
+future              3         0.49           
+good                3         0.49           
+inquisitor          3         0.49           
+learn               3         0.49           
+let                 3         0.49           
+man                 3         0.49           
+merely              3         0.49           
+mind                3         0.49           
+misunderstanding    3         0.49           
+movement            3         0.49           
+printing            3         0.49           
+serve               3         0.49           
+sort                3         0.49           
+step                3         0.49           
+sunrise             3         0.49           
+suppress            3         0.49           
+understand          3         0.49           
+actually            2         0.33           
+afraid              2         0.33           
+authorization       2         0.33           
+avoid               2         0.33           
+careful             2         0.33           
+case                2         0.33           
+change              2         0.33           
+church              2         0.33           
+close               2         0.33           
+combat              2         0.33           
+create              2         0.33           
+creation            2         0.33           
+cut                 2         0.33           
+divine              2         0.33           
+duty                2         0.33           
+easy                2         0.33           
+experience          2         0.33           
+faith               2         0.33           
+fate                2         0.33           
+find                2         0.33           
+footprint           2         0.33           
+formation           2         0.33           
+happen              2         0.33           
+hear                2         0.33           
+history             2         0.33           
+hypothesis          2         0.33           
+justify             2         0.33           
+leave               2         0.33           
+moment              2         0.33           
+need                2         0.33           
+new                 2         0.33           
+orb                 2         0.33           
+perspective         2         0.33           
+place               2         0.33           
+press               2         0.33           
+profit              2         0.33           
+profitable          2         0.33           
+public              2         0.33           
+quiet               2         0.33           
+read                2         0.33           
+remember            2         0.33           
+repeat              2         0.33           
+see                 2         0.33           
+sell                2         0.33           
+send                2         0.33           
+simply              2         0.33           
+sound               2         0.33           
+sure                2         0.33           
+theory              2         0.33           
+thing               2         0.33           
+try                 2         0.33           
+visitor             2         0.33           
+want                2         0.33           
+waste               2         0.33           
+well                2         0.33           
+wonderful           2         0.33           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+13             1              heliocentrism
+10             1              know
+7              2              heretic, time
+6              5              come, like, people, right, think
+5              5              book, cosmology, kill, mean, way
+4              9              blasphemy, father, reason, record, say, ... (4 more)
+3              21             away, believe, death, execution, future, ... (16 more)
+2              56             actually, afraid, authorization, avoid, careful, ... (51 more)

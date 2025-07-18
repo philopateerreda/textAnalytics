@@ -1,0 +1,187 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+NOUN words:
+----------------------------------------
+• reminder
+• suffering
+• jaws → jaw
+• ash
+• consciousness
+• offense
+• prototype
+• disclosure
+• privilege
+• eve
+• epidemic
+• heathens → heathen
+• lifespan
+
+ADJ words:
+----------------------------------------
+• vigilant
+• promising
+• poppy
+
+PUNCT words:
+----------------------------------------
+• geocentrism
+
+VERB words:
+----------------------------------------
+• freaked → freak
+• recognize
+• exorcise
+• clenching → clench
+• proclaim
+• recommit
+• reborn
+• violates → violate
+• humiliate
+• awaits → await
+• paraphrase
+
+ADV words:
+----------------------------------------
+• awhile
+• officially
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4746
+• Known lemmas in text: 317
+• New lemmas found in text: 30
+• New lemmas added to database: 30
+• Total words in database after analysis: 4776
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 85
+• Paragraph Count: 1
+• Avg Sentence Length: 21.86
+• Flesch Kincaid Grade: 9.36
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+know                13        2.30           
+burn                10        1.77           
+research            9         1.60           
+end                 8         1.42           
+heliocentrism       8         1.42           
+like                6         1.06           
+pain                6         1.06           
+right               6         1.06           
+think               6         1.06           
+good                5         0.89           
+material            5         0.89           
+say                 5         0.89           
+thing               5         0.89           
+turn                5         0.89           
+accuse              4         0.71           
+answer              4         0.71           
+experience          4         0.71           
+far                 4         0.71           
+happen              4         0.71           
+heresy              4         0.71           
+heretic             4         0.71           
+life                4         0.71           
+recant              4         0.71           
+tell                4         0.71           
+torture             4         0.71           
+university          4         0.71           
+admission           3         0.53           
+afterlife           3         0.53           
+astronomy           3         0.53           
+believe             3         0.53           
+calculation         3         0.53           
+charge              3         0.53           
+choice              3         0.53           
+course              3         0.53           
+death               3         0.53           
+die                 3         0.53           
+drink               3         0.53           
+guess               3         0.53           
+home                3         0.53           
+important           3         0.53           
+inspiration         3         0.53           
+mean                3         0.53           
+revise              3         0.53           
+sorry               3         0.53           
+theology            3         0.53           
+theory              3         0.53           
+word                3         0.53           
+world               3         0.53           
+wrong               3         0.53           
+agree               2         0.35           
+allow               2         0.35           
+avoid               2         0.35           
+begin               2         0.35           
+blasphemous         2         0.35           
+body                2         0.35           
+child               2         0.35           
+come                2         0.35           
+conduct             2         0.35           
+confess             2         0.35           
+contradict          2         0.35           
+document            2         0.35           
+easy                2         0.35           
+evil                2         0.35           
+fate                2         0.35           
+form                2         0.35           
+future              2         0.35           
+heliocentric        2         0.35           
+impressive          2         0.35           
+leave               2         0.35           
+let                 2         0.35           
+long                2         0.35           
+meet                2         0.35           
+mind                2         0.35           
+model               2         0.35           
+offense             2         0.35           
+open                2         0.35           
+probably            2         0.35           
+prove               2         0.35           
+recantation         2         0.35           
+reminder            2         0.35           
+revision            2         0.35           
+seed                2         0.35           
+sky                 2         0.35           
+smart               2         0.35           
+soon                2         0.35           
+speak               2         0.35           
+special             2         0.35           
+student             2         0.35           
+sure                2         0.35           
+swear               2         0.35           
+take                2         0.35           
+terrifying          2         0.35           
+time                2         0.35           
+truth               2         0.35           
+understand          2         0.35           
+universe            2         0.35           
+use                 2         0.35           
+want                2         0.35           
+way                 2         0.35           
+work                2         0.35           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+13             1              know
+10             1              burn
+9              1              research
+8              2              end, heliocentrism
+6              4              like, pain, right, think
+5              5              good, material, say, thing, turn
+4              12             accuse, answer, experience, far, happen, ... (7 more)
+3              23             admission, afterlife, astronomy, believe, calculation, ... (18 more)
+2              51             agree, allow, avoid, begin, blasphemous, ... (46 more)

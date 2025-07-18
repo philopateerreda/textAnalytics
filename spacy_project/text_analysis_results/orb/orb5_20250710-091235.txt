@@ -1,0 +1,180 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+NOUN words:
+----------------------------------------
+• complacency
+• wagon
+• watchmen → watchman
+• shot
+• clearing
+• astrologer
+• elevation
+• whim
+• companion
+• vision
+• ivy
+• subdeacon
+• compassion
+
+ADJ words:
+----------------------------------------
+• inexcusable
+• incomplete
+• starry
+• unruly
+• contrarian
+
+VERB words:
+----------------------------------------
+• carved → carve
+• corresponding → correspond
+• spurred → spur
+• demoted → demote
+• spinning → spin
+• orient
+
+ADV words:
+----------------------------------------
+• selfishly
+• positively
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4833
+• Known lemmas in text: 312
+• New lemmas found in text: 26
+• New lemmas added to database: 26
+• Total words in database after analysis: 4859
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 97
+• Paragraph Count: 1
+• Avg Sentence Length: 19.42
+• Flesch Kincaid Grade: 7.19
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+world               15        2.78           
+die                 10        1.85           
+let                 7         1.30           
+look                7         1.30           
+chest               6         1.11           
+hope                6         1.11           
+like                6         1.11           
+star                6         1.11           
+think               6         1.11           
+heretic             5         0.93           
+know                5         0.93           
+right               5         0.93           
+tell                5         0.93           
+time                5         0.93           
+want                5         0.93           
+content             4         0.74           
+eye                 4         0.74           
+family              4         0.74           
+far                 4         0.74           
+find                4         0.74           
+give                4         0.74           
+leave               4         0.74           
+lose                4         0.74           
+pass                4         0.74           
+read                4         0.74           
+sky                 4         0.74           
+believe             3         0.56           
+big                 3         0.56           
+case                3         0.56           
+come                3         0.56           
+concern             3         0.56           
+discover            3         0.56           
+enjoy               3         0.56           
+expect              3         0.56           
+guess               3         0.56           
+happen              3         0.56           
+history             3         0.56           
+learn               3         0.56           
+life                3         0.56           
+loss                3         0.56           
+middle              3         0.56           
+monk                3         0.56           
+need                3         0.56           
+option              3         0.56           
+say                 3         0.56           
+thing               3         0.56           
+use                 3         0.56           
+village             3         0.56           
+wait                3         0.56           
+way                 3         0.56           
+actually            2         0.37           
+afraid              2         0.37           
+bridge              2         0.37           
+continue            2         0.37           
+end                 2         0.37           
+fate                2         0.37           
+figure              2         0.37           
+get                 2         0.37           
+great               2         0.37           
+heresy              2         0.37           
+humankind           2         0.37           
+letter              2         0.37           
+love                2         0.37           
+material            2         0.37           
+mean                2         0.37           
+mountain            2         0.37           
+movement            2         0.37           
+orb                 2         0.37           
+person              2         0.37           
+place               2         0.37           
+plus                2         0.37           
+point               2         0.37           
+probably            2         0.37           
+problem             2         0.37           
+recently            2         0.37           
+risk                2         0.37           
+rock                2         0.37           
+safe                2         0.37           
+someday             2         0.37           
+sound               2         0.37           
+story               2         0.37           
+surrender           2         0.37           
+torch               2         0.37           
+true                2         0.37           
+turn                2         0.37           
+understand          2         0.37           
+visitor             2         0.37           
+wrong               2         0.37           
+assign              1         0.19           
+attitude            1         0.19           
+defend              1         0.19           
+duty                1         0.19           
+episode             1         0.19           
+loan                1         0.19           
+long                1         0.19           
+poor                1         0.19           
+serve               1         0.19           
+transfer            1         0.19           
+wonder              1         0.19           
+work                1         0.19           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+15             1              world
+10             1              die
+7              2              let, look
+6              5              chest, hope, like, star, think
+5              6              heretic, know, right, tell, time, ... (1 more)
+4              11             content, eye, family, far, find, ... (6 more)
+3              24             believe, big, case, come, concern, ... (19 more)
+2              38             actually, afraid, bridge, continue, end, ... (33 more)
+1              12             assign, attitude, defend, duty, episode, ... (7 more)

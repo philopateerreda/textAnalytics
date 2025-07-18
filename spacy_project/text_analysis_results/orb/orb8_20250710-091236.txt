@@ -1,0 +1,183 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+NOUN words:
+----------------------------------------
+• nominalist
+• boldness
+• maid
+• arrogance
+• oczy
+• imaginable
+• ally
+• nobleman
+• flattery
+• footsteps → footstep
+• eyesight
+• bloodline
+• outcast
+
+ADJ words:
+----------------------------------------
+• radical
+• advantageous
+• imaginative
+• astounding
+• laughable
+• audacious
+• subjective
+• observable
+• improper
+• honored
+• devoted
+• sighted
+
+VERB words:
+----------------------------------------
+• utilizing → utilize
+• vouch
+• caution
+• pinch
+
+ADV words:
+----------------------------------------
+• secretly
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 4940
+• Known lemmas in text: 388
+• New lemmas found in text: 30
+• New lemmas added to database: 30
+• Total words in database after analysis: 4970
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 100
+• Paragraph Count: 1
+• Avg Sentence Length: 23.22
+• Flesch Kincaid Grade: 9.92
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+model               11        1.55           
+truth               11        1.55           
+master              8         1.13           
+research            8         1.13           
+woman               8         1.13           
+work                8         1.13           
+astronomy           7         0.99           
+like                7         0.99           
+problem             7         0.99           
+theory              7         0.99           
+universe            7         0.99           
+idea                6         0.85           
+man                 6         0.85           
+right               6         0.85           
+tell                6         0.85           
+case                5         0.70           
+discuss             5         0.70           
+observation         5         0.70           
+ridiculous          5         0.70           
+solve               5         0.70           
+think               5         0.70           
+true                5         0.70           
+believe             4         0.56           
+come                4         0.56           
+family              4         0.56           
+fire                4         0.56           
+know                4         0.56           
+meet                4         0.56           
+pagan               4         0.56           
+perfect             4         0.56           
+present             4         0.56           
+thing               4         0.56           
+world               4         0.56           
+able                3         0.42           
+afraid              3         0.42           
+audacious           3         0.42           
+author              3         0.42           
+certain             3         0.42           
+charge              3         0.42           
+complete            3         0.42           
+contain             3         0.42           
+cosmos              3         0.42           
+devote              3         0.42           
+fool                3         0.42           
+forget              3         0.42           
+introduce           3         0.42           
+laboratory          3         0.42           
+leave               3         0.42           
+let                 3         0.42           
+life                3         0.42           
+long                3         0.42           
+mean                3         0.42           
+message             3         0.42           
+move                3         0.42           
+place               3         0.42           
+record              3         0.42           
+sin                 3         0.42           
+sun                 3         0.42           
+time                3         0.42           
+use                 3         0.42           
+wax                 3         0.42           
+witch               3         0.42           
+advantage           2         0.28           
+apologize           2         0.28           
+apply               2         0.28           
+ask                 2         0.28           
+bit                 2         0.28           
+bound               2         0.28           
+center              2         0.28           
+common              2         0.28           
+course              2         0.28           
+create              2         0.28           
+different           2         0.28           
+fairly              2         0.28           
+free                2         0.28           
+good                2         0.28           
+hire                2         0.28           
+interested          2         0.28           
+library             2         0.28           
+live                2         0.28           
+look                2         0.28           
+mind                2         0.28           
+movement            2         0.28           
+nominalist          2         0.28           
+one                 2         0.28           
+orb                 2         0.28           
+people              2         0.28           
+position            2         0.28           
+post                2         0.28           
+propose             2         0.28           
+pursuit             2         0.28           
+reality             2         0.28           
+say                 2         0.28           
+see                 2         0.28           
+sense               2         0.28           
+support             2         0.28           
+talk                2         0.28           
+term                2         0.28           
+turn                2         0.28           
+way                 2         0.28           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+11             2              model, truth
+8              4              master, research, woman, work
+7              5              astronomy, like, problem, theory, universe
+6              4              idea, man, right, tell
+5              7              case, discuss, observation, ridiculous, solve, ... (2 more)
+4              11             believe, come, family, fire, know, ... (6 more)
+3              29             able, afraid, audacious, author, certain, ... (24 more)
+2              38             advantage, apologize, apply, ask, bit, ... (33 more)

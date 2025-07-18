@@ -1,0 +1,1541 @@
+﻿1
+00:00:02,544 --> 00:00:05,672
+As long as I can make a living,
+I'm satisfied.
+
+2
+00:00:06,172 --> 00:00:08,341
+I don't want anything else.
+
+3
+00:00:08,842 --> 00:00:10,468
+Wait a second!
+
+4
+00:00:11,761 --> 00:00:14,931
+If that's the case, why haven't you
+thrown away your astrolabe?
+
+5
+00:00:18,810 --> 00:00:21,271
+I was thinking of selling it
+at some point.
+
+6
+00:00:22,564 --> 00:00:23,690
+Just now,
+
+7
+00:00:23,773 --> 00:00:27,318
+I said that I baked bread
+according to your calculations.
+
+8
+00:00:27,819 --> 00:00:29,779
+- But in fact, that's a lie.
+- Huh?
+
+9
+00:00:30,780 --> 00:00:31,781
+The truth is,
+
+10
+00:00:31,865 --> 00:00:35,118
+I've been baking batches
+that are a little higher quality
+
+11
+00:00:35,201 --> 00:00:36,369
+than your figures.
+
+12
+00:00:37,620 --> 00:00:39,205
+Small changes to the recipe
+
+13
+00:00:39,289 --> 00:00:42,042
+or the way it's sifted
+can change the taste.
+
+14
+00:00:42,709 --> 00:00:44,836
+To avoid the authorities catching on,
+
+15
+00:00:44,919 --> 00:00:47,714
+I've done so without raising the price.
+
+16
+00:00:49,507 --> 00:00:52,385
+Do you know why I would take such a risk?
+
+17
+00:00:54,763 --> 00:00:57,098
+Because baking bread is what I love.
+
+18
+00:00:57,182 --> 00:00:59,392
+And serving it too, of course.
+
+19
+00:01:00,560 --> 00:01:03,521
+But then, you can't say the same, can you?
+
+20
+00:01:04,898 --> 00:01:07,901
+As long as you can make a living,
+you're satisfied?
+
+21
+00:01:08,568 --> 00:01:10,695
+That's an awful lie.
+
+22
+00:01:11,362 --> 00:01:14,908
+Because it's yourself,
+not me, that you're lying to.
+
+23
+00:01:16,785 --> 00:01:19,871
+Your father told me something, long ago.
+
+24
+00:01:20,371 --> 00:01:22,957
+A wise man in some far-off time and place,
+
+25
+00:01:23,458 --> 00:01:27,796
+someone named Socrates
+or Aristo-something once said,
+
+26
+00:01:28,671 --> 00:01:31,633
+"All things have <i>arete</i>."
+
+27
+00:01:32,133 --> 00:01:34,010
+Some inherent potential
+
+28
+00:01:34,094 --> 00:01:37,055
+or function only they can realize.
+
+29
+00:01:38,139 --> 00:01:40,308
+A bird's <i>arete</i> is flight.
+
+30
+00:01:41,017 --> 00:01:43,812
+A chair's <i>arete</i> is that it can be sat on.
+
+31
+00:01:44,479 --> 00:01:46,815
+According to those philosophers,
+
+32
+00:01:46,898 --> 00:01:50,026
+a human's <i>arete</i> is their ability to think.
+
+33
+00:01:51,903 --> 00:01:53,530
+With that in mind,
+
+34
+00:01:53,613 --> 00:01:56,407
+my <i>arete</i> is baking bread.
+
+35
+00:01:57,408 --> 00:01:58,785
+So what's yours?
+
+36
+00:02:01,412 --> 00:02:04,040
+This Aristo-something-or-other
+had another idea.
+
+37
+00:02:04,541 --> 00:02:07,544
+"Human beings are happiest
+when they delight in
+
+38
+00:02:07,627 --> 00:02:09,838
+that which is best and most akin to them."
+
+39
+00:02:11,422 --> 00:02:13,007
+The things that interest you
+
+40
+00:02:13,091 --> 00:02:15,802
+are the mission that God has granted you.
+
+41
+00:02:16,302 --> 00:02:18,596
+They're how you remain true to yourself.
+
+42
+00:02:19,389 --> 00:02:20,598
+So don't hide them.
+
+43
+00:02:21,099 --> 00:02:23,143
+Dive in while you're still young.
+
+44
+00:02:23,935 --> 00:02:25,937
+No one will complain about that.
+
+45
+00:02:26,020 --> 00:02:26,855
+But...
+
+46
+00:02:26,938 --> 00:02:30,275
+Well, that last part wasn't quite right.
+
+47
+00:02:31,192 --> 00:02:33,236
+A lot of people might complain.
+
+48
+00:02:33,820 --> 00:02:35,155
+But it doesn't matter.
+
+49
+00:02:35,238 --> 00:02:36,322
+Move forward.
+
+50
+00:02:37,657 --> 00:02:39,826
+Anyway, it's up to you.
+
+51
+00:03:44,224 --> 00:03:46,726
+{\an8}ORB: ON THE MOVEMENTS OF THE EARTH
+
+52
+00:04:53,126 --> 00:04:54,460
+{\an8}Hey, Albert!
+
+53
+00:04:54,544 --> 00:04:55,461
+{\an8}EPISODE 24
+THAUMAZEIN
+
+54
+00:04:55,545 --> 00:04:58,464
+{\an8}Deliver this bread
+to the church at this address.
+
+55
+00:04:58,965 --> 00:05:01,175
+{\an8}Not the usual one?
+
+56
+00:05:01,676 --> 00:05:02,510
+No.
+
+57
+00:05:03,011 --> 00:05:06,389
+I recently met the new priest
+who resides there.
+
+58
+00:05:06,889 --> 00:05:09,225
+I promised him a delivery
+from my next batch.
+
+59
+00:05:10,018 --> 00:05:12,270
+It's not that far away. I'd appreciate it.
+
+60
+00:05:12,770 --> 00:05:13,938
+Very well.
+
+61
+00:05:22,864 --> 00:05:23,823
+Is this it?
+
+62
+00:05:28,911 --> 00:05:30,747
+Excuse me!
+
+63
+00:05:36,753 --> 00:05:38,379
+There's no one here.
+
+64
+00:06:17,251 --> 00:06:20,129
+Welcome to the confessional.
+
+65
+00:06:21,005 --> 00:06:23,132
+I'm the priest here.
+
+66
+00:06:23,716 --> 00:06:26,719
+I admire your bravery
+in setting foot inside.
+
+67
+00:06:27,387 --> 00:06:30,223
+C-Confessional?
+
+68
+00:06:30,306 --> 00:06:31,140
+Yes.
+
+69
+00:06:31,641 --> 00:06:32,934
+As the name implies,
+
+70
+00:06:33,017 --> 00:06:35,937
+this is a place for the troubled
+to confess their sins.
+
+71
+00:06:36,437 --> 00:06:40,024
+As God's minister, I will grant you
+forgiveness and reconciliation.
+
+72
+00:06:41,192 --> 00:06:44,946
+You mean like the Sacrament of Penance?
+
+73
+00:06:45,446 --> 00:06:49,450
+I've never seen it done
+in a private room like this.
+
+74
+00:06:50,034 --> 00:06:52,328
+Indeed. I believe it's a novel idea.
+
+75
+00:06:52,829 --> 00:06:56,207
+However, I expect it
+to grow popular in the future.
+
+76
+00:06:56,707 --> 00:06:58,459
+<i>He's taking this a bit lightly.</i>
+
+77
+00:07:00,002 --> 00:07:02,839
+Now, then. Please confess your sins.
+
+78
+00:07:02,922 --> 00:07:06,592
+W-Wait, I only came here
+to deliver an order of bread.
+
+79
+00:07:06,676 --> 00:07:08,136
+There's no need to hesitate.
+
+80
+00:07:08,636 --> 00:07:11,431
+Or is it that you don't trust me?
+
+81
+00:07:12,557 --> 00:07:14,267
+Well, uh...
+
+82
+00:07:14,892 --> 00:07:18,396
+I can't see your face,
+and you're oddly persistent.
+
+83
+00:07:19,147 --> 00:07:22,984
+To be honest, I find it hard to trust you.
+
+84
+00:07:23,067 --> 00:07:25,111
+That's an unfortunate surprise.
+
+85
+00:07:25,611 --> 00:07:28,364
+But then, you are my first visitor,
+
+86
+00:07:28,448 --> 00:07:31,492
+and my nerves may be on edge too.
+
+87
+00:07:31,576 --> 00:07:33,995
+<i>His nerves are on edge?</i>
+
+88
+00:07:34,579 --> 00:07:37,206
+Still, this is a precious opportunity.
+
+89
+00:07:37,707 --> 00:07:40,877
+Don't you have even one worry?
+
+90
+00:07:42,545 --> 00:07:44,630
+Well, there is one.
+
+91
+00:07:44,714 --> 00:07:45,840
+What is it?
+
+92
+00:07:47,383 --> 00:07:50,470
+I guess it's that
+I was told to attend university.
+
+93
+00:07:52,305 --> 00:07:53,931
+You don't want to attend?
+
+94
+00:07:54,432 --> 00:07:55,475
+No.
+
+95
+00:07:55,558 --> 00:07:56,392
+Why not?
+
+96
+00:07:57,643 --> 00:07:59,687
+It's just as the Holy Scripture says.
+
+97
+00:08:00,188 --> 00:08:01,272
+To put it simply,
+
+98
+00:08:01,355 --> 00:08:04,025
+the desire to know things is nonsense.
+
+99
+00:08:05,401 --> 00:08:07,820
+Is there a reason you think that?
+
+100
+00:08:08,446 --> 00:08:09,947
+I'd rather forget it.
+
+101
+00:08:10,573 --> 00:08:12,492
+Anyway, I'll leave the bread here.
+
+102
+00:08:13,367 --> 00:08:14,410
+Doesn't that mean
+
+103
+00:08:14,494 --> 00:08:17,455
+you haven't forgotten yet?
+
+104
+00:08:18,706 --> 00:08:19,749
+How about this?
+
+105
+00:08:20,249 --> 00:08:22,126
+If it will be of help,
+
+106
+00:08:22,210 --> 00:08:26,631
+I'm happy to tell you a secret worry
+of my own when you're finished.
+
+107
+00:08:27,131 --> 00:08:30,009
+Why not get it off your chest?
+
+108
+00:08:30,843 --> 00:08:34,597
+Sometimes, speaking of matters
+can bring great relief.
+
+109
+00:08:39,352 --> 00:08:41,562
+Well... in that case...
+
+110
+00:08:45,149 --> 00:08:47,026
+I've got nothing else to do.
+
+111
+00:08:47,109 --> 00:08:47,985
+I might as well.
+
+112
+00:08:54,992 --> 00:08:56,202
+{\an8}First things first.
+
+113
+00:08:56,285 --> 00:08:57,411
+{\an8}Where are you from?
+
+114
+00:08:57,995 --> 00:08:59,497
+{\an8}A village far away.
+
+115
+00:08:59,580 --> 00:09:01,374
+{\an8}Oh? Which one?
+
+116
+00:09:01,874 --> 00:09:04,752
+A village called Brudzewo.
+
+117
+00:09:05,253 --> 00:09:06,170
+I see.
+
+118
+00:09:07,171 --> 00:09:11,300
+{\an8}I was born there
+as the son of a free peasant.
+
+119
+00:09:12,260 --> 00:09:14,887
+{\an8}When I was young, my mother
+
+120
+00:09:15,388 --> 00:09:16,514
+{\an8}passed away.
+
+121
+00:09:17,139 --> 00:09:20,560
+{\an8}After that, my father
+raised me on his own.
+
+122
+00:09:21,644 --> 00:09:24,438
+Did something happen
+when you were a child?
+
+123
+00:09:26,941 --> 00:09:27,858
+My father
+
+124
+00:09:28,359 --> 00:09:30,444
+placed importance on learning.
+
+125
+00:09:31,112 --> 00:09:33,573
+There's one thing he told me
+again and again.
+
+126
+00:09:34,282 --> 00:09:35,950
+I still remember it by heart.
+
+127
+00:09:37,410 --> 00:09:38,369
+"My son,
+
+128
+00:09:38,995 --> 00:09:42,123
+we are forced to endure a hard life."
+
+129
+00:09:42,999 --> 00:09:47,878
+"But there are many others
+whose lives are much harder."
+
+130
+00:09:48,713 --> 00:09:52,174
+"There are those who say
+farmers like us don't need education."
+
+131
+00:09:53,009 --> 00:09:54,510
+"But that's not the case."
+
+132
+00:09:55,720 --> 00:09:58,806
+"If every person grows smarter,
+and we work together,
+
+133
+00:09:59,307 --> 00:10:02,476
+then someday, we can surely create a world
+
+134
+00:10:02,560 --> 00:10:05,062
+where no one suffers,
+and we all live comfortably."
+
+135
+00:10:05,563 --> 00:10:08,524
+"That's the reason we learn," he said.
+
+136
+00:10:09,775 --> 00:10:12,778
+He was fortunate to earn praise
+from a village elder
+
+137
+00:10:12,862 --> 00:10:15,740
+who was impressed with his attitude.
+
+138
+00:10:16,657 --> 00:10:19,952
+He was allowed to read books
+most commoners never see.
+
+139
+00:10:21,037 --> 00:10:24,874
+He brought all the books home,
+no matter what the subject.
+
+140
+00:10:25,750 --> 00:10:27,460
+{\an8}At that time, my father
+
+141
+00:10:27,960 --> 00:10:32,214
+{\an8}could never have imagined
+it would be the root of his demise.
+
+142
+00:10:34,091 --> 00:10:38,721
+In any case, that's why
+I learned to read at an early age.
+
+143
+00:10:39,221 --> 00:10:42,141
+We also had an astrolabe at home,
+
+144
+00:10:42,642 --> 00:10:45,645
+and I would record
+observations with it every night.
+
+145
+00:10:46,771 --> 00:10:49,231
+You enjoyed observing the heavens?
+
+146
+00:10:52,943 --> 00:10:55,279
+Yes, back then I did.
+
+147
+00:10:58,866 --> 00:11:02,536
+{\an8}<i>In those days, I was practically
+obsessed with the night sky.</i>
+
+148
+00:11:03,537 --> 00:11:05,623
+<i>Like a fool, I never tired of it.</i>
+
+149
+00:11:05,706 --> 00:11:07,333
+<i>I gazed upward every night.</i>
+
+150
+00:11:08,125 --> 00:11:10,127
+<i>I can't explain why,</i>
+
+151
+00:11:10,628 --> 00:11:11,712
+<i>but somehow,</i>
+
+152
+00:11:12,213 --> 00:11:14,173
+<i>it stirred my heart.</i>
+
+153
+00:11:18,636 --> 00:11:21,222
+Father! I made a surprising discovery!
+
+154
+00:11:22,598 --> 00:11:23,474
+What is it?
+
+155
+00:11:23,557 --> 00:11:25,935
+To the north, right above us,
+
+156
+00:11:26,018 --> 00:11:28,229
+there's a star that never moves!
+
+157
+00:11:28,979 --> 00:11:30,022
+Is that so?
+
+158
+00:11:30,106 --> 00:11:32,858
+That's the one they call Polaris.
+
+159
+00:11:32,942 --> 00:11:34,610
+Polaris?
+
+160
+00:11:35,778 --> 00:11:37,113
+Tell me then, my son.
+
+161
+00:11:38,114 --> 00:11:40,700
+What use does that discovery serve?
+
+162
+00:11:41,742 --> 00:11:42,576
+Huh?
+
+163
+00:11:44,120 --> 00:11:46,622
+For example, a star that doesn't move
+
+164
+00:11:47,373 --> 00:11:51,752
+is very useful for navigation,
+like a map of the sky.
+
+165
+00:11:52,795 --> 00:11:54,046
+It's only when
+
+166
+00:11:54,130 --> 00:11:57,758
+discoveries are useful in that way
+that they have meaning.
+
+167
+00:11:58,467 --> 00:12:00,386
+Without that, they're a waste.
+
+168
+00:12:00,886 --> 00:12:03,180
+You should always be aware of that.
+
+169
+00:12:05,683 --> 00:12:06,600
+Still,
+
+170
+00:12:07,893 --> 00:12:10,104
+you did well to discover that, my son.
+
+171
+00:12:10,688 --> 00:12:11,772
+I'm proud of you.
+
+172
+00:12:15,526 --> 00:12:17,361
+Do you enjoy studying?
+
+173
+00:12:17,862 --> 00:12:19,655
+Yes, Father.
+
+174
+00:12:19,739 --> 00:12:21,115
+What do you want to know?
+
+175
+00:12:25,077 --> 00:12:27,413
+Well... everything.
+
+176
+00:12:30,166 --> 00:12:32,376
+The night sky always surprises me!
+
+177
+00:12:32,877 --> 00:12:35,296
+Why are there stars up there?
+
+178
+00:12:35,379 --> 00:12:37,381
+Why do they only come out at night?
+
+179
+00:12:37,882 --> 00:12:40,050
+How many are there? Where are they?
+
+180
+00:12:40,134 --> 00:12:42,762
+When did they appear? And for how long?
+
+181
+00:12:42,845 --> 00:12:45,139
+In the first place, what are stars?
+
+182
+00:12:45,222 --> 00:12:47,016
+There's so much I want to know!
+
+183
+00:12:47,516 --> 00:12:50,186
+And why do you want to know?
+
+184
+00:12:50,269 --> 00:12:51,228
+{\an8}What?
+
+185
+00:12:54,899 --> 00:12:57,359
+I don't know why.
+
+186
+00:12:58,694 --> 00:13:00,988
+But I can feel it in my heart.
+
+187
+00:13:01,572 --> 00:13:03,115
+I want to know.
+
+188
+00:13:03,949 --> 00:13:06,285
+It's your own desire, then?
+
+189
+00:13:06,368 --> 00:13:07,203
+Huh?
+
+190
+00:13:08,913 --> 00:13:09,914
+My son.
+
+191
+00:13:10,414 --> 00:13:13,209
+From now on, whenever you learn
+
+192
+00:13:13,292 --> 00:13:15,211
+or feel the desire to know,
+
+193
+00:13:15,795 --> 00:13:17,546
+remember this.
+
+194
+00:13:20,549 --> 00:13:21,842
+You must doubt.
+
+195
+00:13:23,302 --> 00:13:26,263
+Doubt your own knowledge,
+conventional wisdom,
+
+196
+00:13:26,764 --> 00:13:28,307
+and even motives and means.
+
+197
+00:13:29,517 --> 00:13:32,019
+The pursuit of knowledge
+can grow beyond control.
+
+198
+00:13:32,728 --> 00:13:35,231
+It can become an incurable monster
+
+199
+00:13:35,731 --> 00:13:39,610
+that can bring
+irreversible change to the world.
+
+200
+00:13:41,070 --> 00:13:43,614
+Take time to doubt the path you're on,
+
+201
+00:13:44,114 --> 00:13:47,034
+and if it doesn't serve humankind,
+then go no further.
+
+202
+00:13:50,329 --> 00:13:52,873
+But if you still want to learn,
+
+203
+00:13:53,666 --> 00:13:56,377
+I'll arrange a tutor just for you.
+
+204
+00:13:56,460 --> 00:13:59,004
+Y-You mean it?
+
+205
+00:13:59,839 --> 00:14:00,673
+Yes.
+
+206
+00:14:01,173 --> 00:14:03,843
+This isn't something just anyone can have.
+
+207
+00:14:04,969 --> 00:14:07,429
+You must show proper gratitude to God.
+
+208
+00:14:12,726 --> 00:14:14,895
+That's when I met him.
+
+209
+00:14:16,397 --> 00:14:17,523
+My teacher.
+
+210
+00:14:18,899 --> 00:14:20,150
+Albert,
+
+211
+00:14:21,151 --> 00:14:25,614
+this is the tutor I told you about before.
+
+212
+00:14:28,742 --> 00:14:30,244
+His name is Rafal.
+
+213
+00:14:34,999 --> 00:14:36,834
+{\an8}ORB: ON THE MOVEMENTS OF THE EARTH
+
+214
+00:14:36,917 --> 00:14:37,751
+{\an8}<i>Orb.</i>
+
+215
+00:14:43,215 --> 00:14:44,300
+Let's see.
+
+216
+00:14:44,383 --> 00:14:45,551
+You were close.
+
+217
+00:14:45,634 --> 00:14:47,845
+Maybe this one was a little too hard.
+
+218
+00:14:50,139 --> 00:14:53,851
+Okay, this is a good place
+to take a break.
+
+219
+00:14:53,934 --> 00:14:55,060
+R-Right.
+
+220
+00:14:57,646 --> 00:14:59,231
+By the way,
+
+221
+00:14:59,315 --> 00:15:01,442
+I saw an astrolabe in your room.
+
+222
+00:15:01,942 --> 00:15:03,193
+Do you stargaze?
+
+223
+00:15:03,277 --> 00:15:04,612
+Uh, yes.
+
+224
+00:15:05,112 --> 00:15:07,406
+I keep a record every day.
+
+225
+00:15:07,907 --> 00:15:09,450
+That's excellent.
+
+226
+00:15:09,533 --> 00:15:11,911
+Do you like to gaze at the stars too?
+
+227
+00:15:13,454 --> 00:15:15,497
+I wouldn't say I "like" it.
+
+228
+00:15:20,377 --> 00:15:21,545
+I love it.
+
+229
+00:15:24,423 --> 00:15:27,217
+I was born in somewhat
+special circumstances.
+
+230
+00:15:27,718 --> 00:15:29,178
+I had no parents.
+
+231
+00:15:30,679 --> 00:15:33,390
+Fortunately, I was taken in by a scholar,
+
+232
+00:15:33,474 --> 00:15:35,643
+and I had an affluent lifestyle.
+
+233
+00:15:36,143 --> 00:15:38,687
+But I'd be lying
+if I said I wasn't lonely.
+
+234
+00:15:39,813 --> 00:15:41,315
+It was the stars
+
+235
+00:15:41,398 --> 00:15:43,359
+that saved me then.
+
+236
+00:15:45,194 --> 00:15:46,236
+As for why,
+
+237
+00:15:46,737 --> 00:15:49,698
+I realized something one day
+while I gazed at the sky.
+
+238
+00:15:50,908 --> 00:15:53,077
+{\an8}I realized that a world exists
+
+239
+00:15:53,160 --> 00:15:55,079
+{\an8}beyond our own.
+
+240
+00:15:57,581 --> 00:15:59,333
+We're not alone.
+
+241
+00:15:59,833 --> 00:16:02,044
+The feeling excited me.
+
+242
+00:16:03,212 --> 00:16:04,171
+What's more,
+
+243
+00:16:04,254 --> 00:16:06,757
+all the stars occupy the same sky.
+
+244
+00:16:07,424 --> 00:16:10,719
+We must be connected by something bigger.
+
+245
+00:16:11,220 --> 00:16:14,056
+Connected by some form of truth.
+
+246
+00:16:16,350 --> 00:16:18,978
+I decided to live on
+and find out what that is.
+
+247
+00:16:23,273 --> 00:16:26,110
+- But I...
+- Huh?
+
+248
+00:16:26,193 --> 00:16:29,863
+I don't have any big goals like that.
+
+249
+00:16:30,364 --> 00:16:35,160
+The records I make
+aren't useful for anything.
+
+250
+00:16:36,286 --> 00:16:38,163
+They can't help anyone
+
+251
+00:16:38,664 --> 00:16:40,582
+or serve the faith.
+
+252
+00:16:41,083 --> 00:16:43,544
+That means they're meaningless.
+
+253
+00:16:44,044 --> 00:16:45,379
+Meaningless?
+
+254
+00:16:46,005 --> 00:16:48,465
+So then, why keep records every day?
+
+255
+00:16:48,549 --> 00:16:51,969
+Well, I don't know why.
+
+256
+00:16:52,636 --> 00:16:54,888
+{\an8}I just want to know...
+
+257
+00:16:55,556 --> 00:16:59,727
+But I can't keep doing it
+for selfish reasons like that.
+
+258
+00:17:01,311 --> 00:17:04,356
+Albert, take a look at Sagittarius.
+
+259
+00:17:04,940 --> 00:17:07,568
+Huh? Sagittarius?
+
+260
+00:17:07,651 --> 00:17:09,111
+What is that?
+
+261
+00:17:09,194 --> 00:17:12,573
+You made observations
+without knowing the constellations?
+
+262
+00:17:13,073 --> 00:17:15,242
+That's pretty bold for a child.
+
+263
+00:17:15,951 --> 00:17:18,454
+In that case, follow my finger.
+
+264
+00:17:21,415 --> 00:17:23,250
+Over there is his head.
+
+265
+00:17:23,959 --> 00:17:25,753
+And there is his bow.
+
+266
+00:17:26,420 --> 00:17:27,921
+This is his torso.
+
+267
+00:17:28,714 --> 00:17:30,466
+The last point here
+
+268
+00:17:30,549 --> 00:17:32,217
+is where we draw his legs.
+
+269
+00:17:40,809 --> 00:17:41,769
+What do you think?
+
+270
+00:17:41,852 --> 00:17:44,897
+Doesn't it look like
+a centaur with a bow and arrow?
+
+271
+00:17:46,482 --> 00:17:47,649
+No.
+
+272
+00:17:48,776 --> 00:17:51,862
+It doesn't?
+Well, it is a bit of a stretch.
+
+273
+00:17:52,362 --> 00:17:53,989
+S-Sorry.
+
+274
+00:17:55,157 --> 00:17:57,951
+Even so, isn't it easier to remember now?
+
+275
+00:17:59,495 --> 00:18:02,081
+If you draw connections
+between disorderly points,
+
+276
+00:18:02,581 --> 00:18:06,293
+you'll see things
+that you didn't see before.
+
+277
+00:18:12,257 --> 00:18:14,343
+How do people come up with such things?
+
+278
+00:18:14,843 --> 00:18:17,471
+Just how do our powers of reason work?
+
+279
+00:18:18,514 --> 00:18:22,851
+In Ancient Greece, the constellations
+were associated with myths.
+
+280
+00:18:23,352 --> 00:18:26,355
+Each one has a different story.
+
+281
+00:18:26,855 --> 00:18:30,776
+Sagittarius is associated
+with Chiron, the centaur sage.
+
+282
+00:18:32,528 --> 00:18:34,279
+A sage is an explorer.
+
+283
+00:18:35,155 --> 00:18:36,782
+They never bow to challenges
+
+284
+00:18:37,282 --> 00:18:40,536
+and passionately pursue universal truths.
+
+285
+00:18:41,537 --> 00:18:44,706
+Do you understand how that feels?
+
+286
+00:18:45,749 --> 00:18:47,793
+Don't the stars make you feel it too?
+
+287
+00:18:49,461 --> 00:18:50,838
+<i>Thaumazein</i>.
+
+288
+00:18:53,549 --> 00:18:54,925
+<i>Thaumazein?</i>
+
+289
+00:18:56,051 --> 00:18:59,304
+Yes, according to
+the ancient philosophers,
+
+290
+00:18:59,805 --> 00:19:02,182
+philosophy begins with wonder.
+
+291
+00:19:04,226 --> 00:19:09,773
+We feel it when our bodies shudder
+in response to the beauty of the universe
+
+292
+00:19:10,691 --> 00:19:15,571
+and when our spirit compels us
+to get closer to that beauty.
+
+293
+00:19:16,738 --> 00:19:17,573
+In other words,
+
+294
+00:19:18,949 --> 00:19:21,326
+it's the urge to stop and question.
+
+295
+00:19:24,705 --> 00:19:26,373
+God created this world,
+
+296
+00:19:26,874 --> 00:19:29,084
+and humankind seeks to understand it.
+
+297
+00:19:30,377 --> 00:19:33,463
+I know of no nobler desire.
+
+298
+00:19:35,591 --> 00:19:37,301
+To succeed in that quest,
+
+299
+00:19:37,801 --> 00:19:39,344
+I'll pay any price.
+
+300
+00:19:41,388 --> 00:19:44,099
+Even if that price is life.
+
+301
+00:19:49,980 --> 00:19:51,565
+I'll gladly toss it aside.
+
+302
+00:19:55,569 --> 00:19:57,988
+You said you were worried, right?
+
+303
+00:19:59,281 --> 00:20:03,160
+You don't know
+if what you're doing is useful.
+
+304
+00:20:03,702 --> 00:20:07,539
+You also said
+that the vague desire to learn
+
+305
+00:20:08,207 --> 00:20:11,126
+is meaningless and wrong.
+
+306
+00:20:12,544 --> 00:20:14,046
+In response,
+
+307
+00:20:14,129 --> 00:20:17,591
+I'm going to say something
+quite inappropriate.
+
+308
+00:20:19,426 --> 00:20:24,264
+The idea that knowledge must be useful
+to other people or to society
+
+309
+00:20:24,348 --> 00:20:25,224
+is nonsense.
+
+310
+00:20:27,226 --> 00:20:28,894
+Do it because you want to know.
+
+311
+00:20:29,603 --> 00:20:30,812
+That's all that matters.
+
+312
+00:20:32,272 --> 00:20:34,191
+And then, Albert,
+
+313
+00:20:34,691 --> 00:20:36,360
+remember this.
+
+314
+00:20:37,486 --> 00:20:41,198
+When it comes to the pursuit of truth,
+one thing is most important.
+
+315
+00:20:43,200 --> 00:20:44,243
+You must believe.
+
+316
+00:20:47,454 --> 00:20:49,164
+In your intuition,
+
+317
+00:20:49,665 --> 00:20:51,333
+in the beauty of this world.
+
+318
+00:20:52,668 --> 00:20:54,419
+No matter what happens,
+
+319
+00:20:54,920 --> 00:20:57,214
+I'll never criticize your curiosity.
+
+320
+00:21:01,760 --> 00:21:03,553
+I've talked for too long.
+
+321
+00:21:03,637 --> 00:21:05,973
+Let's move on to the next lesson.
+
+322
+00:21:06,056 --> 00:21:07,975
+I guess we'll try algebra now.
+
+323
+00:21:08,475 --> 00:21:09,893
+- Excuse me.
+- Huh?
+
+324
+00:21:09,977 --> 00:21:13,897
+Are there other constellations too?
+
+325
+00:21:14,481 --> 00:21:15,565
+How many?
+
+326
+00:21:16,066 --> 00:21:17,317
+What kind?
+
+327
+00:21:17,985 --> 00:21:21,655
+If you don't mind,
+would you teach me more next time?
+
+328
+00:21:23,532 --> 00:21:25,492
+Yes, of course.
+
+329
+00:21:29,454 --> 00:21:30,789
+This is astonishing.
+
+330
+00:21:30,872 --> 00:21:33,583
+You've improved so much.
+
+331
+00:21:33,667 --> 00:21:34,876
+It's remarkable.
+
+332
+00:21:35,377 --> 00:21:37,921
+You've even mastered quadrature.
+
+333
+00:21:39,214 --> 00:21:40,215
+Thanks.
+
+334
+00:21:41,675 --> 00:21:43,051
+Did something change?
+
+335
+00:21:44,219 --> 00:21:47,222
+Well, it's like...
+
+336
+00:21:48,223 --> 00:21:50,142
+After what you told me,
+
+337
+00:21:50,642 --> 00:21:52,644
+I realized that mastering numbers
+
+338
+00:21:52,728 --> 00:21:55,564
+would bring me closer
+to the secrets of the cosmos.
+
+339
+00:21:56,606 --> 00:21:58,483
+When I thought that,
+
+340
+00:21:58,567 --> 00:22:00,569
+it's like the urge
+to learn came naturally.
+
+341
+00:22:01,153 --> 00:22:02,571
+That's wonderful.
+
+342
+00:22:03,780 --> 00:22:07,367
+Actually, there's a small meeting
+happening tomorrow.
+
+343
+00:22:07,868 --> 00:22:10,495
+Others who share
+the same motivation will gather.
+
+344
+00:22:14,583 --> 00:22:18,420
+The group's creed is
+"the free pursuit of truth."
+
+345
+00:22:18,920 --> 00:22:21,048
+It doesn't matter what you study.
+
+346
+00:22:21,131 --> 00:22:24,259
+All sorts of ideas and opinions
+are shared there.
+
+347
+00:22:24,760 --> 00:22:29,139
+You can even experiment with thoughts
+that would be dangerous elsewhere.
+
+348
+00:22:30,223 --> 00:22:32,267
+It's really inspiring.
+
+349
+00:22:34,061 --> 00:22:35,562
+How about it?
+
+350
+00:22:35,645 --> 00:22:37,439
+You're very young,
+
+351
+00:22:37,522 --> 00:22:39,358
+but you seem to have what it takes.
+
+352
+00:22:39,441 --> 00:22:41,485
+Will you attend?
+
+353
+00:22:43,362 --> 00:22:44,363
+Huh?
+
+354
+00:22:45,030 --> 00:22:46,114
+You mean it?
+
+355
+00:22:46,198 --> 00:22:48,116
+I d-definitely want to go!
+
+356
+00:22:48,700 --> 00:22:50,952
+Yeah? I'm glad.
+
+357
+00:22:52,371 --> 00:22:55,040
+In that case, I'll tell your father too.
+
+358
+00:22:55,540 --> 00:22:56,958
+I hope you look forward to it.
+
+359
+00:22:57,459 --> 00:22:58,668
+I will!
+
+360
+00:23:02,297 --> 00:23:04,299
+Th-This is...
+
+361
+00:23:06,593 --> 00:23:07,427
+Yes.
+
+362
+00:23:09,471 --> 00:23:13,350
+The advancements made by Brahmagupta are...
+
+363
+00:23:13,433 --> 00:23:16,436
+I read a translation
+of Al-Khwarizmi's <i>Al-Jabr</i> and...
+
+364
+00:23:16,520 --> 00:23:20,399
+Rather than a fifth element,
+I believe aether is...
+
+365
+00:24:57,412 --> 00:25:00,957
+{\an8}Subtitle translation by: Brad Plumb
+

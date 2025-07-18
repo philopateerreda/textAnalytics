@@ -1,0 +1,797 @@
+================================================================================
+VOCABULARY LEARNING ANALYSIS
+================================================================================
+
+NEW WORDS TO LEARN:
+--------------------------------------------------------------------------------
+
+ADV words:
+----------------------------------------
+• absolutely
+• ahead
+• apart
+• approximately
+• backwards
+• currently
+• directly
+• effectively
+• equally
+• eventually
+• fairly
+• forever
+• frequently
+• generally
+• hardly
+• heavily
+• highly
+• incredibly
+• mainly
+• naturally
+• necessarily
+• obviously
+• originally
+• particularly
+• perfectly
+• personally
+• possibly
+• previously
+• properly
+• rarely
+• regularly
+• seriously
+• similarly
+• simply
+• slightly
+• specifically
+• strongly
+• successfully
+• sudden
+• surely
+• tight
+• totally
+• typically
+• ugly
+• unlikely
+• worldwide
+
+ADJ words:
+----------------------------------------
+• academic
+• advanced
+• aged
+• alcoholic
+• amazed
+• ambitious
+• annoyed
+• annoying
+• basic
+• brave
+• calm
+• careless
+• central
+• cheerful
+• chemical
+• competitive
+• complex
+• confident
+• confused
+• continuous
+• convenient
+• criminal
+• cruel
+• cultural
+• current
+• definite
+• disappointing
+• eastern
+• economic
+• educational
+• effective
+• embarrassing
+• environmental
+• equal
+• essential
+• experienced
+• familiar
+• fancy
+• fascinating
+• fashionable
+• financial
+• frightened
+• frightening
+• frozen
+• fry
+• generous
+• gentle
+• glad
+• global
+• grateful
+• guilty
+• historic
+• historical
+• honest
+• horrible
+• illegal
+• imaginary
+• immediate
+• immigrant
+• impressive
+• indirect
+• indoor
+• innocent
+• legal
+• locate
+• lonely
+• mad
+• mental
+• mild
+• native
+• net
+• northern
+• nuclear
+• obvious
+• odd
+• official
+• outdoor
+• painful
+• pale
+• peaceful
+• pleasant
+• plenty
+• poisonous
+• political
+• powerful
+• practical
+• previous
+• primary
+• private
+• proper
+• proud
+• punish
+• qualify
+• rare
+• relative
+• relaxed
+• reliable
+• religious
+• remote
+• responsible
+• retired
+• romantic
+• scan
+• scientific
+• secondary
+• sensible
+• sexual
+• sharp
+• shiny
+• shy
+• silent
+• silly
+• smart
+• smooth
+• solid
+• southern
+• spicy
+• standard
+• suitable
+• talented
+• technical
+• tiny
+• total
+• unable
+• uncomfortable
+• unemployed
+• unfair
+• unnecessary
+• unpleasant
+• upset
+• valuable
+• violent
+• western
+• worth
+
+NOUN words:
+----------------------------------------
+• access
+• accommodation
+• account
+• addition
+• advise
+• age
+• agent
+• agreement
+• alarm
+• album
+• ambition
+• analysis
+• announce
+• announcement
+• application
+• appointment
+• arrest
+• arrival
+• assignment
+• atmosphere
+• attitude
+• attraction
+• authority
+• balance
+• bank
+• basis
+• battery
+• battle
+• beauty
+• belief
+• bell
+• block
+• bomb
+• border
+• branch
+• brand
+• breath
+• breathing
+• bride
+• bubble
+• bury
+• campaign
+• campus
+• candidate
+• cap
+• captain
+• category
+• ceiling
+• celebration
+• centre
+• ceremony
+• chain
+• challenge
+• channel
+• cheat
+• chest
+• childhood
+• claim
+• clause
+• client
+• cloth
+• clue
+• coach
+• coal
+• coin
+• collection
+• commercial
+• communication
+• comparison
+• competitor
+• complaint
+• concentrate
+• conclusion
+• connection
+• consequence
+• consumer
+• contact
+• container
+• content
+• contrast
+• convince
+• costume
+• cottage
+• cotton
+• countryside
+• court
+• currency
+• curtain
+• custom
+• damage
+• decade
+• definition
+• departure
+• destination
+• determine
+• development
+• diagram
+• diamond
+• difficulty
+• dirt
+• disadvantage
+• discount
+• dislike
+• documentary
+• donate
+• doubt
+• drum
+• drunk
+• dust
+• duty
+• earthquake
+• economy
+• edge
+• editor
+• effort
+• election
+• element
+• emergency
+• emotion
+• employment
+• enemy
+• engineering
+• entertainment
+• entrance
+• entry
+• episode
+• exchange
+• excitement
+• exhibition
+• expedition
+• explosion
+• export
+• favour
+• fence
+• file
+• fitness
+• flag
+• flood
+• flour
+• flow
+• folk
+• force
+• frame
+• friendship
+• fuel
+• function
+• fur
+• garage
+• gentleman
+• ghost
+• giant
+• glove
+• grade
+• graduate
+• grain
+• growth
+• guard
+• happiness
+• headline
+• helicopter
+• horror
+• host
+• hunt
+• hurry
+• identity
+• impact
+• import
+• importance
+• impression
+• improvement
+• indoors → indoor
+• influence
+• ingredient
+• intelligence
+• intention
+• iron
+• issue
+• journal
+• judge
+• keyboard
+• kick
+• kiss
+• label
+• laboratory
+• lack
+• lay
+• layer
+• leaf
+• leather
+• leisure
+• length
+• lip
+• liquid
+• literature
+• location
+• loss
+• luxury
+• magic
+• mall
+• management
+• marketing
+• marriage
+• mess
+• mixture
+• mood
+• mud
+• murder
+• muscle
+• mystery
+• nail
+• narrative
+• nation
+• needle
+• neighbourhood
+• occasion
+• fashioned
+• operation
+• organiser
+• package
+• pan
+• passion
+• path
+• payment
+• percentage
+• performance
+• photographer
+• photography
+• pleasure
+• plot
+• poem
+• poet
+• poetry
+• poison
+• policy
+• politician
+• politics → politic
+• port
+• portrait
+• pot
+• poverty
+• powder
+• pray
+• prayer
+• prediction
+• presentation
+• press
+• pressure
+• priest
+• prince
+• princess
+• prisoner
+• producer
+• production
+• profession
+• profit
+• property
+• protest
+• punishment
+• qualification
+• queue
+• quotation
+• racing
+• reaction
+• reality
+• receipt
+• recommendation
+• reference
+• relation
+• release
+• religion
+• rent
+• reservation
+• resource
+• respect
+• responsibility
+• revise
+• risk
+• robot
+• roll
+• rope
+• safety
+• sailor
+• sample
+• sand
+• script
+• sculpture
+• security
+• seed
+• servant
+• sex
+• shelf
+• shell
+• shift
+• sight
+• signal
+• similarity
+• sink
+• software
+• soil
+• spot
+• spring
+• stadium
+• staff
+• statistic
+• statue
+• stick
+• strength
+• string
+• studio
+• stuff
+• substance
+• summary
+• supply
+• supporter
+• surface
+• swim
+• symptom
+• tail
+• talent
+• tape
+• tax
+• technique
+• tent
+• theme
+• theory
+• throat
+• tin
+• toe
+• tongue
+• trade
+• translation
+• treat
+• treatment
+• trend
+• trick
+• truth
+• tube
+• underwear
+• unemployment
+• union
+• update
+• value
+• version
+• victim
+• volunteer
+• vote
+• waste
+• weapon
+• wing
+• wonder
+• wool
+• yard
+
+VERB words:
+----------------------------------------
+• admire
+• admit
+• afford
+• aim
+• alcohol
+• analyse
+• annoy
+• apologize
+• appreciate
+• assist
+• attach
+• attract
+• bake
+• bend
+• bother
+• breathe
+• charge
+• click
+• combine
+• commit
+• conclude
+• confirm
+• confuse
+• consist
+• consume
+• decorate
+• define
+• deliver
+• determined → determine
+• disappointed → disappoint
+• divide
+• educate
+• educated → educate
+• embarrassed → embarrass
+• encourage
+• engaged → engage
+• entertain
+• escape
+• examine
+• expand
+• explore
+• fasten
+• fold
+• freeze
+• frighten
+• gather
+• generation
+• hang
+• hire
+• ignore
+• indicate
+• injure
+• injured → injure
+• invest
+• investigate
+• keen
+• limit
+• located → locate
+• measure
+• mix
+• occur
+• participate
+• persuade
+• pour
+• pretend
+• promote
+• prove
+• qualified → qualify
+• quit
+• range
+• reflect
+• reject
+• relate
+• related → relate
+• remain
+• remind
+• represent
+• require
+• retire
+• set
+• setting → set
+• shine
+• shoot
+• slice
+• spread
+• suffer
+• summarise
+• survive
+• switch
+• tend
+• translate
+• tyre
+• viewer
+• warn
+• warning → warn
+• weigh
+
+SCONJ words:
+----------------------------------------
+• despite
+• till
+
+AUX words:
+----------------------------------------
+• explode
+• highlight
+• intend
+• ought
+
+ADP words:
+----------------------------------------
+• outdoors
+• unlike
+
+CCONJ words:
+----------------------------------------
+• plus
+DATABASE STATISTICS:
+--------------------------------------------------------------------------------
+• Words in database before analysis: 1298
+• Known lemmas in text: 113
+• New lemmas found in text: 628
+• New lemmas added to database: 628
+• Total words in database after analysis: 1926
+
+TEXT ANALYSIS:
+--------------------------------------------------------------------------------
+• Sentence Count: 5
+• Paragraph Count: 1
+• Avg Sentence Length: 169.0
+• Flesch Kincaid Grade: 75.11
+• Sentiment: 0.0
+
+WORD FREQUENCY ANALYSIS:
+--------------------------------------------------------------------------------
+Showing top 50 most frequent words:
+
+Word                Count     Frequency (%)  
+---------------------------------------------
+set                 3         0.40           
+attach              2         0.26           
+cover               2         0.26           
+determine           2         0.26           
+educate             2         0.26           
+indoor              2         0.26           
+injure              2         0.26           
+lead                2         0.26           
+lie                 2         0.26           
+live                2         0.26           
+locate              2         0.26           
+qualify             2         0.26           
+relate              2         0.26           
+repeat              2         0.26           
+warn                2         0.26           
+absolutely          1         0.13           
+academic            1         0.13           
+access              1         0.13           
+accommodation       1         0.13           
+account             1         0.13           
+addition            1         0.13           
+admire              1         0.13           
+admit               1         0.13           
+advanced            1         0.13           
+advise              1         0.13           
+afford              1         0.13           
+age                 1         0.13           
+aged                1         0.13           
+agent               1         0.13           
+agreement           1         0.13           
+ahead               1         0.13           
+aim                 1         0.13           
+alarm               1         0.13           
+album               1         0.13           
+alcohol             1         0.13           
+alcoholic           1         0.13           
+alternative         1         0.13           
+amazed              1         0.13           
+ambition            1         0.13           
+ambitious           1         0.13           
+analyse             1         0.13           
+analysis            1         0.13           
+announce            1         0.13           
+announcement        1         0.13           
+annoy               1         0.13           
+annoyed             1         0.13           
+annoying            1         0.13           
+apart               1         0.13           
+apologize           1         0.13           
+application         1         0.13           
+appointment         1         0.13           
+appreciate          1         0.13           
+approximately       1         0.13           
+arrest              1         0.13           
+arrival             1         0.13           
+assignment          1         0.13           
+assist              1         0.13           
+atmosphere          1         0.13           
+attitude            1         0.13           
+attract             1         0.13           
+attraction          1         0.13           
+authority           1         0.13           
+backwards           1         0.13           
+bake                1         0.13           
+balance             1         0.13           
+bank                1         0.13           
+base                1         0.13           
+basic               1         0.13           
+basis               1         0.13           
+battery             1         0.13           
+battle              1         0.13           
+beauty              1         0.13           
+belief              1         0.13           
+bell                1         0.13           
+bend                1         0.13           
+benefit             1         0.13           
+bite                1         0.13           
+block               1         0.13           
+board               1         0.13           
+bomb                1         0.13           
+border              1         0.13           
+bother              1         0.13           
+branch              1         0.13           
+brand               1         0.13           
+brave               1         0.13           
+breath              1         0.13           
+breathe             1         0.13           
+breathing           1         0.13           
+bride               1         0.13           
+bubble              1         0.13           
+bury                1         0.13           
+calm                1         0.13           
+campaign            1         0.13           
+campus              1         0.13           
+candidate           1         0.13           
+cap                 1         0.13           
+captain             1         0.13           
+careless            1         0.13           
+river               1         0.13           
+well                1         0.13           
+
+FREQUENCY GROUPS:
+--------------------------------------------------------------------------------
+Frequency      Word Count     Examples                                          
+--------------------------------------------------------------------------------
+3              1              set
+2              14             attach, cover, determine, educate, indoor, ... (9 more)
+1              85             absolutely, academic, access, accommodation, account, ... (80 more)
