@@ -22,7 +22,6 @@
 ### python file_path  --backupDB yes --save-words yes
 ### python file_path  --backupDB yes --save-words no
 
-
 import re
 import sqlite3
 import time
@@ -96,8 +95,8 @@ class TextAnalyzer:
         """Initialize the analyzer with configuration."""
         self.config = self._load_config(config_path)
         self.db_path = Path(self.config["paths"]["db_path"])
+        self.backup_dir = None
         self.output_dir = Path(self.config["paths"]["output_dir"])
-        self.backup_dir = Path(self.config["paths"]["backup_dir"])
         self.output_format = self.config["settings"]["output_format"]
         logger.info(f"Database path set to: {self.db_path.absolute()}")
         if not str(self.db_path).startswith(self.config["paths"]["output_dir"]):
@@ -205,6 +204,8 @@ class TextAnalyzer:
             return
 
         try:
+            if self.backup_dir is None:
+                self.backup_dir = Path(self.config["paths"]["backup_dir"])
             self.backup_dir.mkdir(exist_ok=True)
             timestamp = time.strftime("%Y%m%d-%H%M%S")
             backup_file = self.backup_dir / f"{self.db_path.stem}_{timestamp}.db"
@@ -561,13 +562,14 @@ class TextAnalyzer:
             analyzed_filename: Name of the file that was analyzed (used for naming the backup)
         """
         # Create backup directory if it doesn't exist
-        backup_dir = Path("OldDBs")  # Relative path that will be mounted in Docker
-        backup_dir.mkdir(parents=True, exist_ok=True)
+        if self.backup_dir is None:
+            self.backup_dir = Path(self.config["paths"]["backup_dir"])
+        self.backup_dir.mkdir(parents=True, exist_ok=True)
         
         # Generate backup filename with timestamp and analyzed filename
         timestamp = time.strftime("%Y%m%d-%H%M%S")
         filename_stem = Path(analyzed_filename).stem  # Gets the filename without the extension
-        backup_path = backup_dir / f"text_analysis_db_{filename_stem}_{timestamp}.db"
+        backup_path = self.backup_dir / f"text_analysis_db_{filename_stem}_{timestamp}.db"
         
         try:
             # Connect to a new database file
